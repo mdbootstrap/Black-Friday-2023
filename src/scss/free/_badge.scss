@@ -1,0 +1,19 @@
+// Badge
+.badge-dot {
+  position: absolute;
+  border-radius: 4.5px;
+  height: 9px;
+  min-width: 0;
+  padding: 0;
+  width: 9px;
+  margin-left: -3px;
+  &:empty {
+    display: inline-block;
+  }
+}
+
+.badge-notification {
+  position: absolute;
+  margin-top: -5px;
+  margin-left: -5px;
+}

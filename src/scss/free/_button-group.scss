@@ -1,0 +1,50 @@
+// Button group
+
+.btn-group {
+  box-shadow: $btn-box-shadow;
+  border-radius: calc(0.25rem - 1px);
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+
+  &:hover {
+    box-shadow: $btn-hover-box-shadow;
+  }
+
+  &:focus,
+  &.focus {
+    box-shadow: $btn-focus-box-shadow;
+  }
+
+  &:active,
+  &.active {
+    box-shadow: $btn-hover-box-shadow;
+
+    &:focus {
+      box-shadow: $btn-hover-box-shadow;
+    }
+  }
+
+  &:disabled,
+  &.disabled,
+  fieldset:disabled & {
+    box-shadow: $btn-box-shadow;
+    border: 0;
+  }
+
+  > .btn {
+    box-shadow: none;
+  }
+  > .btn-group {
+    box-shadow: none;
+  }
+  > .btn-link {
+    &:first-child {
+      border-top-left-radius: 0;
+      border-bottom-left-radius: 0;
+    }
+    &:last-child {
+      border-top-right-radius: 0;
+      border-bottom-right-radius: 0;
+    }
+  }
+}

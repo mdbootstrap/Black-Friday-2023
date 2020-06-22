@@ -1,0 +1,96 @@
+// Pagination
+
+.page-link {
+  border: 0;
+  font-size: 0.9rem;
+  color: #212529;
+  background-color: transparent;
+  border: 0;
+  outline: 0;
+  transition: all 0.3s linear;
+  border-radius: 0.125rem;
+
+  &:hover {
+    color: #212529;
+  }
+
+  &:focus {
+    box-shadow: none;
+  }
+}
+
+.page-item {
+  &.active .page-link {
+    background-color: $pagination-active-bg;
+    border: 0;
+    box-shadow: $btn-box-shadow;
+    transition: all 0.2s linear;
+  }
+
+  &:first-child {
+    .page-link {
+      border-top-left-radius: 0.125rem;
+      border-bottom-left-radius: 0.125rem;
+    }
+  }
+
+  &:last-child {
+    .page-link {
+      border-top-right-radius: 0.125rem;
+      border-bottom-right-radius: 0.125rem;
+    }
+  }
+  &:not(:first-child) {
+    .page-link {
+      margin-left: 0;
+    }
+  }
+}
+
+.pagination-lg,
+.pagination-sm {
+  .page-item {
+    &:first-child .page-link {
+      border-top-left-radius: 0.125rem;
+      border-bottom-left-radius: 0.125rem;
+    }
+    &:last-child .page-link {
+      border-top-right-radius: 0.125rem;
+      border-bottom-right-radius: 0.125rem;
+    }
+  }
+}
+
+.pagination-circle {
+  .page-item {
+    &:first-child {
+      .page-link {
+        border-radius: 50%;
+      }
+    }
+
+    &:last-child {
+      .page-link {
+        border-radius: 50%;
+      }
+    }
+  }
+  .page-link {
+    border-radius: 50%;
+    padding-left: 0.841rem;
+    padding-right: 0.841rem;
+  }
+
+  &.pagination-lg {
+    .page-link {
+      padding-left: 1.399414rem;
+      padding-right: 1.399415rem;
+    }
+  }
+  &.pagination-sm {
+    .page-link {
+      padding-left: 0.696rem;
+      padding-right: 0.688rem;
+    }
+  }
+}

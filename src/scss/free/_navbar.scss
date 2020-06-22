@@ -1,0 +1,19 @@
+// Navbar
+
+.navbar {
+  // box-shadow: $box-shadow-2;
+  box-shadow: $box-shadow-3;
+}
+
+.navbar-toggler {
+  border: 0;
+
+  &:focus {
+    box-shadow: none;
+  }
+}
+
+.navbar-dark .navbar-toggler,
+.navbar-light .navbar-toggler {
+  border: 0;
+}

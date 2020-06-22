@@ -1,0 +1,11 @@
+// Functions
+
+// Dynamically change text color based on background color
+
+@function set-notification-text-color($color) {
+  @if (lightness($color) > 70) {
+    @return $gray-800;
+  } @else {
+    @return $white;
+  }
+}

@@ -1,0 +1,64 @@
+// Button variant
+
+@mixin button-variant-mdb($background) {
+  color: set-notification-text-color($background);
+  background-color: $background;
+
+  &:hover {
+    color: set-notification-text-color($background);
+    background-color: darken($background, 7.5%);
+  }
+
+  &:focus,
+  &.focus {
+    color: set-notification-text-color($background);
+    background-color: darken($background, 7.5%);
+  }
+
+  &:active,
+  &.active,
+  .show > &.dropdown-toggle {
+    color: set-notification-text-color($background);
+    background-color: darken($background, 10%);
+  }
+
+  &:disabled,
+  &.disabled {
+    color: set-notification-text-color($background);
+    background-color: $background;
+  }
+}
+
+// Button variant outline
+
+@mixin button-outline-variant-mdb($color) {
+  color: $color;
+  border-color: $color;
+
+  &:hover {
+    color: $color;
+    background-color: rgba(0, 0, 0, 0.02);
+  }
+
+  &:focus,
+  &.focus {
+    color: $color;
+    background-color: transparent;
+  }
+
+  &:active,
+  &.active,
+  &.dropdown-toggle.show {
+    color: $color;
+    background-color: transparent;
+
+    &:focus {
+      box-shadow: none;
+    }
+  }
+
+  &:disabled,
+  &.disabled {
+    color: $color;
+  }
+}

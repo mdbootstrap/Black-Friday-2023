@@ -1,0 +1,95 @@
+.form-file {
+  height: calc(1.8em + 0.33rem + 2px);
+}
+
+.form-file-input {
+  height: calc(1.8em + 0.33rem + 2px);
+
+  &:focus-within ~ .form-file-label {
+    border: none;
+    box-shadow: none;
+  }
+
+  &:focus-within ~ .form-file-label .form-file-text,
+  &:focus-within ~ .form-file-label .form-file-button {
+    border-style: solid;
+    border-color: $primary;
+    transition: all 0.2s linear;
+  }
+
+  &:focus-within ~ .form-file-label .form-file-text {
+    border-width: 2px 1px 2px 2px;
+  }
+
+  &:focus-within ~ .form-file-label .form-file-button {
+    border-width: 2px 2px 2px 1px;
+  }
+
+  &[disabled] ~ .form-file-label .form-file-text,
+  &:disabled ~ .form-file-label .form-file-text,
+  &[disabled] ~ .form-file-label .form-file-button,
+  &:disabled ~ .form-file-label .form-file-button {
+    background-color: #e9ecef;
+  }
+}
+
+.form-file-label {
+  height: calc(1.8em + 0.33rem + 2px);
+  border-color: rgba(0, 0, 0, 0.38);
+}
+
+.form-file-text {
+  padding-top: 0.33rem;
+  padding-bottom: 0.33rem;
+  border-color: #bdbdbd;
+}
+
+.form-file-button {
+  line-height: 1.5;
+  background-color: #fff;
+  border-color: #bdbdbd;
+}
+
+.form-file-sm {
+  height: calc(1.7em + 0.33rem + 2px);
+  font-size: 0.775rem;
+
+  .form-file-input {
+    height: calc(1.7em + 0.33rem + 2px);
+  }
+
+  .form-file-label {
+    height: calc(1.7em + 0.33rem + 2px);
+  }
+
+  .form-file-text,
+  .form-file-button {
+    line-height: 1.5;
+    padding-top: 0.33rem;
+    padding-bottom: 0.33rem;
+  }
+}
+
+.form-file-lg {
+  height: calc(2.315em + 0.33rem + 2px);
+  font-size: 1rem;
+
+  .form-file-input {
+    height: calc(2.315em + 0.33rem + 2px);
+  }
+
+  .form-file-label {
+    height: calc(2.315em + 0.33rem + 2px);
+  }
+
+  .form-file-text,
+  .form-file-button {
+    line-height: 2.15;
+    padding-top: 0.33rem;
+    padding-bottom: 0.33rem;
+  }
+}
+
+.form-file.test .form-file-input:focus-within ~ .form-file-label .form-file-text {
+  border-width: 2px;
+}

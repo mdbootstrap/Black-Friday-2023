@@ -1,0 +1,28 @@
+// Scrollspy
+
+.nav-pills {
+  &.menu-sidebar {
+    .nav-link {
+      font-size: 0.8rem;
+      background-color: transparent;
+      color: #262626;
+      line-height: 1.1rem;
+      padding: 0 5px;
+      font-weight: 400;
+      transition: all 0.2s ease-in-out;
+      text-transform: initial;
+      margin-top: 3px;
+      margin-bottom: 3px;
+    }
+
+    .nav-link.active,
+    .show > .nav-link {
+      background-color: transparent;
+      box-shadow: none;
+      color: $primary;
+      font-weight: 600;
+      border-left: 0.125rem solid $primary;
+      border-radius: 0;
+    }
+  }
+}

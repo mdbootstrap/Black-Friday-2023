@@ -1,0 +1,19 @@
+// Tooltip
+
+.tooltip {
+  &.show {
+    opacity: 1;
+  }
+
+  .tooltip-arrow {
+    display: none;
+  }
+}
+
+.tooltip-inner {
+  color: #fff;
+  padding: 6px 16px;
+  font-size: 14px;
+  background-color: #6d6d6d;
+  border-radius: 4px;
+}
