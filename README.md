@@ -92,6 +92,4 @@ ___
 
 <a href="https://mdbootstrap.com/docs/standard/" alt="Bootstrap 5" rel="dofollow"><img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-loaders1.gif"></a>
 
-<a href="https://mdbootstrap.com/docs/standard/" alt="Bootstrap 5" rel="dofollow"><img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-loaders2.gif"></a>
-
 <a href="https://mdbootstrap.com/docs/standard/" alt="Bootstrap 5" rel="dofollow"><img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-mdb5.jpg"></a>
