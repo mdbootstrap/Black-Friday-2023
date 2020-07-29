@@ -92,104 +92,179 @@ ___
 
 ___
 
-### Demo
-###### Simplicity and ease of use are key features of MDB 5 UI Kit. You need only one minute to install and run it.
+# Demo
+#### Simplicity and ease of use are key features of MDB 5 UI Kit. You need only one minute to install and run it.
 
-## Carousel
+### Carousel
 
-<a href="https://mdbootstrap.com/docs/standard/" alt="Bootstrap 5" rel="dofollow">
+<p>A slideshow component for cycling through elements—images or slides of text—like a carousel.</p>
+
+<a href="https://mdbootstrap.com/docs/standard/components/carousel/" alt="Bootstrap 5" rel="dofollow">
   <p align="center">
     <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-carousel.gif">
   </p>
 </a>
 
-## Buttons
+### Buttons
 
+<p>Use MDB custom button styles for actions in forms, dialogs, and more with support for multiple sizes, states, and more.</p>
 
-<a href="https://mdbootstrap.com/docs/standard/" alt="Bootstrap 5" rel="dofollow">
+<a href="https://mdbootstrap.com/docs/standard/components/buttons/" alt="Bootstrap 5" rel="dofollow">
   <p align="center">
     <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-buttons.gif">
   </p>
 </a>
 
-<a href="https://mdbootstrap.com/docs/standard/" alt="Bootstrap 5" rel="dofollow">
+<a href="https://mdbootstrap.com/docs/standard/components/buttons/" alt="Bootstrap 5" rel="dofollow">
   <p align="center">
     <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-social-buttons.png">
   </p>
 </a>
 
-<a href="https://mdbootstrap.com/docs/standard/" alt="Bootstrap 5" rel="dofollow">
+<a href="https://mdbootstrap.com/docs/standard/components/buttons/" alt="Bootstrap 5" rel="dofollow">
   <p align="center">
     <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-buttons2.png">
   </p>
 </a>
 
-
-<a href="https://mdbootstrap.com/docs/standard/" alt="Bootstrap 5" rel="dofollow">
+<a href="https://mdbootstrap.com/docs/standard/components/buttons/" alt="Bootstrap 5" rel="dofollow">
   <p align="center">
     <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-buttons-outline.gif">
   </p>
 </a>
 
 
-## Loaders
+### Spinners
 
-<a href="https://mdbootstrap.com/docs/standard/" alt="Bootstrap 5" rel="dofollow">
+<p>Indicate the loading state of a component or page with MDB spinners, built entirely with HTML, CSS, and no JavaScript.</p>
+
+<a href="https://mdbootstrap.com/docs/standard/components/spinners/" alt="Bootstrap 5" rel="dofollow">
   <p align="center">
     <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-loader.gif">
   </p>
 </a>
 
-<a href="https://mdbootstrap.com/docs/standard/" alt="Bootstrap 5" rel="dofollow">
+<a href="https://mdbootstrap.com/docs/standard/components/spinners/" alt="Bootstrap 5" rel="dofollow">
   <p align="center">
     <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-color-spinners.gif">
   </p>
 </a>
 
-## Cards
+### Cards
 
-<a href="https://mdbootstrap.com/docs/standard/" alt="Bootstrap 5" rel="dofollow">
+<p>A card is a flexible and extensible content container. It includes options for headers and footers, a wide variety of content, contextual background colors, and powerful display options.</p>
+
+<a href="https://mdbootstrap.com/docs/standard/components/cards/" alt="Bootstrap 5" rel="dofollow">
   <p align="center">
     <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-cards.png">
   </p>
 </a>
 
-## Validation
+### Validation
 
-<a href="https://mdbootstrap.com/docs/standard/" alt="Bootstrap 5" rel="dofollow">
+<p>Provide valuable, actionable feedback to your users with HTML5 form validation, via browser default behaviors or custom styles and JavaScript.</p>
+
+<a href="https://mdbootstrap.com/docs/standard/forms/validation/" alt="Bootstrap 5" rel="dofollow">
   <p align="center">
     <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-validation.gif">
   </p>
  </a>
- <a href="https://mdbootstrap.com/docs/standard/" alt="Bootstrap 5" rel="dofollow">
+ <a href="https://mdbootstrap.com/docs/standard/forms/validation/" alt="Bootstrap 5" rel="dofollow">
    <p align="center">
     <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-validation2.gif">
   </p>
  </a>
- <a href="https://mdbootstrap.com/docs/standard/" alt="Bootstrap 5" rel="dofollow">
+ <a href="https://mdbootstrap.com/docs/standard/forms/validation/" alt="Bootstrap 5" rel="dofollow">
    <p align="center">
     <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-validation3.gif">
   </p>
 </a>
 
-## Hover
+### Forms
 
-<a href="https://mdbootstrap.com/docs/standard/" alt="Bootstrap 5" rel="dofollow">
+<p>Examples and usage guidelines for form control styles, layout options, and custom components for creating a wide variety of forms.</p>
+
+ <a href="https://mdbootstrap.com/docs/standard/forms/overview/" alt="Bootstrap 5" rel="dofollow">
+   <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-forms2.gif">
+  </p>
+ </a>
+ <a href="https://mdbootstrap.com/docs/standard/forms/overview/" alt="Bootstrap 5" rel="dofollow">
+   <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-forms3.gif">
+  </p>
+</a>
+
+
+### Footer
+
+<p>A footer is an additional navigation component. It can hold links, buttons, company info, copyrights, forms, and many other elements.</p>
+
+<a href="https://mdbootstrap.com/docs/standard/navigation/footer/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-footer.png">
+  </p>
+</a>
+
+### Modal
+
+<p>Use MDB modal plugin to add dialogs to your site for lightboxes, user notifications, or completely custom content.</p>
+
+<a href="https://mdbootstrap.com/docs/standard/components/modal/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-modal.gif">
+  </p>
+</a>
+
+### Hover
+
+<p>MDB hover effect appears when the user positions the computer cursor over an element without activating it. Hover effects make a website more interactive.</p>
+
+<a href="https://mdbootstrap.com/docs/standard/content-styles/hover-effects/" alt="Bootstrap 5" rel="dofollow">
   <p align="center">
     <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-hover.gif">
   </p>
 </a>
 
-## Tabs 
+<a href="https://mdbootstrap.com/docs/standard/content-styles/hover-effects/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-hover2.png">
+  </p>
+</a>
 
-<a href="https://mdbootstrap.com/docs/standard/" alt="Bootstrap 5" rel="dofollow">
+### Tabs 
+
+<p>Tabs are quasi-navigation components which can highly improve website clarity and increase user experience.</p>
+
+<a href="https://mdbootstrap.com/docs/standard/navigation/tabs/" alt="Bootstrap 5" rel="dofollow">
   <p align="center">
     <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-tabs.gif">
   </p>
 </a>
 
-<a href="https://mdbootstrap.com/docs/standard/" alt="Bootstrap 5" rel="dofollow">
+<a href="https://mdbootstrap.com/docs/standard/navigation/tabs/" alt="Bootstrap 5" rel="dofollow">
   <p align="center">
     <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-tabs2.gif">
   </p>
 </a>
+
+### Notes
+
+<p>Notes are small components very helpful in inserting an additional piece of information.</p>
+
+<a href="https://mdbootstrap.com/docs/standard/content-styles/typography/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-alerts.png">
+  </p>
+</a>
+
+### ScrollSpy
+
+<p>Automatically update Bootstrap navigation or list group components based on scroll position to indicate which link is currently active in the viewport.</p>
+
+<a href="https://mdbootstrap.com/docs/standard/navigation/scrollspy/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-scrollspy.gif">
+  </p>
+</a>
+
