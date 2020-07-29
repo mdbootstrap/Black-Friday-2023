@@ -268,3 +268,180 @@ ___
   </p>
 </a>
 
+-----------------------------
+
+# MDB 5 Templates
+
+<p>All the templates were created with MDB 5 UI KIT (Material Design for Bootstrap 5).</p>
+
+<p>MDB is a free (MIT license) library, that provides extra features and significantly extends Bootstrap's capabilities.</p>
+
+<table>
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://mdbgo.dev/ascensus/MDB5-templates/ecommerce.html" alt="Bootstrap 5" rel="dofollow">
+          <img src="https://mdbootstrap.com/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/general/templates/assets/ecommerce.jpg">
+        </a>
+        <p align="center"><b>Ecommerce</b></p>
+      <td>
+        <a href="https://mdbgo.dev/ascensus/MDB5-templates/full-carousel-cover.html" alt="Bootstrap 5" rel="dofollow">
+          <img src="https://mdbootstrap.com/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/general/templates/assets/full-carousel-cover.jpg">
+        </a>
+        <p align="center"><b>Carousel Full Cover</b></p>
+    </tr>
+   </tbody>
+
+
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://mdbgo.dev/ascensus/MDB5-templates/full-image-cover.html" alt="Bootstrap 5" rel="dofollow">
+          <img src="https://mdbootstrap.com/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/general/templates/assets/full-image-cover.jpg">
+        </a>
+        <p align="center"><b>Image Full Cover</b></p>
+      <td>
+        <a href="https://mdbgo.dev/ascensus/MDB5-templates/portfolio.html" alt="Bootstrap 5" rel="dofollow">
+          <img src="https://mdbootstrap.com/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/general/templates/assets/portfolio.jpg">
+        </a>
+        <p align="center"><b>Portfolio</b></p>
+    </tr>
+   </tbody>
+
+
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://mdbgo.dev/ascensus/MDB5-templates/post.html" alt="Bootstrap 5" rel="dofollow">
+          <img src="https://mdbootstrap.com/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/general/templates/assets/post.jpg">
+        </a>
+        <p align="center"><b>Post</b></p>
+      <td>
+        <a href="https://mdbgo.dev/ascensus/MDB5-templates/pricing.html" alt="Bootstrap 5" rel="dofollow">
+          <img src="https://mdbootstrap.com/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/general/templates/assets/pricing.jpg">
+        </a>
+        <p align="center"><b>Pricing</b></p>
+    </tr>
+   </tbody>
+
+
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://mdbgo.dev/ascensus/MDB5-templates/full-video-cover.html" alt="Bootstrap 5" rel="dofollow">
+          <img src="https://mdbootstrap.com/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/general/templates/assets/full-video-cover.jpg">
+        </a>
+        <p align="center"><b>Video Full Cover</b></p>
+      <td>
+        <a href="https://mdbgo.dev/ascensus/MDB5-templates/half-carousel-cover.html" alt="Bootstrap 5" rel="dofollow">
+          <img src="https://mdbootstrap.com/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/general/templates/assets/half-carousel-cover.jpg">
+        </a>
+        <p align="center"><b>Carousel Half Cover</b></p>
+    </tr>
+   </tbody>
+
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://mdbgo.dev/ascensus/MDB5-templates/half-video-cover.html" alt="Bootstrap 5" rel="dofollow">
+          <img src="https://mdbootstrap.com/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/general/templates/assets/half-video-cover.jpg">
+        </a>
+        <p align="center"><b>Video Half Cover</b></p>
+      <td>
+        <a href="https://mdbgo.dev/ascensus/MDB5-templates/login.html" alt="Bootstrap 5" rel="dofollow">
+          <img src="https://mdbootstrap.com/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/general/templates/assets/login.jpg">
+        </a>
+        <p align="center"><b>Login</b></p>
+    </tr>
+   </tbody>
+
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://mdbgo.dev/ascensus/MDB5-templates/magazine.html" alt="Bootstrap 5" rel="dofollow">
+          <img src="https://mdbootstrap.com/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/general/templates/assets/magazine.jpg">
+        </a>
+        <p align="center"><b>Mgazine</b></p>
+      <td>
+        <a href="https://mdbgo.dev/ascensus/MDB5-templates/checkout.html" alt="Bootstrap 5" rel="dofollow">
+          <img src="https://mdbootstrap.com/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/general/templates/assets/checkout.jpg">
+        </a>
+        <p align="center"><b>Checkout</b></p>
+    </tr>
+   </tbody>
+
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://mdbgo.dev/ascensus/MDB5-templates/blog.html" alt="Bootstrap 5" rel="dofollow">
+          <img src="https://mdbootstrap.com/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/general/templates/assets/blog.jpg">
+          <p align="center"><b>Blog</b></p>
+        </a>
+      <td>
+        <a href="https://mdbgo.dev/ascensus/MDB5-templates/product.html" alt="Bootstrap 5" rel="dofollow">
+          <img src="https://mdbootstrap.com/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/general/templates/assets/product.jpg">
+        </a>
+        <p align="center"><b>Product</b></p>
+    </tr>
+   </tbody>
+
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://mdbgo.dev/ascensus/MDB5-templates/category.html" alt="Bootstrap 5" rel="dofollow">
+          <img src="https://mdbootstrap.com/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/general/templates/assets/category.jpg">
+          <p align="center"><b>Category</b></p>
+        </a>
+      <td>
+        <a href="https://mdbgo.dev/ascensus/MDB5-templates/landing-page.html" alt="Bootstrap 5" rel="dofollow">
+          <img src="https://mdbootstrap.com/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/general/templates/assets/landing-page.jpg">
+        </a>
+        <p align="center"><b>Landing Page</b></p>
+    </tr>
+   </tbody>
+
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://mdbgo.dev/ascensus/MDB5-templates/admin.html" alt="Bootstrap 5" rel="dofollow">
+          <img src="https://mdbootstrap.com/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/general/templates/assets/admin.jpg">
+        </a>
+        <p align="center"><b>Admin</b></p>
+      <td>
+        <a href="https://mdbgo.dev/ascensus/MDB5-templates/coming-soon.html" alt="Bootstrap 5" rel="dofollow">
+          <img src="https://mdbootstrap.com/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/general/templates/assets/coming-soon.jpg">
+        </a>
+        <p align="center"><b>Coming Soon</b></p>
+    </tr>
+   </tbody>
+
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://mdbgo.dev/ascensus/MDB5-templates/classic-jumbotron.html" alt="Bootstrap 5" rel="dofollow">
+          <img src="https://mdbootstrap.com/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/general/templates/assets/classic-jumbotron.jpg">
+        </a>
+        <p align="center"><b>Classic Jumbotron</b></p>
+      <td>
+        <a href="https://mdbgo.dev/ascensus/MDB5-templates/one-column.html" alt="Bootstrap 5" rel="dofollow">
+          <img src="https://mdbootstrap.com/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/general/templates/assets/one-column.jpg">
+        </a>
+        <p align="center"><b>One Column</b></p>
+    </tr>
+   </tbody>
+
+  <tbody>
+    <tr>
+      <td>
+        <a href="https://mdbgo.dev/ascensus/MDB5-templates/two-columns.html" alt="Bootstrap 5" rel="dofollow">
+          <img src="https://mdbootstrap.com/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/general/templates/assets/two-columns.jpg">
+        </a>
+        <p align="center"><b>Two Columns</b></p>
+      <td>
+        <a href="https://mdbgo.dev/ascensus/MDB5-templates/three-columns.html" alt="Bootstrap 5" rel="dofollow">
+          <img src="https://mdbootstrap.com/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/general/templates/assets/three-columns.jpg">
+        </a>
+        <p align="center"><b>Three Columns</b></p>
+  </tr>
+   </tbody>
+</table>
