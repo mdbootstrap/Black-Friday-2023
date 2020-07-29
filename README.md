@@ -95,6 +95,101 @@ ___
 ### Demo
 ###### Simplicity and ease of use are key features of MDB 5 UI Kit. You need only one minute to install and run it.
 
-<a href="https://mdbootstrap.com/docs/standard/" alt="Bootstrap 5" rel="dofollow"><img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-loaders1.gif"></a>
+## Carousel
 
-<a href="https://mdbootstrap.com/docs/standard/" alt="Bootstrap 5" rel="dofollow"><img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-mdb5.jpg"></a>
+<a href="https://mdbootstrap.com/docs/standard/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-carousel.gif">
+  </p>
+</a>
+
+## Buttons
+
+
+<a href="https://mdbootstrap.com/docs/standard/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-buttons.gif">
+  </p>
+</a>
+
+<a href="https://mdbootstrap.com/docs/standard/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-social-buttons.png">
+  </p>
+</a>
+
+<a href="https://mdbootstrap.com/docs/standard/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-buttons2.png">
+  </p>
+</a>
+
+
+<a href="https://mdbootstrap.com/docs/standard/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-buttons-outline.gif">
+  </p>
+</a>
+
+
+## Loaders
+
+<a href="https://mdbootstrap.com/docs/standard/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-loader.gif">
+  </p>
+</a>
+
+<a href="https://mdbootstrap.com/docs/standard/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-color-spinners.gif">
+  </p>
+</a>
+
+## Cards
+
+<a href="https://mdbootstrap.com/docs/standard/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-cards.png">
+  </p>
+</a>
+
+## Validation
+
+<a href="https://mdbootstrap.com/docs/standard/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-validation.gif">
+  </p>
+ </a>
+ <a href="https://mdbootstrap.com/docs/standard/" alt="Bootstrap 5" rel="dofollow">
+   <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-validation2.gif">
+  </p>
+ </a>
+ <a href="https://mdbootstrap.com/docs/standard/" alt="Bootstrap 5" rel="dofollow">
+   <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-validation3.gif">
+  </p>
+</a>
+
+## Hover
+
+<a href="https://mdbootstrap.com/docs/standard/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-hover.gif">
+  </p>
+</a>
+
+## Tabs 
+
+<a href="https://mdbootstrap.com/docs/standard/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-tabs.gif">
+  </p>
+</a>
+
+<a href="https://mdbootstrap.com/docs/standard/" alt="Bootstrap 5" rel="dofollow">
+  <p align="center">
+    <img src="https://mdbootstrap.com/img/Marketing/campaigns/demo-tabs2.gif">
+  </p>
+</a>
