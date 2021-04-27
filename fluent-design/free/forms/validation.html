@@ -1,0 +1,1444 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <title>Material Design for Bootstrap</title>
+    <!-- MDB icon -->
+    <link rel="icon" href="../../img/mdb-favicon.ico" type="image/x-icon" />
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" />
+    <!-- Google Fonts Roboto -->
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
+    />
+    <!-- MDB -->
+    <link rel="stylesheet" href="../../css/mdb.min.css" />
+    <!-- PRISM -->
+    <link rel="stylesheet" href="../../dev/css/new-prism.css" />
+    <!-- Custom styles -->
+    <style></style>
+  </head>
+
+  <body>
+    <div class="container my-5">
+      <!-- Navs -->
+      <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+        <!-- Overview tab -->
+        <li class="nav-item" role="presentation">
+          <a
+            class="nav-link active"
+            id="pills-overview-tab"
+            data-mdb-toggle="pill"
+            href="#pills-overview"
+            role="tab"
+            aria-controls="pills-overview"
+            aria-selected="true"
+            >Overview</a
+          >
+        </li>
+        <!-- Overview tab -->
+
+        <!-- Api tab -->
+        <li class="nav-item" role="presentation">
+          <a
+            class="nav-link"
+            id="pills-api-tab"
+            data-mdb-toggle="pill"
+            href="#pills-api"
+            role="tab"
+            aria-controls="pills-api"
+            aria-selected="false"
+            >API</a
+          >
+        </li>
+        <!-- Api tab -->
+      </ul>
+      <!-- Navs -->
+
+      <!-- Panels -->
+      <div class="tab-content mt-4" id="pills-tabContent">
+        <!-- Overview panel -->
+        <div
+          class="tab-pane fade show active"
+          id="pills-overview"
+          role="tabpanel"
+          aria-labelledby="pills-overview-tab"
+        >
+          <!--Grid row-->
+          <div class="row">
+            <!--Grid column-->
+            <div class="col-md-10 mb-4">
+              <!--Section: Docs content-->
+              <section>
+                <!--Section: Introduction-->
+                <section id="section-introduction">
+                  <!-- Main title -->
+                  <h2 class="h1 fw-bold">Validation</h2>
+
+                  <!-- Seo title -->
+                  <h1 class="h6">Validation - Bootstrap 5 & Material Design 2.0 forms</h1>
+
+                  <!-- Description -->
+                  <p>
+                    Provide valuable, actionable feedback to your users with HTML5 form validation,
+                    via browser default behaviors or custom styles and JavaScript.
+                  </p>
+
+                  <p class="note note-warning">
+                    <strong>Note:</strong> We currently recommend using custom validation styles, as
+                    native browser default validation messages are not consistently exposed to
+                    assistive technologies in all browsers (most notably, Chrome on desktop and
+                    mobile).
+                  </p>
+                </section>
+                <!--Section: Introduction-->
+
+                <hr class="my-5" />
+
+                <!--Section: Basic example-->
+                <section id="section-basic-example">
+                  <!-- Section title -->
+                  <h2 class="mb-4">Basic example</h2>
+
+                  <p>
+                    For custom MDB form validation messages, you’ll need to add the
+                    <code>novalidate</code> boolean attribute to your <code>&lt;form&gt;</code>.
+                    This disables the browser default feedback tooltips, but still provides access
+                    to the form validation APIs in JavaScript. Try to submit the form below; our
+                    JavaScript will intercept the submit button and relay feedback to you. When
+                    attempting to submit, you’ll see the <code>:invalid</code> and
+                    <code>:valid</code> styles applied to your form controls.
+                  </p>
+
+                  <p>
+                    Custom feedback styles apply custom colors, borders, focus styles, and
+                    background icons to better communicate feedback.
+                  </p>
+
+                  <!--Section: Demo-->
+                  <section class="border p-4 mb-4">
+                    <form class="row g-3 needs-validation" novalidate>
+                      <div class="col-md-4">
+                        <div class="form-outline">
+                          <input
+                            type="text"
+                            class="form-control"
+                            id="validationCustom01"
+                            value="Mark"
+                            required
+                          />
+                          <label for="validationCustom01" class="form-label">First name</label>
+                          <div class="valid-feedback">Looks good!</div>
+                        </div>
+                      </div>
+                      <div class="col-md-4">
+                        <div class="form-outline">
+                          <input
+                            type="text"
+                            class="form-control"
+                            id="validationCustom02"
+                            value="Otto"
+                            required
+                          />
+                          <label for="validationCustom02" class="form-label">Last name</label>
+                          <div class="valid-feedback">Looks good!</div>
+                        </div>
+                      </div>
+                      <div class="col-md-4">
+                        <div class="input-group form-outline">
+                          <span class="input-group-text" id="inputGroupPrepend">@</span>
+                          <input
+                            type="text"
+                            class="form-control"
+                            id="validationCustomUsername"
+                            aria-describedby="inputGroupPrepend"
+                            required
+                          />
+                          <label for="validationCustomUsername" class="form-label">Username</label>
+                          <div class="invalid-feedback">Please choose a username.</div>
+                        </div>
+                      </div>
+                      <div class="col-md-6">
+                        <div class="form-outline">
+                          <input
+                            type="text"
+                            class="form-control"
+                            id="validationCustom03"
+                            required
+                          />
+                          <label for="validationCustom03" class="form-label">City</label>
+                          <div class="invalid-feedback">Please provide a valid city.</div>
+                        </div>
+                      </div>
+                      <div class="col-md-6">
+                        <div class="form-outline">
+                          <input
+                            type="text"
+                            class="form-control"
+                            id="validationCustom05"
+                            required
+                          />
+                          <label for="validationCustom05" class="form-label">Zip</label>
+                          <div class="invalid-feedback">Please provide a valid zip.</div>
+                        </div>
+                      </div>
+                      <div class="col-12">
+                        <div class="form-check">
+                          <input
+                            class="form-check-input"
+                            type="checkbox"
+                            value=""
+                            id="invalidCheck"
+                            required
+                          />
+                          <label class="form-check-label" for="invalidCheck">
+                            Agree to terms and conditions
+                          </label>
+                          <div class="invalid-feedback">You must agree before submitting.</div>
+                        </div>
+                      </div>
+                      <div class="col-12">
+                        <button class="btn btn-primary" type="submit">Submit form</button>
+                      </div>
+                    </form>
+                  </section>
+                  <!--Section: Demo-->
+
+                  <!--Section: Code-->
+                  <section>
+                    <mdbsnippet>
+                      <code data-lang="html" data-name="HTML">
+                        <form class="row g-3 needs-validation" novalidate>
+                          <div class="col-md-4">
+                            <div class="form-outline">
+                              <input
+                                type="text"
+                                class="form-control"
+                                id="validationCustom01"
+                                value="Mark"
+                                required
+                              />
+                              <label for="validationCustom01" class="form-label">First name</label>
+                              <div class="valid-feedback">Looks good!</div>
+                            </div>
+                          </div>
+                          <div class="col-md-4">
+                            <div class="form-outline">
+                              <input
+                                type="text"
+                                class="form-control"
+                                id="validationCustom02"
+                                value="Otto"
+                                required
+                              />
+                              <label for="validationCustom02" class="form-label">Last name</label>
+                              <div class="valid-feedback">Looks good!</div>
+                            </div>
+                          </div>
+                          <div class="col-md-4">
+                            <div class="input-group form-outline">
+                              <span class="input-group-text" id="inputGroupPrepend">@</span>
+                              <input
+                                type="text"
+                                class="form-control"
+                                id="validationCustomUsername"
+                                aria-describedby="inputGroupPrepend"
+                                required
+                              />
+                              <label for="validationCustomUsername" class="form-label"
+                                >Username</label
+                              >
+                              <div class="invalid-feedback">Please choose a username.</div>
+                            </div>
+                          </div>
+                          <div class="col-md-6">
+                            <div class="form-outline">
+                              <input
+                                type="text"
+                                class="form-control"
+                                id="validationCustom03"
+                                required
+                              />
+                              <label for="validationCustom03" class="form-label">City</label>
+                              <div class="invalid-feedback">Please provide a valid city.</div>
+                            </div>
+                          </div>
+                          <div class="col-md-6">
+                            <div class="form-outline">
+                              <input
+                                type="text"
+                                class="form-control"
+                                id="validationCustom05"
+                                required
+                              />
+                              <label for="validationCustom05" class="form-label">Zip</label>
+                              <div class="invalid-feedback">Please provide a valid zip.</div>
+                            </div>
+                          </div>
+                          <div class="col-12">
+                            <div class="form-check">
+                              <input
+                                class="form-check-input"
+                                type="checkbox"
+                                value=""
+                                id="invalidCheck"
+                                required
+                              />
+                              <label class="form-check-label" for="invalidCheck">
+                                Agree to terms and conditions
+                              </label>
+                              <div class="invalid-feedback">You must agree before submitting.</div>
+                            </div>
+                          </div>
+                          <div class="col-12">
+                            <button class="btn btn-primary" type="submit">Submit form</button>
+                          </div>
+                        </form>
+                      </code>
+
+                      <!-- prettier-ignore -->
+                      <code data-lang="js" data-name="JavaScript">
+
+                      // Example starter JavaScript for disabling form submissions if there are invalid fields
+                      (function () {
+                      'use strict';
+
+                      // Fetch all the forms we want to apply custom Bootstrap validation styles to
+                      var forms = document.querySelectorAll('.needs-validation');
+
+                      // Loop over them and prevent submission
+                      Array.prototype.slice.call(forms).forEach(function (form) {
+                      form.addEventListener(
+                      'submit',
+                      function (event) {
+                      if (!form.checkValidity()) {
+                      event.preventDefault();
+                      event.stopPropagation();
+                      }
+
+                      form.classList.add('was-validated');
+                      },
+                      false
+                      );
+                      });
+                      })();
+
+                    </code>
+                    </mdbsnippet>
+                  </section>
+                  <!--Section: Code-->
+                </section>
+                <!--Section: Basic example-->
+
+                <hr class="my-5" />
+
+                <!--Section: How it works-->
+                <section id="section-how-it-works">
+                  <!-- Section title -->
+                  <h2 class="mb-4">How it works</h2>
+
+                  <p>Here’s how form validation works with MDB:</p>
+
+                  <ul>
+                    <li>
+                      HTML form validation is applied via CSS’s two pseudo-classes,
+                      <code>:invalid</code> and <code>:valid</code>. It applies to
+                      <code>&lt;input&gt;</code> and <code>&lt;textarea&gt;</code> elements.
+                    </li>
+                    <li>
+                      MDB scopes the <code>:invalid</code> and <code>:valid</code> styles to parent
+                      <code>.was-validated</code> class, usually applied to the
+                      <code>&lt;form&gt;</code>. Otherwise, any required field without a value shows
+                      up as invalid on page load. This way, you may choose when to activate them
+                      (typically after form submission is attempted).
+                    </li>
+                    <li>
+                      To reset the appearance of the form (for instance, in the case of dynamic form
+                      submissions using AJAX), remove the <code>.was-validated</code> class from the
+                      <code>&lt;form&gt;</code> again after submission.
+                    </li>
+                    <li>
+                      As a fallback, <code>.is-invalid</code> and <code>.is-valid</code> classes may
+                      be used instead of the pseudo-classes for
+                      <a href="#section-server-side">server-side validation</a>. They do not require
+                      a <code>.was-validated</code> parent class.
+                    </li>
+                    <li>
+                      Due to constraints in how CSS works, we cannot (at present) apply styles to a
+                      <code>&lt;label&gt;</code> that comes before a form control in the DOM without
+                      the help of custom JavaScript.
+                    </li>
+                    <li>
+                      All modern browsers support the
+                      <a
+                        href="https://www.w3.org/TR/html5/sec-forms.html#the-constraint-validation-api"
+                        >constraint validation API</a
+                      >, a series of JavaScript methods for validating form controls.
+                    </li>
+                    <li>
+                      Feedback messages may utilize the
+                      <a href="#section-browser-defaults">browser defaults</a> (different for each
+                      browser, and unstylable via CSS) or our custom feedback styles with additional
+                      HTML and CSS.
+                    </li>
+                    <li>
+                      You may provide custom validity messages with
+                      <code>setCustomValidity</code> in JavaScript.
+                    </li>
+                  </ul>
+
+                  <p>
+                    With that in mind, consider the following demos for our custom form validation
+                    styles, optional server-side classes, and browser defaults.
+                  </p>
+                </section>
+                <!--Section: How it works-->
+
+                <hr class="my-5" />
+
+                <!--Section: Browser defaults-->
+                <section id="section-browser-defaults">
+                  <!-- Section title -->
+                  <h2 class="mb-4">Browser defaults</h2>
+
+                  <p>
+                    Not interested in custom validation feedback messages or writing JavaScript to
+                    change form behaviors? All good, you can use the browser defaults. Try
+                    submitting the form below. Depending on your browser and OS, you’ll see a
+                    slightly different style of feedback.
+                  </p>
+
+                  <p>
+                    While these feedback styles cannot be styled with CSS, you can still customize
+                    the feedback text through JavaScript.
+                  </p>
+
+                  <!--Section: Demo-->
+                  <section class="border p-4 mb-4">
+                    <form class="row g-3">
+                      <div class="col-md-4">
+                        <div class="form-outline">
+                          <input
+                            type="text"
+                            class="form-control"
+                            id="validationDefault01"
+                            value="Mark"
+                            required
+                          />
+                          <label for="validationDefault01" class="form-label">First name</label>
+                        </div>
+                      </div>
+                      <div class="col-md-4">
+                        <div class="form-outline">
+                          <input
+                            type="text"
+                            class="form-control"
+                            id="validationDefault02"
+                            value="Otto"
+                            required
+                          />
+                          <label for="validationDefault02" class="form-label">Last name</label>
+                        </div>
+                      </div>
+                      <div class="col-md-4">
+                        <div class="input-group form-outline">
+                          <span class="input-group-text" id="inputGroupPrepend2">@</span>
+                          <input
+                            type="text"
+                            class="form-control"
+                            id="validationDefaultUsername"
+                            aria-describedby="inputGroupPrepend2"
+                            required
+                          />
+                          <label for="validationDefaultUsername" class="form-label">Username</label>
+                        </div>
+                      </div>
+                      <div class="col-md-6">
+                        <div class="form-outline">
+                          <input
+                            type="text"
+                            class="form-control"
+                            id="validationDefault03"
+                            required
+                          />
+                          <label for="validationDefault03" class="form-label">City</label>
+                        </div>
+                      </div>
+                      <div class="col-md-6">
+                        <div class="form-outline">
+                          <input
+                            type="text"
+                            class="form-control"
+                            id="validationDefault05"
+                            required
+                          />
+                          <label for="validationDefault05" class="form-label">Zip</label>
+                        </div>
+                      </div>
+                      <div class="col-12">
+                        <div class="form-check">
+                          <input
+                            class="form-check-input"
+                            type="checkbox"
+                            value=""
+                            id="invalidCheck2"
+                            required
+                          />
+                          <label class="form-check-label" for="invalidCheck2">
+                            Agree to terms and conditions
+                          </label>
+                        </div>
+                      </div>
+                      <div class="col-12">
+                        <button class="btn btn-primary" type="submit">Submit form</button>
+                      </div>
+                    </form>
+                  </section>
+                  <!--Section: Demo-->
+
+                  <!--Section: Code-->
+                  <section>
+                    <mdbsnippet>
+                      <code data-lang="html" data-name="HTML">
+                        <form class="row g-3">
+                          <div class="col-md-4">
+                            <div class="form-outline">
+                              <input
+                                type="text"
+                                class="form-control"
+                                id="validationDefault01"
+                                value="Mark"
+                                required
+                              />
+                              <label for="validationDefault01" class="form-label">First name</label>
+                            </div>
+                          </div>
+                          <div class="col-md-4">
+                            <div class="form-outline">
+                              <input
+                                type="text"
+                                class="form-control"
+                                id="validationDefault02"
+                                value="Otto"
+                                required
+                              />
+                              <label for="validationDefault02" class="form-label">Last name</label>
+                            </div>
+                          </div>
+                          <div class="col-md-4">
+                            <div class="input-group form-outline">
+                              <span class="input-group-text" id="inputGroupPrepend2">@</span>
+                              <input
+                                type="text"
+                                class="form-control"
+                                id="validationDefaultUsername"
+                                aria-describedby="inputGroupPrepend2"
+                                required
+                              />
+                              <label for="validationDefaultUsername" class="form-label"
+                                >Username</label
+                              >
+                            </div>
+                          </div>
+                          <div class="col-md-6">
+                            <div class="form-outline">
+                              <input
+                                type="text"
+                                class="form-control"
+                                id="validationDefault03"
+                                required
+                              />
+                              <label for="validationDefault03" class="form-label">City</label>
+                            </div>
+                          </div>
+                          <div class="col-md-6">
+                            <div class="form-outline">
+                              <input
+                                type="text"
+                                class="form-control"
+                                id="validationDefault05"
+                                required
+                              />
+                              <label for="validationDefault05" class="form-label">Zip</label>
+                            </div>
+                          </div>
+                          <div class="col-12">
+                            <div class="form-check">
+                              <input
+                                class="form-check-input"
+                                type="checkbox"
+                                value=""
+                                id="invalidCheck2"
+                                required
+                              />
+                              <label class="form-check-label" for="invalidCheck2">
+                                Agree to terms and conditions
+                              </label>
+                            </div>
+                          </div>
+                          <div class="col-12">
+                            <button class="btn btn-primary" type="submit">Submit form</button>
+                          </div>
+                        </form>
+                      </code>
+                    </mdbsnippet>
+                  </section>
+                  <!--Section: Code-->
+                </section>
+                <!--Section: Browser defaults-->
+
+                <hr class="my-5" />
+
+                <!--Section: Server side-->
+                <section id="section-server-side">
+                  <!-- Section title -->
+                  <h2 class="mb-4">Server side</h2>
+
+                  <p>
+                    We recommend using client-side validation, but in case you require server-side
+                    validation, you can indicate invalid and valid form fields with
+                    <code>.is-invalid</code> and <code>.is-valid</code>. Note that
+                    <code>.invalid-feedback</code> is also supported with these classes.
+                  </p>
+
+                  <!--Section: Demo-->
+                  <section class="border p-4 mb-4">
+                    <form class="row g-3">
+                      <div class="col-md-4">
+                        <div class="form-outline">
+                          <input
+                            type="text"
+                            class="form-control is-valid"
+                            id="validationServer01"
+                            value="Mark"
+                            required
+                          />
+                          <label for="validationServer01" class="form-label">First name</label>
+                          <div class="valid-feedback">Looks good!</div>
+                        </div>
+                      </div>
+                      <div class="col-md-4">
+                        <div class="form-outline">
+                          <input
+                            type="text"
+                            class="form-control is-valid"
+                            id="validationServer02"
+                            value="Otto"
+                            required
+                          />
+                          <label for="validationServer02" class="form-label">Last name</label>
+                          <div class="valid-feedback">Looks good!</div>
+                        </div>
+                      </div>
+                      <div class="col-md-4">
+                        <div class="input-group form-outline">
+                          <span class="input-group-text" id="inputGroupPrepend3">@</span>
+                          <input
+                            type="text"
+                            class="form-control is-invalid"
+                            id="validationServerUsername"
+                            aria-describedby="inputGroupPrepend3"
+                            required
+                          />
+                          <label for="validationServerUsername" class="form-label">Username</label>
+                          <div class="invalid-feedback">Please choose a username.</div>
+                        </div>
+                      </div>
+                      <div class="col-md-6">
+                        <div class="form-outline">
+                          <input
+                            type="text"
+                            class="form-control is-invalid"
+                            id="validationServer03"
+                            required
+                          />
+                          <label for="validationServer03" class="form-label">City</label>
+                          <div class="invalid-feedback">Please provide a valid city.</div>
+                        </div>
+                      </div>
+                      <div class="col-md-6">
+                        <div class="form-outline">
+                          <input
+                            type="text"
+                            class="form-control is-invalid"
+                            id="validationServer05"
+                            required
+                          />
+                          <label for="validationServer05" class="form-label">Zip</label>
+                          <div class="invalid-feedback">Please provide a valid zip.</div>
+                        </div>
+                      </div>
+                      <div class="col-12">
+                        <div class="form-check">
+                          <input
+                            class="form-check-input is-invalid"
+                            type="checkbox"
+                            value=""
+                            id="invalidCheck3"
+                            required
+                          />
+                          <label class="form-check-label" for="invalidCheck3">
+                            Agree to terms and conditions
+                          </label>
+                          <div class="invalid-feedback">You must agree before submitting.</div>
+                        </div>
+                      </div>
+                      <div class="col-12">
+                        <button class="btn btn-primary" type="submit">Submit form</button>
+                      </div>
+                    </form>
+                  </section>
+                  <!--Section: Demo-->
+
+                  <!--Section: Code-->
+                  <section>
+                    <mdbsnippet>
+                      <code data-lang="html" data-name="HTML">
+                        <form class="row g-3">
+                          <div class="col-md-4">
+                            <div class="form-outline">
+                              <input
+                                type="text"
+                                class="form-control is-valid"
+                                id="validationServer01"
+                                value="Mark"
+                                required
+                              />
+                              <label for="validationServer01" class="form-label">First name</label>
+                              <div class="valid-feedback">Looks good!</div>
+                            </div>
+                          </div>
+                          <div class="col-md-4">
+                            <div class="form-outline">
+                              <input
+                                type="text"
+                                class="form-control is-valid"
+                                id="validationServer02"
+                                value="Otto"
+                                required
+                              />
+                              <label for="validationServer02" class="form-label">Last name</label>
+                              <div class="valid-feedback">Looks good!</div>
+                            </div>
+                          </div>
+                          <div class="col-md-4">
+                            <div class="input-group form-outline">
+                              <span class="input-group-text" id="inputGroupPrepend3">@</span>
+                              <input
+                                type="text"
+                                class="form-control is-invalid"
+                                id="validationServerUsername"
+                                aria-describedby="inputGroupPrepend3"
+                                required
+                              />
+                              <label for="validationServerUsername" class="form-label"
+                                >Username</label
+                              >
+                              <div class="invalid-feedback">Please choose a username.</div>
+                            </div>
+                          </div>
+                          <div class="col-md-6">
+                            <div class="form-outline">
+                              <input
+                                type="text"
+                                class="form-control is-invalid"
+                                id="validationServer03"
+                                required
+                              />
+                              <label for="validationServer03" class="form-label">City</label>
+                              <div class="invalid-feedback">Please provide a valid city.</div>
+                            </div>
+                          </div>
+                          <div class="col-md-6">
+                            <div class="form-outline">
+                              <input
+                                type="text"
+                                class="form-control is-invalid"
+                                id="validationServer05"
+                                required
+                              />
+                              <label for="validationServer05" class="form-label">Zip</label>
+                              <div class="invalid-feedback">Please provide a valid zip.</div>
+                            </div>
+                          </div>
+                          <div class="col-12">
+                            <div class="form-check">
+                              <input
+                                class="form-check-input is-invalid"
+                                type="checkbox"
+                                value=""
+                                id="invalidCheck3"
+                                required
+                              />
+                              <label class="form-check-label" for="invalidCheck3">
+                                Agree to terms and conditions
+                              </label>
+                              <div class="invalid-feedback">You must agree before submitting.</div>
+                            </div>
+                          </div>
+                          <div class="col-12">
+                            <button class="btn btn-primary" type="submit">Submit form</button>
+                          </div>
+                        </form>
+                      </code>
+                    </mdbsnippet>
+                  </section>
+                  <!--Section: Code-->
+                </section>
+                <!--Section: Server side-->
+
+                <hr class="my-5" />
+
+                <!--Section: Supported elements-->
+                <section id="section-supported-elements">
+                  <!-- Section title -->
+                  <h2 class="mb-4">Supported elements</h2>
+
+                  <p>
+                    Validation styles are available for the following form controls and components:
+                  </p>
+
+                  <ul>
+                    <li>
+                      <code>&lt;input&gt;</code>s and <code>&lt;textarea&gt;</code>s with
+                      <code>.form-control</code> (including up to one <code>.form-control</code> in
+                      input groups)
+                    </li>
+                    <li><code>.form-check</code>s</li>
+                    <li><code>.form-file</code></li>
+                  </ul>
+
+                  <!--Section: Demo-->
+                  <section class="border p-4 mb-4">
+                    <form class="was-validated">
+                      <div class="mb-3 pb-1">
+                        <div class="form-outline">
+                          <textarea
+                            class="form-control is-valid"
+                            id="validationTextarea"
+                            placeholder="Required example textarea"
+                            required
+                          ></textarea>
+                          <label for="validationTextarea" class="form-label">Textarea</label>
+                          <div class="invalid-feedback">
+                            Please enter a message in the textarea.
+                          </div>
+                        </div>
+                      </div>
+                      <div class="form-check mb-3">
+                        <input
+                          type="checkbox"
+                          class="form-check-input"
+                          id="validationFormCheck1"
+                          required
+                        />
+                        <label class="form-check-label" for="validationFormCheck1"
+                          >Check this checkbox</label
+                        >
+                        <div class="invalid-feedback">Example invalid feedback text</div>
+                      </div>
+                      <div class="form-check">
+                        <input
+                          type="radio"
+                          class="form-check-input"
+                          id="validationFormCheck2"
+                          name="radio-stacked"
+                          required
+                        />
+                        <label class="form-check-label" for="validationFormCheck2"
+                          >Toggle this radio</label
+                        >
+                      </div>
+                      <div class="form-check mb-3">
+                        <input
+                          type="radio"
+                          class="form-check-input"
+                          id="validationFormCheck3"
+                          name="radio-stacked"
+                          required
+                        />
+                        <label class="form-check-label" for="validationFormCheck3"
+                          >Or toggle this other radio</label
+                        >
+                        <div class="invalid-feedback">More example invalid feedback text</div>
+                      </div>
+                      <div class="form-file">
+                        <input
+                          type="file"
+                          class="form-file-input"
+                          id="validationFormFile"
+                          required
+                        />
+                        <label class="form-file-label" for="validationFormFile">
+                          <span class="form-file-text">Choose file...</span>
+                          <span class="form-file-button">Browse</span>
+                        </label>
+                        <div class="invalid-feedback">Example invalid form file feedback</div>
+                      </div>
+                      <div>
+                        <button class="btn btn-primary" type="submit" disabled>Submit form</button>
+                      </div>
+                    </form>
+                  </section>
+                  <!--Section: Demo-->
+
+                  <!--Section: Code-->
+                  <section>
+                    <mdbsnippet>
+                      <code data-lang="html" data-name="HTML">
+                        <form class="was-validated">
+                          <div class="mb-3 pb-1">
+                            <div class="form-outline">
+                              <textarea
+                                class="form-control is-valid"
+                                id="validationTextarea"
+                                placeholder="Required example textarea"
+                                required
+                              ></textarea>
+                              <label for="validationTextarea" class="form-label">Textarea</label>
+                              <div class="invalid-feedback">
+                                Please enter a message in the textarea.
+                              </div>
+                            </div>
+                          </div>
+                          <div class="form-check mb-3">
+                            <input
+                              type="checkbox"
+                              class="form-check-input"
+                              id="validationFormCheck1"
+                              required
+                            />
+                            <label class="form-check-label" for="validationFormCheck1"
+                              >Check this checkbox</label
+                            >
+                            <div class="invalid-feedback">Example invalid feedback text</div>
+                          </div>
+                          <div class="form-check">
+                            <input
+                              type="radio"
+                              class="form-check-input"
+                              id="validationFormCheck2"
+                              name="radio-stacked"
+                              required
+                            />
+                            <label class="form-check-label" for="validationFormCheck2"
+                              >Toggle this radio</label
+                            >
+                          </div>
+                          <div class="form-check mb-3">
+                            <input
+                              type="radio"
+                              class="form-check-input"
+                              id="validationFormCheck3"
+                              name="radio-stacked"
+                              required
+                            />
+                            <label class="form-check-label" for="validationFormCheck3"
+                              >Or toggle this other radio</label
+                            >
+                            <div class="invalid-feedback">More example invalid feedback text</div>
+                          </div>
+                          <div class="form-file">
+                            <input
+                              type="file"
+                              class="form-file-input"
+                              id="validationFormFile"
+                              required
+                            />
+                            <label class="form-file-label" for="validationFormFile">
+                              <span class="form-file-text">Choose file...</span>
+                              <span class="form-file-button">Browse</span>
+                            </label>
+                            <div class="invalid-feedback">Example invalid form file feedback</div>
+                          </div>
+                          <div class="mb-3">
+                            <button class="btn btn-primary" type="submit" disabled>
+                              Submit form
+                            </button>
+                          </div>
+                        </form>
+                      </code>
+                    </mdbsnippet>
+                  </section>
+                  <!--Section: Code-->
+                </section>
+                <!--Section: Supported elements-->
+
+                <hr class="my-5" />
+
+                <!--Section: Tooltips-->
+                <section id="section-tooltips">
+                  <!-- Section title -->
+                  <h2 class="mb-4">Tooltips</h2>
+
+                  <p>
+                    If your form layout allows it, you can swap the
+                    <code>.{valid|invalid}-feedback</code> classes for
+                    <code>.{valid|invalid}-tooltip</code> classes to display validation feedback in
+                    a styled tooltip. Be sure to have a parent with
+                    <code>position: relative</code> on it for tooltip positioning. In the example
+                    below, our column classes have this already, but your project may require an
+                    alternative setup.
+                  </p>
+
+                  <!--Section: Demo-->
+                  <section class="border p-4 mb-4">
+                    <form class="row g-3 needs-validation" novalidate>
+                      <div class="col-md-4 position-relative">
+                        <div class="form-outline">
+                          <input
+                            type="text"
+                            class="form-control"
+                            id="validationTooltip01"
+                            value="Mark"
+                            required
+                          />
+                          <label for="validationTooltip01" class="form-label">First name</label>
+                          <div class="valid-tooltip">Looks good!</div>
+                        </div>
+                      </div>
+                      <div class="col-md-4 position-relative">
+                        <div class="form-outline">
+                          <input
+                            type="text"
+                            class="form-control"
+                            id="validationTooltip02"
+                            value="Otto"
+                            required
+                          />
+                          <label for="validationTooltip02" class="form-label">Last name</label>
+                          <div class="valid-tooltip">Looks good!</div>
+                        </div>
+                      </div>
+                      <div class="col-md-4 position-relative">
+                        <div class="input-group form-outline">
+                          <span class="input-group-text" id="validationTooltipUsernamePrepend"
+                            >@</span
+                          >
+                          <input
+                            type="text"
+                            class="form-control"
+                            id="validationTooltipUsername"
+                            aria-describedby="validationTooltipUsernamePrepend"
+                            required
+                          />
+                          <label for="validationTooltipUsername" class="form-label">Username</label>
+                          <div class="invalid-tooltip">
+                            Please choose a unique and valid username.
+                          </div>
+                        </div>
+                      </div>
+                      <div class="col-md-6 position-relative">
+                        <div class="form-outline">
+                          <input
+                            type="text"
+                            class="form-control"
+                            id="validationTooltip03"
+                            required
+                          />
+                          <label for="validationTooltip03" class="form-label">City</label>
+                          <div class="invalid-tooltip">Please provide a valid city.</div>
+                        </div>
+                      </div>
+                      <div class="col-md-6 position-relative">
+                        <div class="form-outline">
+                          <input
+                            type="text"
+                            class="form-control"
+                            id="validationTooltip05"
+                            required
+                          />
+                          <label for="validationTooltip05" class="form-label">Zip</label>
+                          <div class="invalid-tooltip">Please provide a valid zip.</div>
+                        </div>
+                      </div>
+                      <div class="col-12 pt-2">
+                        <button class="btn btn-primary" type="submit">Submit form</button>
+                      </div>
+                    </form>
+                  </section>
+                  <!--Section: Demo-->
+
+                  <!--Section: Code-->
+                  <section>
+                    <mdbsnippet>
+                      <code data-lang="html" data-name="HTML">
+                        <form class="row g-3 needs-validation" novalidate>
+                          <div class="col-md-4 position-relative">
+                            <div class="form-outline">
+                              <input
+                                type="text"
+                                class="form-control"
+                                id="validationTooltip01"
+                                value="Mark"
+                                required
+                              />
+                              <label for="validationTooltip01" class="form-label">First name</label>
+                              <div class="valid-tooltip">Looks good!</div>
+                            </div>
+                          </div>
+                          <div class="col-md-4 position-relative">
+                            <div class="form-outline">
+                              <input
+                                type="text"
+                                class="form-control"
+                                id="validationTooltip02"
+                                value="Otto"
+                                required
+                              />
+                              <label for="validationTooltip02" class="form-label">Last name</label>
+                              <div class="valid-tooltip">Looks good!</div>
+                            </div>
+                          </div>
+                          <div class="col-md-4 position-relative">
+                            <div class="input-group form-outline">
+                              <span class="input-group-text" id="validationTooltipUsernamePrepend"
+                                >@</span
+                              >
+                              <input
+                                type="text"
+                                class="form-control"
+                                id="validationTooltipUsername"
+                                aria-describedby="validationTooltipUsernamePrepend"
+                                required
+                              />
+                              <label for="validationTooltipUsername" class="form-label"
+                                >Username</label
+                              >
+                              <div class="invalid-tooltip">
+                                Please choose a unique and valid username.
+                              </div>
+                            </div>
+                          </div>
+                          <div class="col-md-6 position-relative">
+                            <div class="form-outline">
+                              <input
+                                type="text"
+                                class="form-control"
+                                id="validationTooltip03"
+                                required
+                              />
+                              <label for="validationTooltip03" class="form-label">City</label>
+                              <div class="invalid-tooltip">Please provide a valid city.</div>
+                            </div>
+                          </div>
+                          <div class="col-md-6 position-relative">
+                            <div class="form-outline">
+                              <input
+                                type="text"
+                                class="form-control"
+                                id="validationTooltip05"
+                                required
+                              />
+                              <label for="validationTooltip05" class="form-label">Zip</label>
+                              <div class="invalid-tooltip">Please provide a valid zip.</div>
+                            </div>
+                          </div>
+                          <div class="col-12 pt-2">
+                            <button class="btn btn-primary" type="submit">Submit form</button>
+                          </div>
+                        </form>
+                      </code>
+                    </mdbsnippet>
+                  </section>
+                  <!--Section: Code-->
+                </section>
+                <!--Section: Tooltips-->
+
+                <hr class="my-5" />
+
+                <!--Section: Customizing-->
+                <section id="section-customizing">
+                  <!-- Section title -->
+                  <h2 class="mb-4">Customizing</h2>
+
+                  <p>
+                    Validation states can be customized via Sass with the
+                    <code>$form-validation-states</code> map. Located in our
+                    <code>_variables.scss</code> file, this Sass map is looped over to generate the
+                    default <code>valid</code>/<code>invalid</code> validation states. Included is a
+                    nested map for customizing each state’s color. While no other states are
+                    supported by browsers, those using custom styles can easily add more complex
+                    form feedback.
+                  </p>
+
+                  <p>
+                    Please note that we do not recommend customizing these values without also
+                    modifying the <code>form-validation-state</code> mixin.
+                  </p>
+
+                  <p>
+                    This is the Sass map from <code>_variables.scss</code>. Override this and
+                    recompile your Sass to generate different states:
+                  </p>
+
+                  <!--Section: Code-->
+                  <section>
+                    <mdbsnippet>
+                      <code data-lang="css" data-name="CSS">
+                        $form-validation-states: ( "valid": ( "color": $form-feedback-valid-color,
+                        "icon": $form-feedback-icon-valid ), "invalid": ( "color":
+                        $form-feedback-invalid-color, "icon": $form-feedback-icon-invalid ) );
+                      </code>
+                    </mdbsnippet>
+                  </section>
+                  <!--Section: Code-->
+
+                  <p class="mt-3">
+                    This is the loop from <code>forms/_validation.scss.scss</code>. Any
+                    modifications to the above Sass map will be reflected in your compiled CSS via
+                    this loop:
+                  </p>
+
+                  <!--Section: Code-->
+                  <section>
+                    <mdbsnippet>
+                      <code data-lang="css" data-name="CSS">
+                        @each $state, $data in $form-validation-states { @include
+                        form-validation-state($state, map-get($data, color), map-get($data, icon));
+                        }
+                      </code>
+                    </mdbsnippet>
+                  </section>
+                  <!--Section: Code-->
+                </section>
+                <!--Section: Customizing-->
+              </section>
+              <!--Section: Docs content-->
+            </div>
+            <!--Grid column-->
+
+            <!--Grid column-->
+            <div class="col-md-2 mb-4">
+              <!-- Table of content -->
+              <nav id="table-of-content">
+                <ul class="nav flex-column nav-pills menu-sidebar">
+                  <li class="nav-item">
+                    <a class="nav-link active" href="#section-introduction">Introduction</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#section-basic-example">Basic example</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#section-how-it-works">How it works</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#section-browser-defaults">Browser defaults</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#section-server-side">Server side</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#section-supported-elements">Supported elements</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#section-tooltips">Tooltips</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#section-customizing">Customizing</a>
+                  </li>
+                </ul>
+              </nav>
+              <!-- Table of content -->
+            </div>
+            <!--Grid column-->
+          </div>
+          <!--Grid row-->
+        </div>
+        <!-- Overview panel -->
+
+        <!-- API panel -->
+        <div class="tab-pane fade" id="pills-api" role="tabpanel" aria-labelledby="pills-api-tab">
+          <!--Grid row-->
+          <div class="row">
+            <!--Grid column-->
+            <div class="col-md-10 mb-4">
+              <!--Section: API content-->
+              <section>
+                <!--Section: Introduction-->
+                <section id="section-introduction">
+                  <!-- Main title -->
+                  <h2 class="h1 fw-bold">Title - API</h2>
+                </section>
+                <!--Section: Introduction-->
+
+                <hr class="my-5" />
+
+                <!--Section: Usage-->
+                <section id="section-usage">
+                  <!-- Section title -->
+                  <h2 class="mb-4">Usage</h2>
+
+                  <h4 class="mb-4">Via data attributes</h4>
+
+                  <mdbsnippet>
+                    <code data-lang="html" data-name="HTML">
+                      <button type="button" data-mdb-toggle="modal" data-mdb-target="#myModal">
+                        Launch modal
+                      </button>
+                    </code>
+                  </mdbsnippet>
+
+                  <h4 class="my-4">Via JavaScript</h4>
+
+                  <mdbsnippet>
+                    <code data-lang="js" data-name="JavaScript">
+                      var myModal = new bootstrap.Modal(document.getElementById('myModal'), options)
+                    </code>
+                  </mdbsnippet>
+                </section>
+                <!--Section: Usage-->
+
+                <hr class="my-5" />
+
+                <!--Section: Options-->
+                <section id="section-options">
+                  <!-- Section title -->
+                  <h2 class="mb-4">Options</h2>
+
+                  <div class="table-responsive">
+                    <table class="table table-striped table-bordered">
+                      <thead>
+                        <tr>
+                          <th class="th-sm">Name</th>
+                          <th class="th-sm">Type</th>
+                          <th class="th-sm">Default</th>
+                          <th class="th-sm">Description</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td class="text-nowrap"><code class="highlighter-rouge">tag</code></td>
+                          <td><i>String</i></td>
+                          <td><code>'button'</code></td>
+                          <td>Changes button tag</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+                </section>
+                <!--Section: Options-->
+
+                <hr class="my-5" />
+
+                <!--Section: Methods-->
+                <section id="section-methods">
+                  <!-- Section title -->
+                  <h2 class="mb-4">Methods</h2>
+
+                  <div class="table-responsive">
+                    <table class="table table-striped table-bordered">
+                      <thead>
+                        <tr>
+                          <th class="th-sm">Name</th>
+                          <th class="th-sm">Description</th>
+                          <th class="th-sm">Example</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td class="text-nowrap"><code class="highlighter-rouge">toggle</code></td>
+                          <td>Manually toggles a modal</td>
+                          <td><code class="language-markup text-nowrap">myModal.toggle()</code></td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+                </section>
+                <!--Section: Methods-->
+
+                <hr class="my-5" />
+
+                <!--Section: Events-->
+                <section id="section-events">
+                  <!-- Section title -->
+                  <h2 class="mb-4">Events</h2>
+
+                  <div class="table-responsive">
+                    <table class="table table-striped table-bordered">
+                      <thead>
+                        <tr>
+                          <th class="th-sm">Name</th>
+                          <th class="th-sm">Description</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td class="text-nowrap">
+                            <code class="highlighter-rouge">show.bs.modal</code>
+                          </td>
+                          <td>
+                            This event fires immediately when the show instance method is called. If
+                            caused by a click, the clicked element is available as the relatedTarget
+                            property of the event.
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+                </section>
+                <!--Section: Events-->
+              </section>
+              <!--Section: API content-->
+            </div>
+            <!--Grid column-->
+
+            <!--Grid column-->
+            <div class="col-md-2 mb-4">
+              <!-- Table of content -->
+              <nav id="table-of-content">
+                <ul>
+                  <li><a href="#section-usage">Usage</a></li>
+                  <li><a href="#section-options">Options</a></li>
+                  <li><a href="#section-methods">Methods</a></li>
+                  <li><a href="#section-events">Events</a></li>
+                </ul>
+              </nav>
+              <!-- Table of content -->
+            </div>
+            <!--Grid column-->
+          </div>
+          <!--Grid row-->
+        </div>
+        <!-- API panel -->
+      </div>
+      <!-- Panels -->
+    </div>
+
+    <!-- PRISM -->
+    <script type="text/javascript" src="../../dev/js/new-prism.js"></script>
+    <!-- MDB SNIPPET -->
+    <script type="text/javascript" src="../../dev/js/dist/mdbsnippet.min.js"></script>
+    <!-- MDB -->
+    <script type="text/javascript" src="../../js/mdb.min.js"></script>
+    <!-- Custom scripts -->
+    <script type="text/javascript">
+      // Example starter JavaScript for disabling form submissions if there are invalid fields
+      (function () {
+        'use strict';
+
+        // Fetch all the forms we want to apply custom Bootstrap validation styles to
+        var forms = document.querySelectorAll('.needs-validation');
+
+        // Loop over them and prevent submission
+        Array.prototype.slice.call(forms).forEach(function (form) {
+          form.addEventListener(
+            'submit',
+            function (event) {
+              if (!form.checkValidity()) {
+                event.preventDefault();
+                event.stopPropagation();
+              }
+
+              form.classList.add('was-validated');
+            },
+            false
+          );
+        });
+      })();
+    </script>
+  </body>
+</html>

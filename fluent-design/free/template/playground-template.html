@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <title>Material Design for Bootstrap</title>
+    <!-- MDB icon -->
+    <link rel="icon" href="../../img/mdb-favicon.ico" type="image/x-icon" />
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" />
+    <!-- Google Fonts Roboto -->
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
+    />
+    <!-- MDB -->
+    <link rel="stylesheet" href="../../css/mdb.min.css" />
+    <!-- PRISM -->
+    <link rel="stylesheet" href="../../dev/css/new-prism.css" />
+    <!-- Custom styles -->
+    <style>
+      .playground-color-picker {
+        width: 25px;
+        height: 25px;
+        border-radius: 2px;
+        cursor: pointer;
+      }
+    </style>
+  </head>
+
+  <div class="container px-lg-5 my-5">
+    <!--Section: Content - o.html file -->
+
+    <section>
+      <section class="container-fluid">
+        <div class="row bg-light border">
+          <!--Preview-->
+          <div class="col-sm-12 col-md-8 col-lg-9 border-end">
+            <!-- Component -->
+
+            <!-- Component -->
+          </div>
+          <!--Preview-->
+
+          <!--Options-->
+          <div class="col-sm-12 col-md-4 col-lg-3 px-0 pb-5">
+            <!-- Checkbox -->
+
+            <div class="row mx-2">
+              <div class="col">
+                <form class="playground-form">
+                  <div class="form-check my-3">
+                    <input
+                      class="playground-checkbox form-check-input"
+                      type="checkbox"
+                      id="playground-checkbox-1"
+                      value="firstOption"
+                    />
+                    <label class="form-check-label" for="playground-checkbox-1">
+                      First option (boolean)
+                    </label>
+                  </div>
+                  <div class="form-check my-3">
+                    <input
+                      class="playground-checkbox form-check-input"
+                      type="checkbox"
+                      id="playground-checkbox-2"
+                      value="secondOption"
+                    />
+                    <label class="form-check-label" for="playground-checkbox-2">
+                      Second option ( boolean )
+                    </label>
+                  </div>
+                </form>
+              </div>
+            </div>
+
+            <!-- Checkbox -->
+
+            <hr />
+
+            <!-- Colors -->
+
+            <div class="row mx-2">
+              <p class="my-2">Color (string)</p>
+              <div class="d-flex flex-wrap">
+                <div
+                  class="playground-color-picker shadow-2 me-2 my-2 bg-primary"
+                  data-color="primary"
+                ></div>
+                <div
+                  class="playground-color-picker shadow-2 me-2 my-2 bg-secondary"
+                  data-color="secondary"
+                ></div>
+                <div
+                  class="playground-color-picker shadow-2 me-2 my-2 bg-success"
+                  data-color="success"
+                ></div>
+                <div
+                  class="playground-color-picker shadow-2 me-2 my-2 bg-warning"
+                  data-color="warning"
+                ></div>
+                <div
+                  class="playground-color-picker shadow-2 me-2 my-2 bg-danger"
+                  data-color="danger"
+                ></div>
+                <div
+                  class="playground-color-picker shadow-2 me-2 my-2 bg-info"
+                  data-color="info"
+                ></div>
+                <div
+                  class="playground-color-picker shadow-2 me-2 my-2 bg-light"
+                  data-color="dark"
+                ></div>
+                <div
+                  class="playground-color-picker shadow-2 me-2 my-2 bg-dark"
+                  data-color="dark"
+                ></div>
+              </div>
+            </div>
+
+            <!-- Colors -->
+
+            <hr />
+
+            <!-- Range -->
+
+            <div class="row mx-2">
+              <form class="playground-form">
+                <label for="playground-range-1" class="form-label">Third option (number):</label>
+                <input
+                  type="range"
+                  class="playground-range form-range px-3"
+                  data-option="thirdOption"
+                  min="200"
+                  max="1000"
+                  value="1000"
+                  step="10"
+                  id="playground-range-1"
+                />
+              </form>
+            </div>
+
+            <!-- Range -->
+
+            <hr />
+
+            <!-- Switch -->
+            <div class="row mx-2">
+              <form class="playground-form">
+                <div class="form-check form-switch mx-3">
+                  <input
+                    class="playground-switch form-check-input"
+                    type="checkbox"
+                    data-option="fourthOption"
+                    id="playground-switch-1"
+                  />
+                  <label class="form-check-label" for="playground-switch-1"
+                    >Fourth option (boolean)</label
+                  >
+                </div>
+              </form>
+            </div>
+
+            <!-- Switch -->
+
+            <hr />
+
+            <!-- Radio  -->
+            <div class="row mx-2">
+              <form class="playground-form">
+                <div class="form-check mx-3">
+                  <input
+                    class="form-check-input playground-radio"
+                    type="radio"
+                    name="mode"
+                    value="firstMode"
+                    checked
+                    id="playgroundRadio1"
+                  />
+                  <label class="form-check-label" for="playgroundRadio1">Mode 1 (default)</label>
+                </div>
+
+                <div class="form-check mx-3">
+                  <input
+                    class="form-check-input playground-radio"
+                    type="radio"
+                    name="mode"
+                    value="secondMode"
+                    id="playgroundRadio2"
+                  />
+                  <label class="form-check-label" for="playgroundRadio2">
+                    Mode 2
+                  </label>
+                </div>
+              </form>
+            </div>
+
+            <!-- Radio -->
+
+            <hr />
+
+            <!-- Default -->
+            <div class="d-flex justify-content-center">
+              <button id="default-settings-button" class="btn btn-primary mt-2">
+                Restore default settings
+              </button>
+            </div>
+          </div>
+          <!--Options-->
+        </div>
+      </section>
+
+      <!--Section: Code-->
+      <section class="mt-5">
+        <h4 class="mb-4">Via JavaScript</h4>
+
+        <!-- prettier-ignore -->
+        <mdbsnippet id="playground-snippet-js">
+      <code data-lang="javascript" data-name="JavaScript">
+        new Component(element, { })
+      </code>
+    </mdbsnippet>
+      </section>
+      <!--Section: Code-->
+
+      <!--Section: Code-->
+      <section class="mt-5">
+        <h4 class="mb-4">Via data attributes</h4>
+
+        <!-- prettier-ignore -->
+        <mdbsnippet id="playground-snippet-data-attrs">
+      <code data-lang="HTML" data-name="Data Attributes">
+        <div class="datatable"></div>
+      </code>
+    </mdbsnippet>
+      </section>
+      <!--Section: Code-->
+    </section>
+
+    <!--Section: Content - o.html file -->
+  </div>
+
+  <body>
+    <!-- PRISM -->
+    <script type="text/javascript" src="../../dev/js/new-prism.js"></script>
+    <!-- MDB SNIPPET -->
+    <script type="text/javascript" src="../../dev/js/dist/mdbsnippet.min.js"></script>
+    <!-- MDB -->
+    <script type="text/javascript" src="../../js/mdb.min.js"></script>
+    <!-- Custom scripts -->
+    <script type="text/javascript">
+      (function () {
+        const COMPONENT_NAME = 'Component';
+        const COMPONENT_CLASS = 'component-class';
+
+        let SELECTED_OPTIONS = {};
+
+        // Copy default values from the component
+        const DEFAULT_OPTIONS = {
+          firstOption: false,
+          secondOption: false,
+          color: null,
+          thirdOption: null,
+          fourthOption: false,
+          mode: 'firstMode',
+        };
+
+        // Preview component init
+
+        // Example: const instance = new Component(el, SELECTED_OPTIONS);
+
+        const [javascriptSnippet] = document
+          .getElementById('playground-snippet-js')
+          .getElementsByTagName('code');
+        const [dataAttrsSnippet] = document
+          .getElementById('playground-snippet-data-attrs')
+          .getElementsByTagName('code');
+
+        // Update Prism
+        const updateSnippet = () => {
+          const options = getOptions();
+          javascriptSnippet.innerHTML = getJavascriptOptions(options);
+          dataAttrsSnippet.innerText = getDataAttrsOptions(options);
+
+          Prism.highlightAll();
+        };
+
+        // Remove default values
+        const getOptions = () => {
+          const result = {};
+
+          Object.keys(SELECTED_OPTIONS).forEach((option) => {
+            if (DEFAULT_OPTIONS[option] !== SELECTED_OPTIONS[option]) {
+              result[option] = SELECTED_OPTIONS[option];
+            }
+          });
+
+          return result;
+        };
+
+        // Generate Javascript (Prism)
+        const getJavascriptOptions = (options) => {
+          const javascriptOptions = getOptionsTemplate(options);
+
+          return `
+          new ${COMPONENT_NAME}(element, {${javascriptOptions}}`;
+        };
+
+        // Generate Data Attributes (Prism)
+        const getDataAttrsOptions = (options) => {
+          const dataAttrsOptions = getOptionsTemplate(options, true);
+
+          return `
+          <div class="${COMPONENT_CLASS}" ${dataAttrsOptions}></div>`;
+        };
+
+        // Generate a string template with options (option: value / data-option="value")
+
+        const getOptionsTemplate = (options, dataAttrs = false) => {
+          const joinStr = dataAttrs ? ' ' : ', ';
+
+          return Object.keys(options)
+            .map((option) => {
+              const value = options[option];
+
+              if (dataAttrs) {
+                const attrName = getDataAttrName(option);
+
+                return `data-${attrName}="${value}"`;
+              }
+
+              return `${option}: ${JSON.stringify(value)}`;
+            })
+            .join(joinStr);
+        };
+
+        const getDataAttrName = (str) => {
+          return str
+            .split(/(?=[A-Z])/)
+            .map((str) => str.toLowerCase())
+            .join('-');
+        };
+
+        // Update component to display selected options
+
+        const updatePreview = () => {
+          // Example 1: instance.update(SELECTED_OPTIONS)
+          // Example 2 (components without update method):
+          // instance.dispose();
+          // instance = new Component(el, SELECTED_OPTIONS);
+        };
+
+        // Checkbox
+
+        document.getElementsByClassName('playground-checkbox').forEach((checkbox) => {
+          checkbox.addEventListener('input', (e) => {
+            const { checked, value } = e.target;
+
+            SELECTED_OPTIONS[value] = checked;
+
+            updateSnippet();
+            updatePreview();
+          });
+        });
+
+        // Colors
+
+        document.getElementsByClassName('playground-color-picker').forEach((color) => {
+          color.addEventListener('click', (e) => {
+            SELECTED_OPTIONS.color = e.target.getAttribute('data-color');
+
+            updateSnippet();
+            updatePreview();
+          });
+        });
+
+        // Range
+
+        document.getElementsByClassName('playground-range').forEach((range) => {
+          range.addEventListener('input', (e) => {
+            const option = e.target.getAttribute('data-option');
+            const value = parseInt(e.target.value);
+
+            SELECTED_OPTIONS[option] = value;
+
+            updateSnippet();
+            updatePreview();
+          });
+        });
+
+        // Swith
+
+        document.getElementsByClassName('playground-switch').forEach((range) => {
+          range.addEventListener('input', (e) => {
+            const option = e.target.getAttribute('data-option');
+
+            SELECTED_OPTIONS[option] = e.target.checked;
+
+            updateSnippet();
+            updatePreview();
+          });
+        });
+
+        // Radio
+
+        document.getElementsByClassName('playground-radio').forEach((radio) => {
+          radio.addEventListener('input', (e) => {
+            const { name, value } = e.target;
+
+            SELECTED_OPTIONS[name] = value;
+
+            updateSnippet();
+            updatePreview();
+          });
+        });
+
+        // Default settings
+
+        document.getElementById('default-settings-button').addEventListener('click', () => {
+          SELECTED_OPTIONS = { ...DEFAULT_OPTIONS };
+
+          document.getElementsByClassName('playground-form').forEach((form) => form.reset());
+          updateSnippet();
+          updatePreview();
+        });
+      })();
+    </script>
+  </body>
+</html>

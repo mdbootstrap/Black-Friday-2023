@@ -1,0 +1,421 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <title>Material Design for Bootstrap</title>
+    <!-- MDB icon -->
+    <link rel="icon" href="../../img/mdb-favicon.ico" type="image/x-icon" />
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" />
+    <!-- Google Fonts Roboto -->
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
+    />
+    <!-- MDB -->
+    <link rel="stylesheet" href="../../css/mdb.min.css" />
+    <!-- PRISM -->
+    <link rel="stylesheet" href="../../dev/css/new-prism.css" />
+    <!-- Custom styles -->
+    <style></style>
+  </head>
+
+  <body data-mdb-spy="scroll" data-mdb-target="#scrollspy" data-mdb-offset="0">
+    <div class="container my-5">
+      <!-- Navs -->
+      <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+        <!-- Overview tab -->
+        <li class="nav-item" role="presentation">
+          <a
+            class="nav-link active"
+            id="pills-overview-tab"
+            data-mdb-toggle="pill"
+            href="#pills-overview"
+            role="tab"
+            aria-controls="pills-overview"
+            aria-selected="true"
+            >Overview</a
+          >
+        </li>
+        <!-- Overview tab -->
+      </ul>
+      <!-- Navs -->
+
+      <!-- Panels -->
+      <div class="tab-content mt-4" id="pills-tabContent">
+        <!-- Overview panel -->
+        <div
+          class="tab-pane fade show active"
+          id="pills-overview"
+          role="tabpanel"
+          aria-labelledby="pills-overview-tab"
+        >
+          <!--Grid row-->
+          <div class="row">
+            <!--Grid column-->
+            <div class="col-md-10 mb-4">
+              <!--Section: Docs content-->
+              <section>
+                <!--Section: Introduction-->
+                <section id="section-introduction">
+                  <!-- Main title -->
+                  <h2 class="h1 fw-bold">Alerts</h2>
+
+                  <!-- Seo title -->
+                  <h1 class="h5">Bootstrap 5 Alerts</h1>
+
+                  <!-- Description -->
+                  <p>
+                    Provide contextual feedback messages for typical user actions with the handful
+                    of available and flexible alert messages.
+                  </p>
+                </section>
+                <!--Section: Introduction-->
+
+                <hr class="my-5" />
+
+                <!--Section: Basic example-->
+                <section id="section-basic-example">
+                  <!-- Section title -->
+                  <h2 class="mb-4">Basic example</h2>
+
+                  <!--Section: Demo-->
+                  <section class="border p-4 d-flex justify-content-center mb-4">
+                    <div class="container">
+                      <div class="alert alert-primary" role="alert">
+                        A simple primary alert—check it out!
+                      </div>
+                      <div class="alert alert-secondary" role="alert">
+                        A simple secondary alert—check it out!
+                      </div>
+                      <div class="alert alert-success" role="alert">
+                        A simple success alert—check it out!
+                      </div>
+                      <div class="alert alert-danger" role="alert">
+                        A simple danger alert—check it out!
+                      </div>
+                      <div class="alert alert-warning" role="alert">
+                        A simple warning alert—check it out!
+                      </div>
+                      <div class="alert alert-info" role="alert">
+                        A simple info alert—check it out!
+                      </div>
+                      <div class="alert alert-light" role="alert">
+                        A simple light alert—check it out!
+                      </div>
+                      <div class="alert alert-dark" role="alert">
+                        A simple dark alert—check it out!
+                      </div>
+                    </div>
+                  </section>
+                  <!--Section: Demo-->
+
+                  <!--Section: Code-->
+                  <section>
+                    <mdbsnippet>
+                      <code data-lang="html" data-name="HTML">
+                        <div class="alert alert-primary" role="alert">
+                          A simple primary alert—check it out!
+                        </div>
+                        <div class="alert alert-secondary" role="alert">
+                          A simple secondary alert—check it out!
+                        </div>
+                        <div class="alert alert-success" role="alert">
+                          A simple success alert—check it out!
+                        </div>
+                        <div class="alert alert-danger" role="alert">
+                          A simple danger alert—check it out!
+                        </div>
+                        <div class="alert alert-warning" role="alert">
+                          A simple warning alert—check it out!
+                        </div>
+                        <div class="alert alert-info" role="alert">
+                          A simple info alert—check it out!
+                        </div>
+                        <div class="alert alert-light" role="alert">
+                          A simple light alert—check it out!
+                        </div>
+                        <div class="alert alert-dark" role="alert">
+                          A simple dark alert—check it out!
+                        </div>
+                      </code>
+                    </mdbsnippet>
+                  </section>
+                  <!--Section: Code-->
+                </section>
+                <!--Section: Basic example-->
+
+                <hr class="my-5" />
+
+                <!--Section: Link Color-->
+                <section id="section-link-color">
+                  <!-- Section title -->
+                  <h2 class="mb-4">Link Color</h2>
+
+                  <!--Section: Demo-->
+                  <section class="border p-4 d-flex justify-content-center mb-4">
+                    <div class="container">
+                      <div class="alert alert-primary" role="alert">
+                        A simple primary alert with
+                        <a href="#" class="alert-link">an example link</a>. Give it a click if you
+                        like.
+                      </div>
+                      <div class="alert alert-secondary" role="alert">
+                        A simple secondary alert with
+                        <a href="#" class="alert-link">an example link</a>. Give it a click if you
+                        like.
+                      </div>
+                      <div class="alert alert-success" role="alert">
+                        A simple success alert with
+                        <a href="#" class="alert-link">an example link</a>. Give it a click if you
+                        like.
+                      </div>
+                      <div class="alert alert-danger" role="alert">
+                        A simple danger alert with
+                        <a href="#" class="alert-link">an example link</a>. Give it a click if you
+                        like.
+                      </div>
+                      <div class="alert alert-warning" role="alert">
+                        A simple warning alert with
+                        <a href="#" class="alert-link">an example link</a>. Give it a click if you
+                        like.
+                      </div>
+                      <div class="alert alert-info" role="alert">
+                        A simple info alert with <a href="#" class="alert-link">an example link</a>.
+                        Give it a click if you like.
+                      </div>
+                      <div class="alert alert-light" role="alert">
+                        A simple light alert with
+                        <a href="#" class="alert-link">an example link</a>. Give it a click if you
+                        like.
+                      </div>
+                      <div class="alert alert-dark" role="alert">
+                        A simple dark alert with <a href="#" class="alert-link">an example link</a>.
+                        Give it a click if you like.
+                      </div>
+                    </div>
+                  </section>
+                  <!--Section: Demo-->
+
+                  <!--Section: Code-->
+                  <section>
+                    <mdbsnippet>
+                      <code data-lang="html" data-name="HTML">
+                        <div class="alert alert-primary" role="alert">
+                          A simple primary alert with
+                          <a href="#" class="alert-link">an example link</a>. Give it a click if you
+                          like.
+                        </div>
+                        <div class="alert alert-secondary" role="alert">
+                          A simple secondary alert with
+                          <a href="#" class="alert-link">an example link</a>. Give it a click if you
+                          like.
+                        </div>
+                        <div class="alert alert-success" role="alert">
+                          A simple success alert with
+                          <a href="#" class="alert-link">an example link</a>. Give it a click if you
+                          like.
+                        </div>
+                        <div class="alert alert-danger" role="alert">
+                          A simple danger alert with
+                          <a href="#" class="alert-link">an example link</a>. Give it a click if you
+                          like.
+                        </div>
+                        <div class="alert alert-warning" role="alert">
+                          A simple warning alert with
+                          <a href="#" class="alert-link">an example link</a>. Give it a click if you
+                          like.
+                        </div>
+                        <div class="alert alert-info" role="alert">
+                          A simple info alert with
+                          <a href="#" class="alert-link">an example link</a>. Give it a click if you
+                          like.
+                        </div>
+                        <div class="alert alert-light" role="alert">
+                          A simple light alert with
+                          <a href="#" class="alert-link">an example link</a>. Give it a click if you
+                          like.
+                        </div>
+                        <div class="alert alert-dark" role="alert">
+                          A simple dark alert with
+                          <a href="#" class="alert-link">an example link</a>. Give it a click if you
+                          like.
+                        </div>
+                      </code>
+                    </mdbsnippet>
+                  </section>
+                  <!--Section: Code-->
+                </section>
+                <!--Section: Link Color-->
+
+                <hr class="my-5" />
+
+                <!--Section: Additional Content-->
+                <section id="section-additional-content">
+                  <!-- Section title -->
+                  <h2 class="mb-4">Additional Content</h2>
+
+                  <!--Section: Demo-->
+                  <section class="border p-4 d-flex justify-content-center mb-4">
+                    <div class="container">
+                      <div class="alert alert-success" role="alert">
+                        <h4 class="alert-heading">Well done!</h4>
+                        <p>
+                          Aww yeah, you successfully read this important alert message. This example
+                          text is going to run a bit longer so that you can see how spacing within
+                          an alert works with this kind of content.
+                        </p>
+                        <hr />
+                        <p class="mb-0">
+                          Whenever you need to, be sure to use margin utilities to keep things nice
+                          and tidy.
+                        </p>
+                      </div>
+                    </div>
+                  </section>
+                  <!--Section: Demo-->
+
+                  <!--Section: Code-->
+                  <section>
+                    <mdbsnippet>
+                      <code data-lang="html" data-name="HTML">
+                        <div class="alert alert-success" role="alert">
+                          <h4 class="alert-heading">Well done!</h4>
+                          <p>
+                            Aww yeah, you successfully read this important alert message. This
+                            example text is going to run a bit longer so that you can see how
+                            spacing within an alert works with this kind of content.
+                          </p>
+                          <hr />
+                          <p class="mb-0">
+                            Whenever you need to, be sure to use margin utilities to keep things
+                            nice and tidy.
+                          </p>
+                        </div>
+                      </code>
+                    </mdbsnippet>
+                  </section>
+                  <!--Section: Code-->
+                </section>
+                <!--Section: Additional Content-->
+
+                <hr class="my-5" />
+
+                <!--Section: Dismissing-->
+                <section id="section-dismissing">
+                  <!-- Section title -->
+                  <h2 class="mb-4">Dismissing</h2>
+
+                  <p>
+                    Using the alert JavaScript plugin, it’s possible to dismiss any alert inline.
+                    Here’s how:
+                  </p>
+                  <ul>
+                    <li>
+                      Be sure you’ve loaded the alert plugin, or the compiled Bootstrap JavaScript.
+                    </li>
+                    <li>
+                      Add a close button and the <code>.alert-dismissible</code> class, which adds
+                      extra padding to the right of the alert and positions the close button.
+                    </li>
+                    <li>
+                      On the close button, add the <code>data-mdb-dismiss="alert"</code> attribute,
+                      which triggers the JavaScript functionality. Be sure to use the
+                      <code>button</code> element with it for proper behavior across all devices.
+                    </li>
+                    <li>
+                      To animate alerts when dismissing them, be sure to add the
+                      <code>.fade</code> and <code>.show classes</code>.
+                    </li>
+                  </ul>
+                  <p>You can see this in action with a live demo:</p>
+
+                  <!--Section: Demo-->
+                  <section class="border p-4 d-flex justify-content-center mb-4">
+                    <div class="container">
+                      <div class="alert alert-warning alert-dismissible fade show" role="alert">
+                        <strong>Holy guacamole!</strong> You should check in on some of those fields
+                        below.
+                        <button
+                          type="button"
+                          class="btn-close"
+                          data-mdb-dismiss="alert"
+                          aria-label="Close"
+                        ></button>
+                      </div>
+                    </div>
+                  </section>
+                  <!--Section: Demo-->
+
+                  <!--Section: Code-->
+                  <section>
+                    <mdbsnippet>
+                      <code data-lang="html" data-name="HTML">
+                        <div class="alert alert-warning alert-dismissible fade show" role="alert">
+                          <strong>Holy guacamole!</strong> You should check in on some of those
+                          fields below.
+                          <button
+                            type="button"
+                            class="btn-close"
+                            data-mdb-dismiss="alert"
+                            aria-label="Close"
+                          ></button>
+                        </div>
+                      </code>
+                    </mdbsnippet>
+                  </section>
+                  <!--Section: Code-->
+                </section>
+                <!--Section: Dismissing-->
+              </section>
+              <!--Section: Docs content-->
+            </div>
+            <!--Grid column-->
+
+            <!--Grid column-->
+            <div class="col-md-2 mb-4">
+              <!-- Table of content -->
+              <div id="scrollspy" class="sticky-top">
+                <ul class="nav flex-column nav-pills menu-sidebar">
+                  <!-- Links -->
+                  <li class="nav-item">
+                    <a class="nav-link active" href="#section-introduction">Introduction</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#section-basic-example">Basic example</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#section-link-color">Link Color</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#section-additional-content">Additional Content</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#section-dismissing">Dismissing</a>
+                  </li>
+                  <!-- Links -->
+                </ul>
+              </div>
+              <!-- Table of content -->
+            </div>
+            <!--Grid column-->
+          </div>
+          <!--Grid row-->
+        </div>
+        <!-- Overview panel -->
+      </div>
+      <!-- Panels -->
+    </div>
+
+    <!-- PRISM -->
+    <script type="text/javascript" src="../../dev/js/new-prism.js"></script>
+    <!-- MDB SNIPPET -->
+    <script type="text/javascript" src="../../dev/js/dist/mdbsnippet.min.js"></script>
+    <!-- MDB -->
+    <script type="text/javascript" src="../../js/mdb.min.js"></script>
+    <!-- Custom scripts -->
+    <script type="text/javascript"></script>
+  </body>
+</html>

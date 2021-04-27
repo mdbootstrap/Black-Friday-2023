@@ -1,0 +1,1657 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <title>Material Design for Bootstrap</title>
+    <!-- MDB icon -->
+    <link rel="icon" href="../../img/mdb-favicon.ico" type="image/x-icon" />
+    <!-- Micon -->
+    <!-- <link rel="stylesheet" href="../../dev/css/micon.min.css" /> -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@icon/micon@3.0.168/micon.min.css" />
+    <!-- MDB -->
+    <link rel="stylesheet" href="../../css/mdb.min.css" />
+    <!-- PRISM -->
+    <link rel="stylesheet" href="../../dev/css/new-prism.css" />
+    <!-- Custom styles -->
+    <style></style>
+  </head>
+
+  <body>
+    <!-- prettier-ignore -->
+    <div class="container my-5">
+    <!-- Navs -->
+    <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+      <!-- Overview tab -->
+      <li class="nav-item" role="presentation">
+        <a class="nav-link active" id="pills-overview-tab" data-mdb-toggle="pill" href="#pills-overview" role="tab"
+          aria-controls="pills-overview" aria-selected="true">Overview</a>
+      </li>
+      <!-- Overview tab -->
+
+      <!-- Api tab -->
+      <li class="nav-item" role="presentation">
+        <a class="nav-link" id="pills-api-tab" data-mdb-toggle="pill" href="#pills-api" role="tab"
+          aria-controls="pills-api" aria-selected="false">API</a>
+      </li>
+      <!-- Api tab -->
+    </ul>
+    <!-- Navs -->
+
+    <!-- Panels -->
+    <div class="tab-content mt-4" id="pills-tabContent">
+      <!-- Overview panel -->
+      <div class="tab-pane fade show active" id="pills-overview" role="tabpanel" aria-labelledby="pills-overview-tab">
+        <!--Grid row-->
+        <div class="row">
+          <!--Grid column-->
+          <div class="col-md-10 mb-4">
+            <!--Section: Docs content-->
+            <section>
+              <!--Section: Introduction-->
+              <section id="section-introduction">
+                <!-- Main title -->
+                <h2 class="h1 semibold mb-3">Buttons</h2>
+
+                <!-- Seo title -->
+                <h1 class="h5 regular mb-3">Buttons - Bootstrap 5 & Fluent Design component</h1>
+
+                <!-- Description -->
+                <p class="my-4">
+                  Use MDB custom button styles for actions in forms, dialogs, and more with
+                  support for multiple sizes, states, and more.
+                </p>
+
+                <p class="note note-light">
+                  <strong>Note:</strong> Read the <strong>API</strong> tab to find all available
+                  options and advanced customization
+                </p>
+              </section>
+              <!--Section: Introduction-->
+
+              <hr class="my-5" />
+
+              <!--Section: Basic example-->
+              <section id="section-basic-example">
+                <!-- Section title -->
+                <h2 class="mb-4">Basic example</h2>
+
+                <!--Section: Demo-->
+                <section class="border p-4 text-center mb-4">
+                  <button type="button" class="btn btn-primary">Button</button>
+                </section>
+                <!--Section: Demo-->
+
+                <!--Section: Code-->
+                <section class="mb-4">
+                  <mdbsnippet>
+                    <code data-lang="html" data-name="HTML">
+                      <button type="button" class="btn btn-primary">Button</button>
+                    </code>
+                  </mdbsnippet>
+                </section>
+                <!--Section: Code-->
+
+                <h4>Disable text wrapping</h4>
+                <p>
+                  If you don’t want the button text to wrap, you can add the
+                  <code>.text-nowrap</code> class to the button. In Sass, you can set
+                  <code>$btn-white-space: nowrap</code> to disable text wrapping for each button.
+                </p>
+              </section>
+              <!--Section: Basic example-->
+
+              <hr class="my-5" />
+
+              <!--Section: Colors-->
+              <section id="section-colors">
+                <!--Section title-->
+                <h2 class="mb-4">Colors</h2>
+
+                <!-- Section description -->
+                <p>
+                  MDB includes several predefined button styles, each serving its own semantic
+                  purpose, with a few extras thrown in for more control.
+                </p>
+
+                <!--Section: Demo-->
+                <section class="border p-4 text-left mb-4">
+                  <button type="button" class="btn btn-primary">Primary</button>
+                  <button type="button" class="btn btn-secondary">Secondary</button>
+                  <button type="button" class="btn btn-success">Success</button>
+                  <button type="button" class="btn btn-danger">Danger</button>
+                  <button type="button" class="btn btn-warning">Warning</button>
+                  <button type="button" class="btn btn-info">Info</button>
+                  <button type="button" class="btn btn-light" data-mdb-ripple-color="dark">
+                    Light
+                  </button>
+                  <button type="button" class="btn btn-dark">Dark</button>
+                  <button type="button" class="btn btn-link" data-mdb-ripple-color="dark">
+                    Link
+                  </button>
+                </section>
+                <!--Section: Demo-->
+
+                <!--Section: Code-->
+                <section class="mb-4">
+                  <mdbsnippet>
+                    <code data-lang="html" data-name="HTML">
+                      <button type="button" class="btn btn-primary">Primary</button>
+                      <button type="button" class="btn btn-secondary">Secondary</button>
+                      <button type="button" class="btn btn-success">Success</button>
+                      <button type="button" class="btn btn-danger">Danger</button>
+                      <button type="button" class="btn btn-warning">Warning</button>
+                      <button type="button" class="btn btn-info">Info</button>
+                      <button type="button" class="btn btn-light" data-mdb-ripple-color="dark">
+                        Light
+                      </button>
+                      <button type="button" class="btn btn-dark">Dark</button>
+                      <button type="button" class="btn btn-link" data-mdb-ripple-color="dark">
+                        Link
+                      </button>
+                    </code>
+                  </mdbsnippet>
+                </section>
+                <!--Section: Code-->
+                <p class="note note-info">
+                  <strong>Conveying meaning to assistive technologies:</strong>
+                  <br />
+                  Using color to add meaning only provides a visual indication, which will not be
+                  conveyed to users of assistive technologies – such as screen readers. Ensure
+                  that information denoted by the color is either obvious from the content itself
+                  (e.g. the visible text), or is included through alternative means, such as
+                  additional text hidden with the
+                  <code>.visually-hidden</code> class.
+                </p>
+              </section>
+              <!--/Section: Colors-->
+
+              <hr class="my-5" />
+
+              <!--Section: Outline-->
+              <section id="section-outline">
+                <!--Section title-->
+                <h2 class="mb-4">Outline</h2>
+
+                <!-- Section description -->
+                <p>
+                  In need of a button, but not the hefty background colors they bring? Replace the
+                  default modifier classes with the <code>.btn-outline-*</code> ones to remove all
+                  background images and colors on any button.
+                </p>
+
+                <p>
+                  In the outline buttons, we recommend adding
+                  <code>data-mdb-ripple-color="dark"</code> to change the color of the
+                  <strong>ripple effect</strong>. The default light color of the ripple (applied
+                  automatically to every button) may not be well visible in the case of light and
+                  outline buttons.
+                </p>
+
+                <p>
+                  To learn more about the ripple effect and all the available options have a look
+                  at
+                  <a href="https://mdbootstrap.com/docs/standard/methods/ripple/">Ripple Docs</a>.
+                </p>
+
+                <!--Section: Demo-->
+                <section class="border p-4 text-center mb-4">
+                  <button type="button" class="btn btn-outline-primary" data-mdb-ripple-color="dark">
+                    Primary
+                  </button>
+                  <button type="button" class="btn btn-outline-secondary" data-mdb-ripple-color="dark">
+                    Secondary
+                  </button>
+                  <button type="button" class="btn btn-outline-success" data-mdb-ripple-color="dark">
+                    Success
+                  </button>
+                  <button type="button" class="btn btn-outline-danger" data-mdb-ripple-color="dark">
+                    Danger
+                  </button>
+                  <button type="button" class="btn btn-outline-warning" data-mdb-ripple-color="dark">
+                    Warning
+                  </button>
+                  <button type="button" class="btn btn-outline-info" data-mdb-ripple-color="dark">
+                    Info
+                  </button>
+                  <button type="button" class="btn btn-outline-light" data-mdb-ripple-color="dark">
+                    Light
+                  </button>
+                  <button type="button" class="btn btn-outline-dark" data-mdb-ripple-color="dark">
+                    Dark
+                  </button>
+                </section>
+                <!--Section: Demo-->
+
+                <!--Section: Code-->
+                <section>
+                  <mdbsnippet>
+                    <code data-lang="html" data-name="HTML">
+                      <button type="button" class="btn btn-outline-primary" data-mdb-ripple-color="dark">
+                        Primary
+                      </button>
+                      <button type="button" class="btn btn-outline-secondary" data-mdb-ripple-color="dark">
+                        Secondary
+                      </button>
+                      <button type="button" class="btn btn-outline-success" data-mdb-ripple-color="dark">
+                        Success
+                      </button>
+                      <button type="button" class="btn btn-outline-danger" data-mdb-ripple-color="dark">
+                        Danger
+                      </button>
+                      <button type="button" class="btn btn-outline-warning" data-mdb-ripple-color="dark">
+                        Warning
+                      </button>
+                      <button type="button" class="btn btn-outline-info" data-mdb-ripple-color="dark">
+                        Info
+                      </button>
+                      <button type="button" class="btn btn-outline-light" data-mdb-ripple-color="dark">
+                        Light
+                      </button>
+                      <button type="button" class="btn btn-outline-dark" data-mdb-ripple-color="dark">
+                        Dark
+                      </button>
+                    </code>
+                  </mdbsnippet>
+                </section>
+                <!--Section: Code-->
+
+                <p class="note note-info">
+                  Some of the button styles use a relatively light foreground color, and should
+                  only be used on a dark background in order to have sufficient contrast.
+                </p>
+              </section>
+              <!--/Section: Outline-->
+
+              <hr class="my-5" />
+
+              <!--Section: Rounded-->
+              <section id="section-rounded">
+                <!--Section title-->
+                <h2 class="mb-4">Rounded</h2>
+
+                <!-- Section description -->
+                <p>Add <code>.btn-rounded</code> class to make the button rounded.</p>
+
+                <!--Section: Demo-->
+                <section class="border p-4 text-center mb-4">
+                  <button type="button" class="btn btn-primary btn-rounded">Primary</button>
+                  <button type="button" class="btn btn-secondary btn-rounded">Secondary</button>
+                  <button type="button" class="btn btn-success btn-rounded">Success</button>
+                  <button type="button" class="btn btn-danger btn-rounded">Danger</button>
+                  <button type="button" class="btn btn-warning btn-rounded">Warning</button>
+                  <button type="button" class="btn btn-info btn-rounded">Info</button>
+                  <button type="button" class="btn btn-light btn-rounded">Light</button>
+                  <button type="button" class="btn btn-dark btn-rounded">Dark</button>
+                </section>
+                <!--Section: Demo-->
+
+                <!--Section: Code-->
+                <section>
+                  <mdbsnippet>
+                    <code data-lang="html" data-name="HTML">
+                      <button type="button" class="btn btn-primary btn-rounded">Primary</button>
+                      <button type="button" class="btn btn-secondary btn-rounded">
+                        Secondary
+                      </button>
+                      <button type="button" class="btn btn-success btn-rounded">Success</button>
+                      <button type="button" class="btn btn-danger btn-rounded">Danger</button>
+                      <button type="button" class="btn btn-warning btn-rounded">Warning</button>
+                      <button type="button" class="btn btn-info btn-rounded">Info</button>
+                      <button type="button" class="btn btn-light btn-rounded">Light</button>
+                      <button type="button" class="btn btn-dark btn-rounded">Dark</button>
+                    </code>
+                  </mdbsnippet>
+                </section>
+                <!--Section: Code-->
+              </section>
+              <!--/Section: Rounded-->
+
+              <hr class="my-5" />
+
+              <!--Section: Rounded outline-->
+              <section id="section-rounded-outline">
+                <!--Section title-->
+                <h2 class="mb-4">Rounded outline</h2>
+
+                <!-- Section description -->
+                <p>
+                  You can use <code>.btn-outline-*</code> and <code>.btn-rounded</code> together
+                  to make the button outline and rounded at the same time.
+                </p>
+
+                <!--Section: Demo-->
+                <section class="border p-4 text-center mb-4">
+                  <button type="button" class="btn btn-outline-primary btn-rounded" data-mdb-ripple-color="dark">
+                    Primary
+                  </button>
+                  <button type="button" class="btn btn-outline-secondary btn-rounded" data-mdb-ripple-color="dark">
+                    Secondary
+                  </button>
+                  <button type="button" class="btn btn-outline-success btn-rounded" data-mdb-ripple-color="dark">
+                    Success
+                  </button>
+                  <button type="button" class="btn btn-outline-danger btn-rounded" data-mdb-ripple-color="dark">
+                    Danger
+                  </button>
+                  <button type="button" class="btn btn-outline-warning btn-rounded" data-mdb-ripple-color="dark">
+                    Warning
+                  </button>
+                  <button type="button" class="btn btn-outline-info btn-rounded" data-mdb-ripple-color="dark">
+                    Info
+                  </button>
+                  <button type="button" class="btn btn-outline-light btn-rounded" data-mdb-ripple-color="dark">
+                    Light
+                  </button>
+                  <button type="button" class="btn btn-outline-dark btn-rounded" data-mdb-ripple-color="dark">
+                    Dark
+                  </button>
+                </section>
+                <!--Section: Demo-->
+
+                <!--Section: Code-->
+                <section>
+                  <mdbsnippet>
+                    <code data-lang="html" data-name="HTML">
+                      <button type="button" class="btn btn-outline-primary btn-rounded" data-mdb-ripple-color="dark">
+                        Primary
+                      </button>
+                      <button type="button" class="btn btn-outline-secondary btn-rounded" data-mdb-ripple-color="dark">
+                        Secondary
+                      </button>
+                      <button type="button" class="btn btn-outline-success btn-rounded" data-mdb-ripple-color="dark">
+                        Success
+                      </button>
+                      <button type="button" class="btn btn-outline-danger btn-rounded" data-mdb-ripple-color="dark">
+                        Danger
+                      </button>
+                      <button type="button" class="btn btn-outline-warning btn-rounded" data-mdb-ripple-color="dark">
+                        Warning
+                      </button>
+                      <button type="button" class="btn btn-outline-info btn-rounded" data-mdb-ripple-color="dark">
+                        Info
+                      </button>
+                      <button type="button" class="btn btn-outline-light btn-rounded" data-mdb-ripple-color="dark">
+                        Light
+                      </button>
+                      <button type="button" class="btn btn-outline-dark btn-rounded" data-mdb-ripple-color="dark">
+                        Dark
+                      </button>
+                    </code>
+                  </mdbsnippet>
+                </section>
+                <!--Section: Code-->
+              </section>
+              <!--/Section: Rounded outline-->
+
+              <hr class="my-5" />
+
+              <!--Section: Floating-->
+              <section id="section-floating">
+                <!--Section title-->
+                <h2 class="mb-4">Floating</h2>
+
+                <!-- Section description -->
+                <p>Use <code>.btn-floating</code> class to make a circle button.</p>
+
+                <p>
+                  <strong>To make it works properly you have to put an icon inside.</strong> The
+                  text will not fit in. You can find hundreds of available icons in our
+                  <a href="/docs/standard/content-styles/icons/">icons docs</a>.
+                </p>
+
+                <!--Section: Demo-->
+                <section class="border p-4 text-center mb-4">
+                  <button type="button" class="btn btn-primary btn-floating">
+                    <i class="mi mi-Download"></i>
+                  </button>
+                </section>
+                <!--Section: Demo-->
+
+                <!--Section: Code-->
+                <section class="mb-4">
+                  <mdbsnippet>
+                    <code data-lang="html" data-name="HTML">
+                      <button type="button" class="btn btn-primary btn-floating">
+                        <i class="mi mi-Download"></i>
+                      </button>
+                    </code>
+                  </mdbsnippet>
+                </section>
+                <!--Section: Code-->
+
+                <p>
+                  You can apply almost all the same classes and attributes to the floating buttons
+                  as to the regular buttons - colors, ripples, sizes, outline, etc.
+                </p>
+
+                <!--Section: Demo-->
+                <section class="border p-4 text-center mb-4">
+                  <button type="button" class="btn btn-primary btn-lg btn-floating">
+                    <i class="mi mi-facebook-f"></i>
+                  </button>
+                  <button type="button" class="btn btn-outline-success btn-floating" data-mdb-ripple-color="dark">
+                    <i class="mi mi-FavoriteStarFill"></i>
+                  </button>
+                  <button type="button" class="btn btn-danger btn-floating">
+                    <i class="mi mi-Cut"></i>
+                  </button>
+                  <button type="button" class="btn btn-dark btn-floating">
+                    <i class="mi mi-apple"></i>
+                  </button>
+                </section>
+                <!--Section: Demo-->
+
+                <!--Section: Code-->
+                <section class="mb-4">
+                  <mdbsnippet>
+                    <code data-lang="html" data-name="HTML">
+                      <button type="button" class="btn btn-primary btn-lg btn-floating">
+                        <i class="mi mi-facebook-f"></i>
+                      </button>
+                      <button type="button" class="btn btn-outline-success btn-floating" data-mdb-ripple-color="dark">
+                        <i class="mi mi-FavoriteStarFill"></i>
+                      </button>
+                      <button type="button" class="btn btn-danger btn-floating">
+                        <i class="mi mi-Cut"></i>
+                      </button>
+                      <button type="button" class="btn btn-dark btn-floating">
+                        <i class="mi mi-apple"></i>
+                      </button>
+                    </code>
+                  </mdbsnippet>
+                </section>
+                <!--Section: Code-->
+              </section>
+              <!--/Section: Floating-->
+
+              <hr class="my-5" />
+
+              <!--Section: Fixed buttons-->
+              <section id="section-fixed-buttons">
+                <!-- Section title -->
+                <h2 class="mb-4">Fixed buttons</h2>
+
+                <!-- Description -->
+                <p>
+                  Use <code>.fixed-action-btn</code> class to create a fixed button with a list of
+                  available options that shows on hover or click.
+                </p>
+                <p>
+                  See the live example of a fixed button in the bottom right corner of this page.
+                </p>
+
+                <p class="note note-light">
+                  <strong>Note:</strong> There are available <code>show</code>/<code>hide</code>
+                  methods to manually open and close the list. Read the <strong>API</strong> tab
+                  to find more info.
+                </p>
+
+                <!--Section: Demo-->
+                <div class="fixed-action-btn" id="fixed1">
+                  <a class="btn btn-floating btn-primary btn-lg"
+                    style="background-color: #f44336; border-color: #f44336;">
+                    <i class="mi mi-Edit"></i>
+                  </a>
+
+                  <ul class="list-unstyled">
+                    <li>
+                      <a class="btn btn-primary btn-floating btn-lg"
+                        style="background-color: #f44336; border-color: #f44336;"><i
+                          class="mi mi-FavoriteStarFill"></i></a>
+                    </li>
+                    <li>
+                      <a class="btn btn-primary btn-floating btn-lg"
+                        style="background-color: #fdd835; border-color: #fdd835;"><i class="mi mi-Contact"></i></a>
+                    </li>
+                    <li>
+                      <a class="btn btn-primary btn-floating btn-lg"
+                        style="background-color: #4caf50; border-color: #4caf50;"><i class="mi mi-Mail"></i></a>
+                    </li>
+                    <li>
+                      <a class="btn btn-primary btn-floating btn-lg"
+                        style="background-color: #2196f3; border-color: #2196f3;"><i class="mi mi-ShoppingCart"></i></a>
+                    </li>
+                  </ul>
+                </div>
+                <!--Section: Demo-->
+
+                <!--Section: Code-->
+                <section>
+                  <!-- prettier-ignore -->
+                  <mdbsnippet>
+                    <code data-lang="html" data-name="HTML">
+                      <div class="fixed-action-btn">
+                        <a class="btn btn-floating btn-primary btn-lg" style="background-color: #f44336">
+                          <i class="fas fa-pencil-alt"></i>
+                        </a>
+
+                        <ul class="list-unstyled">
+                          <li>
+                            <a class="btn btn-primary btn-floating btn-lg" style="background-color: #f44336"><i
+                                class="fas fa-star"></i></a>
+                          </li>
+                          <li>
+                            <a class="btn btn-primary btn-floating btn-lg" style="background-color: #fdd835"><i
+                                class="fas fa-user"></i></a>
+                          </li>
+                          <li>
+                            <a class="btn btn-primary btn-floating btn-lg" style="background-color: #4caf50"><i
+                                class="fas fa-envelope"></i></a>
+                          </li>
+                          <li>
+                            <a class="btn btn-primary btn-floating btn-lg" style="background-color: #2196f3"><i
+                                class="fas fa-shopping-cart"></i></a>
+                          </li>
+                        </ul>
+                      </div>
+                    </code>
+                  </mdbsnippet>
+                </section>
+                <!--Section: Code-->
+              </section>
+              <!--Section: Basic example-->
+
+              <hr class="my-5" />
+
+              <!--Section: Social-->
+              <section id="section-social">
+                <!--Section title-->
+                <h2 class="mb-4">Social</h2>
+
+                <!-- Section description -->
+                <p>
+                  Combining our icons and custom colors you can create social buttons. Combining
+                  our icons and custom colors you can create social buttons. See all available
+                  icons in our
+                  <a href="https://mdbootstrap.com/docs/standard/content-styles/icons/">icons search</a>
+                  (check "brands" to filter brand icons).
+                </p>
+
+                <p>
+                  In the example below, we place a Facebook icon
+                  <code>&lt;i class=&quot;fab fa-facebook-f&quot;&gt;&lt;/i&gt;</code> inside the
+                  button and set a <strong>background-color</strong> to
+                  <code>#3B5998</code> (facebook brand color).
+                </p>
+
+                <!--Section: Demo-->
+                <section class="border p-4 text-center mb-4">
+                  <a class="btn btn-primary" style="background-color: #3b5998; border-color: #3b5998" href="#!"
+                    role="button"><i class="mi mi-facebook-f"></i></a>
+                </section>
+                <!--Section: Demo-->
+
+                <!--Section: Code-->
+                <section class="mb-4">
+                  <mdbsnippet>
+                    <code data-lang="html" data-name="HTML">
+                      <a class="btn btn-primary" style="background-color: #3b5998; border-color: #3b5998;" href="#!"
+                        role="button"><i class="mi mi-facebook-f"></i></a>
+                    </code>
+                  </mdbsnippet>
+                </section>
+                <!--Section: Code-->
+
+                <!--Subsection: Sample brands-->
+                <section id="subsection-sample-brands">
+                  <!--Subsection title-->
+                  <h4 class="mt-5">Sample brands</h4>
+
+                  <!--Description-->
+                  <p>A few the most popular brands in form of social buttons.</p>
+
+                  <!--Section: Demo-->
+                  <section class="border p-4 text-center mb-4">
+                    <!-- Facebook -->
+                    <a class="btn btn-primary m-1" style="background-color: #3b5998; border-color: #3b5998;" href="#!"
+                      role="button"><i class="mi mi-facebook-f"></i></a>
+
+                    <!-- Twitter -->
+                    <a class="btn btn-primary m-1" style="background-color: #55acee; border-color: #55acee;" href="#!"
+                      role="button"><i class="mi mi-twitter-square"></i></a>
+
+                    <!-- Google -->
+                    <a class="btn btn-primary m-1" style="background-color: #dd4b39; border-color: #dd4b39;" href="#!"
+                      role="button"><i class="mi mi-google"></i></a>
+
+                    <!-- Instagram -->
+                    <a class="btn btn-primary m-1" style="background-color: #ac2bac; border-color: #ac2bac;" href="#!"
+                      role="button"><i class="mi mi-instagram"></i></a>
+
+                    <!-- Linkedin -->
+                    <a class="btn btn-primary m-1" style="background-color: #0082ca; border-color: #0082ca;" href="#!"
+                      role="button"><i class="mi mi-linkedin-in"></i></a>
+
+                    <!-- Pinterest -->
+                    <a class="btn btn-primary m-1" style="background-color: #c61118; border-color: #c61118;" href="#!"
+                      role="button"><i class="mi mi-pinterest"></i></a>
+
+                    <!-- Vkontakte -->
+                    <a class="btn btn-primary m-1" style="background-color: #4c75a3; border-color: #4c75a3;" href="#!"
+                      role="button"><i class="mi mi-vk"></i></a>
+
+                    <!-- Stack overflow -->
+                    <a class="btn btn-primary m-1" style="background-color: #ffac44; border-color: #ffac44;" href="#!"
+                      role="button"><i class="mi mi-stack-overflow"></i></a>
+
+                    <!-- Youtube -->
+                    <a class="btn btn-primary m-1" style="background-color: #ed302f; border-color: #ed302f;" href="#!"
+                      role="button"><i class="mi mi-youtube"></i></a>
+
+                    <!-- Slack -->
+                    <a class="btn btn-primary m-1" style="background-color: #481449; border-color: #481449;" href="#!"
+                      role="button"><i class="mi mi-slack-hash"></i></a>
+
+                    <!-- Github -->
+                    <a class="btn btn-primary m-1" style="background-color: #333333; border-color: #333333;" href="#!"
+                      role="button"><i class="mi mi-github"></i></a>
+
+                    <!-- Dribbble -->
+                    <a class="btn btn-primary m-1" style="background-color: #ec4a89; border-color: #ec4a89;" href="#!"
+                      role="button"><i class="mi mi-dribbble"></i></a>
+
+                    <!-- Reddit -->
+                    <a class="btn btn-primary m-1" style="background-color: #ff4500; border-color: #ff4500;" href="#!"
+                      role="button"><i class="mi mi-reddit-alien"></i></a>
+
+                    <!-- Whatsapp -->
+                    <a class="btn btn-primary m-1" style="background-color: #25d366; border-color: #25d366;" href="#!"
+                      role="button"><i class="mi mi-whatsapp"></i></a>
+                  </section>
+                  <!--Section: Demo-->
+
+                  <!--Section: Code-->
+                  <section class="mb-4">
+                    <mdbsnippet>
+                      <code data-lang="html" data-name="HTML">
+                        <!-- Facebook -->
+                        <a class="btn btn-primary m-1" style="background-color: #3b5998; border-color: #3b5998;"
+                          href="#!" role="button"><i class="mi mi-facebook-f"></i></a>
+
+                        <!-- Twitter -->
+                        <a class="btn btn-primary m-1" style="background-color: #55acee; border-color: #55acee;"
+                          href="#!" role="button"><i class="mi mi-twitter-square"></i></a>
+
+                        <!-- Google -->
+                        <a class="btn btn-primary m-1" style="background-color: #dd4b39; border-color: #dd4b39;"
+                          href="#!" role="button"><i class="mi mi-google"></i></a>
+
+                        <!-- Instagram -->
+                        <a class="btn btn-primary m-1" style="background-color: #ac2bac; border-color: #ac2bac;"
+                          href="#!" role="button"><i class="mi mi-instagram"></i></a>
+
+                        <!-- Linkedin -->
+                        <a class="btn btn-primary m-1" style="background-color: #0082ca; border-color: #0082ca;"
+                          href="#!" role="button"><i class="mi mi-linkedin-in"></i></a>
+
+                        <!-- Pinterest -->
+                        <a class="btn btn-primary m-1" style="background-color: #c61118; border-color: #c61118;"
+                          href="#!" role="button"><i class="mi mi-pinterest"></i></a>
+
+                        <!-- Vkontakte -->
+                        <a class="btn btn-primary m-1" style="background-color: #4c75a3; border-color: #4c75a3;"
+                          href="#!" role="button"><i class="mi mi-vk"></i></a>
+
+                        <!-- Stack overflow -->
+                        <a class="btn btn-primary m-1" style="background-color: #ffac44; border-color: #ffac44;"
+                          href="#!" role="button"><i class="mi mi-stack-overflow"></i></a>
+
+                        <!-- Youtube -->
+                        <a class="btn btn-primary m-1" style="background-color: #ed302f; border-color: #ed302f;"
+                          href="#!" role="button"><i class="mi mi-youtube"></i></a>
+
+                        <!-- Slack -->
+                        <a class="btn btn-primary m-1" style="background-color: #481449; border-color: #481449;"
+                          href="#!" role="button"><i class="mi mi-slack-hash"></i></a>
+
+                        <!-- Github -->
+                        <a class="btn btn-primary m-1" style="background-color: #333333; border-color: #333333;"
+                          href="#!" role="button"><i class="mi mi-github"></i></a>
+
+                        <!-- Dribbble -->
+                        <a class="btn btn-primary m-1" style="background-color: #ec4a89; border-color: #ec4a89;"
+                          href="#!" role="button"><i class="mi mi-dribbble"></i></a>
+
+                        <!-- Reddit -->
+                        <a class="btn btn-primary m-1" style="background-color: #ff4500; border-color: #ff4500;"
+                          href="#!" role="button"><i class="mi mi-reddit-alien"></i></a>
+
+                        <!-- Whatsapp -->
+                        <a class="btn btn-primary m-1" style="background-color: #25d366; border-color: #25d366;"
+                          href="#!" role="button"><i class="mi mi-whatsapp"></i></a>
+                      </code>
+                    </mdbsnippet>
+                  </section>
+                  <!--Section: Code-->
+                </section>
+                <!--Subsection: Sample brands-->
+
+                <!--Subsection: Floating-->
+                <section id="subsection-floating-social">
+                  <!--Subsection title-->
+                  <h4 class="mt-5">Floating social</h4>
+
+                  <!--Description-->
+                  <p>
+                    By adding <code>.btn-floating</code> class you can create a nice, floating
+                    social button.
+                  </p>
+
+                  <!--Section: Demo-->
+                  <section class="border p-4 text-center mb-4">
+                    <a class="btn btn-primary btn-lg btn-floating"
+                      style="background-color: #ac2bac; border-color: #ac2bac;" href="#!" role="button"><i
+                        class="mi mi-instagram"></i></a>
+                  </section>
+                  <!--Section: Demo-->
+
+                  <!--Section: Code-->
+                  <section class="mb-4">
+                    <mdbsnippet>
+                      <code data-lang="html" data-name="HTML">
+                        <a class="btn btn-primary btn-lg btn-floating"
+                          style="background-color: #ac2bac; border-color: #ac2bac;" href="#!" role="button"><i
+                            class="mi mi-instagram"></i></a>
+                      </code>
+                    </mdbsnippet>
+                  </section>
+                  <!--Section: Code-->
+                </section>
+                <!--Subsection: Floating-->
+
+                <!--Subsection: Text-->
+                <section id="subsection-text">
+                  <!--Subsection title-->
+                  <h4 class="mt-5">Text</h4>
+
+                  <!--Description-->
+                  <p>
+                    You don't need to use only an icon. You can add text to the button. Remember
+                    to add some spacing classes (for example <code>.me-2</code>) to provide a
+                    proper space between icon and text.
+                  </p>
+
+                  <!--Section: Demo-->
+                  <section class="border p-4 text-center mb-4">
+                    <a class="btn btn-primary" style="background-color: #55acee; border-color: #55acee;" href="#!"
+                      role="button"><i class="mi mi-twitter-square me-2"></i>Twitter</a>
+                  </section>
+                  <!--Section: Demo-->
+
+                  <!--Section: Code-->
+                  <section class="mb-4">
+                    <mdbsnippet>
+                      <code data-lang="html" data-name="HTML">
+                        <a class="btn btn-primary" style="background-color: #55acee; border-color: #55acee;" href="#!"
+                          role="button"><i class="mi mi-twitter-square me-2"></i>Twitter</a>
+                      </code>
+                    </mdbsnippet>
+                  </section>
+                  <!--Section: Code-->
+                </section>
+                <!--Subsection: Text-->
+
+                <!--Subsection: Only icon-->
+                <section id="subsection-only-icon">
+                  <!--Subsection title-->
+                  <h4 class="mt-5">Only icon</h4>
+
+                  <!--Description-->
+                  <p>
+                    By removing button classes and replacing <code>background-color</code> with
+                    <code>color</code> you can create minimalistic, clickable icons.
+                  </p>
+
+                  <!--Section: Demo-->
+                  <section class="border p-4 text-center mb-4">
+                    <!-- Facebook -->
+                    <a class="m-1" style="color: #3b5998;" href="#!" role="button"><i
+                        class="mi mi-facebook-f mi-lg"></i></a>
+
+                    <!-- Twitter -->
+                    <a class="m-1" style="color: #55acee;" href="#!" role="button"><i
+                        class="mi mi-twitter-square mi-lg"></i></a>
+
+                    <!-- Google -->
+                    <a class="m-1" style="color: #dd4b39;" href="#!" role="button"><i
+                        class="mi mi-google mi-lg"></i></a>
+
+                    <!-- Instagram -->
+                    <a class="m-1" style="color: #ac2bac;" href="#!" role="button"><i
+                        class="mi mi-instagram mi-lg"></i></a>
+                  </section>
+                  <!--Section: Demo-->
+
+                  <!--Section: Code-->
+                  <section class="mb-4">
+                    <mdbsnippet>
+                      <code data-lang="html" data-name="HTML">
+                        <!-- Facebook -->
+                        <a class="m-1" style="color: #3b5998;" href="#!" role="button"><i
+                            class="mi mi-facebook-f mi-lg"></i></a>
+
+                        <!-- Twitter -->
+                        <a class="m-1" style="color: #55acee;" href="#!" role="button"><i
+                            class="mi mi-twitter-square mi-lg"></i></a>
+
+                        <!-- Google -->
+                        <a class="m-1" style="color: #dd4b39;" href="#!" role="button"><i
+                            class="mi mi-google mi-lg"></i></a>
+
+                        <!-- Instagram -->
+                        <a class="m-1" style="color: #ac2bac;" href="#!" role="button"><i
+                            class="mi mi-instagram mi-lg"></i></a>
+                      </code>
+                    </mdbsnippet>
+                  </section>
+                  <!--Section: Code-->
+                </section>
+                <!--Subsection: Only icon-->
+
+                <!--Subsection: Notifications-->
+                <section id="subsection-notifications">
+                  <!--Subsection title-->
+                  <h4 class="mt-5">Notifications</h4>
+
+                  <!--Description-->
+                  <p>
+                    By using a badge you can create a button with a notification to provide a
+                    counter.
+                  </p>
+
+                  <!--Section: Demo-->
+                  <section class="border p-4 text-center mb-4">
+                    <a class="btn btn-primary" style="background-color: #3b5998; border-color: #3b5998;" href="#!"
+                      role="button"><i class="mi mi-facebook-f"></i><span class="badge bg-danger ms-2">8</span></a>
+                  </section>
+                  <!--Section: Demo-->
+
+                  <!--Section: Code-->
+                  <section class="mb-4">
+                    <mdbsnippet>
+                      <code data-lang="html" data-name="HTML">
+                        <a class="btn btn-primary" style="background-color: #3b5998; border-color: #3b5998;" href="#!"
+                          role="button"><i class="mi mi-facebook-f"></i><span class="badge bg-danger ms-2">8</span></a>
+                      </code>
+                    </mdbsnippet>
+                  </section>
+                  <!--Section: Code-->
+                </section>
+                <!--Subsection: Notifications-->
+              </section>
+              <!--/Section: Social-->
+
+              <hr class="my-5" />
+
+              <!--Section: Tags-->
+              <section id="section-tags">
+                <!--Section title-->
+                <h2 class="mb-4">Tags</h2>
+
+                <!-- Section description -->
+                <p>
+                  The <code>.btn</code> classes are designed to be used with the
+                  <code>&lt;button&gt;</code> element. However, you can also use these classes on
+                  <code>&lt;a&gt;</code> or <code>&lt;input&gt;</code> elements (though some
+                  browsers may apply a slightly different rendering).
+                </p>
+
+                <p>
+                  When using button classes on <code>&lt;a&gt;</code> elements that are used to
+                  trigger in-page functionality (like collapsing content), rather than linking to
+                  new pages or sections within the current page, these links should be given a
+                  <code>role="button"</code> to appropriately convey their purpose to assistive
+                  technologies such as screen readers.
+                </p>
+
+                <!--Section: Demo-->
+                <section class="border p-4 text-center mb-4">
+                  <a class="btn btn-primary" href="#" role="button">Link</a>
+                  <button class="btn btn-primary" type="submit">Button</button>
+                  <input class="btn btn-primary" type="button" value="Input" />
+                  <input class="btn btn-primary" type="submit" value="Submit" />
+                  <input class="btn btn-primary" type="reset" value="Reset" />
+                </section>
+                <!--Section: Demo-->
+
+                <!--Section: Code-->
+                <section>
+                  <mdbsnippet>
+                    <code data-lang="html" data-name="HTML">
+                      <a class="btn btn-primary" href="#" role="button">Link</a>
+                      <button class="btn btn-primary" type="submit">Button</button>
+                      <input class="btn btn-primary" type="button" value="Input" />
+                      <input class="btn btn-primary" type="submit" value="Submit" />
+                      <input class="btn btn-primary" type="reset" value="Reset" />
+                    </code>
+                  </mdbsnippet>
+                </section>
+                <!--Section: Code-->
+              </section>
+              <!--/Section: -->
+
+              <hr class="my-5" />
+
+              <!--Section: Sizes-->
+              <section id="section-sizes">
+                <!--Section title-->
+                <h2 class="mb-4">Sizes</h2>
+
+                <!-- Section description -->
+                <p>
+                  Fancy larger or smaller buttons? Add <code>.btn-lg</code> or
+                  <code>.btn-sm</code> for additional sizes.
+                </p>
+
+                <!--Section: Demo-->
+                <section class="border p-4 text-center mb-4">
+                  <button type="button" class="btn btn-primary btn-sm">Button</button>
+                  <button type="button" class="btn btn-primary">Button</button>
+                  <button type="button" class="btn btn-primary btn-lg">Button</button>
+                </section>
+                <!--Section: Demo-->
+
+                <!--Section: Code-->
+                <section>
+                  <mdbsnippet>
+                    <code data-lang="html" data-name="HTML">
+                      <button type="button" class="btn btn-primary btn-sm">Button</button>
+                      <button type="button" class="btn btn-primary">Button</button>
+                      <button type="button" class="btn btn-primary btn-lg">Button</button>
+                    </code>
+                  </mdbsnippet>
+                </section>
+                <!--Section: Code-->
+              </section>
+              <!--/Section: Sizes-->
+
+              <hr class="my-5" />
+
+              <!--Section: Active state-->
+              <section id="section-active-state">
+                <!--Section title-->
+                <h2 class="mb-4">Active state</h2>
+
+                <!-- Section description -->
+                <p>Add <code>.active</code> class to make the button look pressed.</p>
+
+                <!--Section: Demo-->
+                <section class="border p-4 text-center mb-4">
+                  <a href="#" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Primary link</a>
+                  <a href="#" class="btn btn-secondary btn-lg active" role="button" aria-pressed="true">Link</a>
+                </section>
+                <!--Section: Demo-->
+
+                <!--Section: Code-->
+                <section>
+                  <mdbsnippet>
+                    <code data-lang="html" data-name="HTML">
+                      <a href="#" class="btn btn-primary btn-lg active" role="button" aria-pressed="true">Primary
+                        link</a>
+                      <a href="#" class="btn btn-secondary btn-lg active" role="button" aria-pressed="true">Link</a>
+                    </code>
+                  </mdbsnippet>
+                </section>
+                <!--Section: Code-->
+              </section>
+              <!--/Section: Active state-->
+
+              <hr class="my-5" />
+
+              <!--Section: Disabled state-->
+              <section id="section-disabled-state">
+                <!--Section title-->
+                <h2 class="mb-4">Disabled state</h2>
+
+                <!-- Section description -->
+                <p>
+                  Make buttons look inactive by adding the <code>disabled</code> boolean attribute
+                  to any <code>&lt;button&gt;</code> element. Disabled buttons have
+                  <code>pointer-events: none</code> applied to, preventing hover and active states
+                  from triggering.
+                </p>
+
+                <!--Section: Demo-->
+                <section class="border p-4 text-center mb-4">
+                  <button type="button" class="btn btn-primary btn-lg" disabled>
+                    Primary button
+                  </button>
+                  <button type="button" class="btn btn-secondary btn-lg" disabled>Button</button>
+                </section>
+                <!--Section: Demo-->
+
+                <!--Section: Code-->
+                <section class="mb-4">
+                  <mdbsnippet class="mb-4">
+                    <code data-lang="html" data-name="HTML">
+                      <button type="button" class="btn btn-primary btn-lg" disabled>
+                        Primary button
+                      </button>
+                      <button type="button" class="btn btn-secondary btn-lg" disabled>
+                        Button
+                      </button>
+                    </code>
+                  </mdbsnippet>
+                </section>
+                <!--Section: Code-->
+
+                <p>
+                  Disabled buttons using the <code>&lt;a&gt;</code> element behave a bit
+                  different:
+                </p>
+
+                <ul>
+                  <li>
+                    <code>&lt;a&gt;</code>s don’t support the <code>disabled</code> attribute, so
+                    you must add the <code>.disabled</code> class to make it visually appear
+                    disabled.
+                  </li>
+                  <li>
+                    Some future-friendly styles are included to disable all
+                    <code>pointer-events</code> on anchor buttons. In browsers which support that
+                    property, you won’t see the disabled cursor at all.
+                  </li>
+                  <li>
+                    Disabled buttons should include the
+                    <code>aria-disabled="true"</code> attribute to indicate the state of the
+                    element to assistive technologies.
+                  </li>
+                </ul>
+
+                <!--Section: Demo-->
+                <section class="border p-4 text-center mb-4">
+                  <a href="#" class="btn btn-primary btn-lg disabled" tabindex="-1" role="button"
+                    aria-disabled="true">Primary link</a>
+                  <a href="#" class="btn btn-secondary btn-lg disabled" tabindex="-1" role="button"
+                    aria-disabled="true">Link</a>
+                </section>
+                <!--Section: Demo-->
+
+                <!--Section: Code-->
+                <section class="mb-4">
+                  <mdbsnippet class="mb-4">
+                    <code data-lang="html" data-name="HTML">
+                      <a href="#" class="btn btn-primary btn-lg disabled" tabindex="-1" role="button"
+                        aria-disabled="true">Primary link</a>
+                      <a href="#" class="btn btn-secondary btn-lg disabled" tabindex="-1" role="button"
+                        aria-disabled="true">Link</a>
+                    </code>
+                  </mdbsnippet>
+                </section>
+                <!--Section: Code-->
+                <p class="note note-warning">
+                  <strong>Link functionality caveat:</strong>
+                  <br />
+                  The <code>.disabled</code> class uses <code>pointer-events: none</code> to try
+                  to disable the link functionality of <code>&lt;a&gt;</code>s, but that CSS
+                  property is not yet standardized. In addition, even in browsers that do support
+                  <code>pointer-events: none</code>, keyboard navigation remains unaffected,
+                  meaning that sighted keyboard users and users of assistive technologies will
+                  still be able to activate these links. So to be safe, add a
+                  <code>tabindex="-1"</code> attribute on these links (to prevent them from
+                  receiving keyboard focus) and use custom JavaScript to disable their
+                  functionality.
+                </p>
+              </section>
+              <!--/Section: Disabled state-->
+
+              <hr class="my-5" />
+
+              <!--Section: Toggle states-->
+              <section id="section-block-buttons">
+                <!--Section title-->
+                <h2 class="mb-4">Block buttons</h2>
+
+                <!-- Section description -->
+                <p>
+                  Create responsive stacks of full-width, “block buttons” like those in Bootstrap
+                  4 with a mix of our display and gap utilities. By using utilities instead of
+                  button specific classes, we have much greater control over spacing, alignment,
+                  and responsive behaviors.
+                </p>
+
+                <!--Section: Demo-->
+                <section class="border p-4 text-center mb-4">
+                  <div class="d-grid gap-2">
+                    <button class="btn btn-primary" type="button">Button</button>
+                    <button class="btn btn-primary" type="button">Button</button>
+                  </div>
+                </section>
+                <!--Section: Demo-->
+
+                <!--Section: Code-->
+                <section class="mb-4">
+                  <mdbsnippet>
+                    <code data-lang="html" data-name="HTML">
+                      <div class="d-grid gap-2">
+                        <button class="btn btn-primary" type="button">Button</button>
+                        <button class="btn btn-primary" type="button">Button</button>
+                      </div>
+                    </code>
+                  </mdbsnippet>
+                </section>
+                <!--Section: Code-->
+
+                <p>
+                  Here we create a responsive variation, starting with vertically stacked buttons
+                  until the
+                  <code>md</code> breakpoint, where <code>.d-md-block</code> replaces the
+                  <code>.d-grid</code> class, thus nullifying the <code>gap-2</code> utility.
+                  Resize your browser to see them change.
+                </p>
+
+                <!--Section: Demo-->
+                <section class="border p-4 text-center mb-4">
+                  <div class="d-grid gap-2 d-md-block">
+                    <button class="btn btn-primary" type="button">Button</button>
+                    <button class="btn btn-primary" type="button">Button</button>
+                  </div>
+                </section>
+                <!--Section: Demo-->
+
+                <!--Section: Code-->
+                <section class="mb-4">
+                  <mdbsnippet>
+                    <code data-lang="html" data-name="HTML">
+                      <div class="d-grid gap-2 d-md-block">
+                        <button class="btn btn-primary" type="button">Button</button>
+                        <button class="btn btn-primary" type="button">Button</button>
+                      </div>
+                    </code>
+                  </mdbsnippet>
+                </section>
+                <!--Section: Code-->
+
+                <p>
+                  You can adjust the width of your block buttons with grid column width classes.
+                  For example, for a half-width “block button”, use <code>.col-6</code>. Center it
+                  horizontally with <code>.mx-auto</code>, too.
+                </p>
+
+                <!--Section: Demo-->
+                <section class="border p-4 text-center mb-4">
+                  <div class="d-grid gap-2 col-6 mx-auto">
+                    <button class="btn btn-primary" type="button">Button</button>
+                    <button class="btn btn-primary" type="button">Button</button>
+                  </div>
+                </section>
+                <!--Section: Demo-->
+
+                <!--Section: Code-->
+                <section class="mb-4">
+                  <mdbsnippet>
+                    <code data-lang="html" data-name="HTML">
+                      <div class="d-grid gap-2 col-6 mx-auto">
+                        <button class="btn btn-primary" type="button">Button</button>
+                        <button class="btn btn-primary" type="button">Button</button>
+                      </div>
+                    </code>
+                  </mdbsnippet>
+                </section>
+                <!--Section: Code-->
+
+                <p>
+                  Additional utilities can be used to adjust the alignment of buttons when
+                  horizontal. Here we’ve taken our previous responsive example and added some flex
+                  utilities and a margin utility on the button to right align the buttons when
+                  they’re no longer stacked.
+                </p>
+
+                <!--Section: Demo-->
+                <section class="border p-4 text-center mb-4">
+                  <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                    <button class="btn btn-primary me-md-2" type="button">Button</button>
+                    <button class="btn btn-primary" type="button">Button</button>
+                  </div>
+                </section>
+                <!--Section: Demo-->
+
+                <!--Section: Code-->
+                <section class="mb-4">
+                  <mdbsnippet>
+                    <code data-lang="html" data-name="HTML">
+                      <div class="d-grid gap-2 d-md-flex justify-content-md-end">
+                        <button class="btn btn-primary me-md-2" type="button">Button</button>
+                        <button class="btn btn-primary" type="button">Button</button>
+                      </div>
+                    </code>
+                  </mdbsnippet>
+                </section>
+                <!--Section: Code-->
+              </section>
+              <!--/Section: Toggle states-->
+
+              <hr class="my-5" />
+
+              <!--Section: Toggle states-->
+              <section id="section-toggle-states">
+                <!--Section title-->
+                <h2 class="mb-4">Toggle states</h2>
+
+                <!-- Section description -->
+                <p>
+                  Add <code>data-mdb-toggle="button"</code> to toggle a button’s
+                  <code>active</code> state. If you’re pre-toggling a button, you must manually
+                  add the <code>.active</code> class <strong>and</strong>
+                  <code>aria-pressed="true"</code> to the <code>&lt;button&gt;</code>.
+                </p>
+
+                <!--Section: Demo-->
+                <section class="border p-4 text-center mb-4">
+                  <button type="button" class="btn btn-primary" data-mdb-toggle="button" autocomplete="off">
+                    Toggle button
+                  </button>
+                  <button type="button" class="btn btn-primary active" data-mdb-toggle="button" autocomplete="off"
+                    aria-pressed="true">
+                    Active toggle button
+                  </button>
+                  <button type="button" class="btn btn-primary" disabled data-mdb-toggle="button" autocomplete="off">
+                    Disabled toggle button
+                  </button>
+                </section>
+                <!--Section: Demo-->
+
+                <!--Section: Code-->
+                <section class="mb-4">
+                  <mdbsnippet>
+                    <code data-lang="html" data-name="HTML">
+                      <button type="button" class="btn btn-primary" data-mdb-toggle="button" autocomplete="off">
+                        Toggle button
+                      </button>
+                      <button type="button" class="btn btn-primary active" data-mdb-toggle="button" autocomplete="off"
+                        aria-pressed="true">
+                        Active toggle button
+                      </button>
+                      <button type="button" class="btn btn-primary" disabled data-mdb-toggle="button"
+                        autocomplete="off">
+                        Disabled toggle button
+                      </button>
+                    </code>
+                  </mdbsnippet>
+                </section>
+                <!--Section: Code-->
+
+                <!--Section: Demo-->
+                <section class="border p-4 text-center mb-4">
+                  <a href="#" class="btn btn-primary" role="button" data-mdb-toggle="button">Toggle link</a>
+                  <a href="#" class="btn btn-primary active" role="button" data-mdb-toggle="button"
+                    aria-pressed="true">Active toggle link</a>
+                  <a href="#" class="btn btn-primary disabled" role="button" data-mdb-toggle="button">Disabled toggle
+                    link</a>
+                </section>
+                <!--Section: Demo-->
+
+                <!--Section: Code-->
+                <section class="mb-4">
+                  <mdbsnippet>
+                    <code data-lang="html" data-name="HTML">
+                      <a href="#" class="btn btn-primary" role="button" data-mdb-toggle="button">Toggle link</a>
+                      <a href="#" class="btn btn-primary active" role="button" data-mdb-toggle="button"
+                        aria-pressed="true">Active toggle link</a>
+                      <a href="#" class="btn btn-primary disabled" role="button" data-mdb-toggle="button">Disabled
+                        toggle link</a>
+                    </code>
+                  </mdbsnippet>
+                </section>
+                <!--Section: Code-->
+              </section>
+              <!--/Section: Toggle states-->
+            </section>
+            <!--Section: Docs content-->
+          </div>
+          <!--Grid column-->
+
+          <!--Grid column-->
+          <div class="col-md-2 mb-4">
+            <!-- Table of content -->
+            <div id="scrollspy" class="sticky-top">
+              <ul class="nav flex-column nav-pills menu-sidebar">
+                <!-- Links -->
+                <li class="nav-item">
+                  <a class="nav-link active" href="#section-introduction">Introduction</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#section-basic-example">Basic example</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#section-colors">Colors</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#section-outline">Outline</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#section-rounded">Rounded</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#section-rounded-outline">Rounded outline</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#section-floating">Floating</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#section-fixed-buttons">Fixed buttons</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#section-social">Social</a>
+                  <ul class="nav flex-column ps-3">
+                    <li class="nav-item">
+                      <a class="nav-link" href="#subsection-sample-brands">Sample brands</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#subsection-floating-social">Floating social</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#subsection-text">Text</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#subsection-only-icon">Only icon</a>
+                    </li>
+                    <li class="nav-item">
+                      <a class="nav-link" href="#subsection-notifications">Notifications</a>
+                    </li>
+                  </ul>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#section-tags">Tags</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#section-sizes">Sizes</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#section-active-state">Active state</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#section-disabled-state">Disabled state</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#section-block-buttons">Block buttons</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#section-toggle-states">Toggle states</a>
+                </li>
+                <!-- Links -->
+              </ul>
+            </div>
+            <!-- Table of content -->
+          </div>
+          <!--Grid column-->
+        </div>
+        <!--Grid row-->
+      </div>
+      <!-- Overview panel -->
+
+      <!-- API panel -->
+      <div class="tab-pane fade" id="pills-api" role="tabpanel" aria-labelledby="pills-api-tab">
+        <!--Grid row-->
+        <div class="row">
+          <!--Grid column-->
+          <div class="col-md-10 mb-4">
+            <!--Section: API content-->
+            <section>
+              <!--Section: Introduction-->
+              <section id="section-introduction">
+                <!-- Main title -->
+                <h2 class="h1 fw-bold">Buttons - API</h2>
+              </section>
+              <!--Section: Introduction-->
+
+              <hr class="my-5" />
+
+              <!--Section: Usage-->
+              <section id="api-section-usage">
+                <!-- Section title -->
+                <h2>Usage</h2>
+
+                <h4 class="mt-5 mb-3">Via data attributes</h4>
+
+                <p>For all buttons except fixed buttons</p>
+                <!-- prettier-ignore -->
+                <mdbsnippet>
+                  <code data-lang="html" data-name="HTML">
+                    <button type="button" class="btn btn-primary" data-mdb-toggle="button" autocomplete="off">
+                      Toggle button
+                    </button>
+                  </code>
+                </mdbsnippet>
+
+                <h4 class="mt-5 mb-3">Via JavaScript</h4>
+
+                <!-- prettier-ignore -->
+                <mdbsnippet>
+                  <code data-lang="js" data-name="JavaScript">
+                    const exampleEl = document.querySelector('example');
+                    const myButton = new mdb.Button(exampleEl);
+                  </code>
+                </mdbsnippet>
+
+                <h4 class="mt-5 mb-3">Via jQuery</h4>
+
+                <p class="note note-warning">
+                  <strong>Note:</strong> By default, MDB <strong>does not</strong> include jQuery
+                  and you have to add it to the project on your own.
+                </p>
+
+                <!-- prettier-ignore -->
+                <mdbsnippet>
+                  <code data-lang="js" data-name="jQuery">
+                    $('#exampleID').button('methodName');
+                  </code>
+                </mdbsnippet>
+              </section>
+              <!--Section: Usage-->
+
+              <hr class="my-5" />
+
+              <!--Section: Methods-->
+              <section id="api-section-methods">
+                <!-- Section title -->
+                <h2 class="mb-4">Methods</h2>
+
+                <p>You can create a button instance with the button constructor, for example:</p>
+
+                <mdbsnippet>
+                  <!-- prettier-ignore -->
+                  <code data-lang="js" data-name="JavaScript">
+                    const button = document.querySelector('#myButton')
+                    const bsButton = new mdb.Button(button)
+                  </code>
+                </mdbsnippet>
+
+                <table class="table my-4 table-striped table-bordered">
+                  <thead>
+                    <tr>
+                      <th>Method</th>
+                      <th>Description</th>
+                      <th>Example</th>
+                    </tr>
+                  </thead>
+                  <tbody>
+                    <tr>
+                      <td>
+                        <code>dispose</code>
+                      </td>
+                      <td>Destroys an element's button.</td>
+                      <td>instance.dispose()</td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <code>toggle</code>
+                      </td>
+                      <td>
+                        Toggles push state. Gives the button the appearance that it has been
+                        activated.
+                      </td>
+                      <td>instance.toggle()</td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <code>show</code>
+                      </td>
+                      <td>Manually opens fixed button list.</td>
+                      <td>instance.show()</td>
+                    </tr>
+                    <tr>
+                      <td>
+                        <code>hide</code>
+                      </td>
+                      <td>Manually hides fixed button list.</td>
+                      <td>instance.hide()</td>
+                    </tr>
+                  </tbody>
+                </table>
+
+                <p>For example, to toggle all buttons</p>
+
+                <!-- prettier-ignore -->
+                <mdbsnippet>
+
+                  <code data-lang="js" data-name="JavaScript">
+                    const buttons = document.querySelectorAll('.btn')
+                    buttons.forEach((button) => {
+                    const button = new mdb.Button(button)
+                    button.toggle()
+                    })
+                  </code>
+
+                </mdbsnippet>
+              </section>
+              <!--Section: Methods-->
+
+              <hr class="my-5" />
+
+              <!--Section: Events-->
+              <section id="api-section-events">
+                <!-- Section title -->
+                <h2 class="mb-4">Events</h2>
+
+                <div class="table-responsive">
+                  <table class="table table-striped table-bordered">
+                    <thead>
+                      <tr>
+                        <th class="th-sm">Name</th>
+                        <th class="th-sm">Description</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+                      <tr>
+                        <td class="text-nowrap">
+                          <code class="highlighter-rouge">show.mdb.button</code>
+                        </td>
+                        <td>
+                          This event fires immediately when the fixed button
+                          <code>show</code> method has been called.
+                        </td>
+                      </tr>
+                      <tr>
+                        <td class="text-nowrap">
+                          <code class="highlighter-rouge">shown.mdb.button</code>
+                        </td>
+                        <td>
+                          This event is fired when a fixed button list has been made visible to
+                          the user (will wait for CSS transitions to complete).
+                        </td>
+                      </tr>
+                      <tr>
+                        <td class="text-nowrap">
+                          <code class="highlighter-rouge">hide.mdb.button</code>
+                        </td>
+                        <td>
+                          This event is fired immediately when the fixed button
+                          <code>hide</code> method has been called.
+                        </td>
+                      </tr>
+                      <tr>
+                        <td class="text-nowrap">
+                          <code class="highlighter-rouge">hidden.mdb.button</code>
+                        </td>
+                        <td>
+                          This event is fired when a fixed button list has been hidden from the
+                          user (will wait for CSS transitions to complete).
+                        </td>
+                      </tr>
+                    </tbody>
+                  </table>
+                </div>
+
+                <!-- prettier-ignore -->
+                <mdbsnippet>
+                  <code data-lang="js" data-name="JavaScript">
+                    const myFixedButton = document.getElementById('myFixedButton')
+                    myFixedButton.addEventListener('show.mdb.button', function (e) {
+                    // do something...
+                    })
+                  </code>
+                </mdbsnippet>
+              </section>
+              <!--Section: Events-->
+
+              <hr class="my-5" />
+
+              <!--Section: Import-->
+              <section id="api-section-import">
+                <!-- Section title -->
+                <h2 class="mb-4">Import</h2>
+
+                <!-- Description -->
+                <p>
+                  <strong>MDB UI KIT</strong> also works with module bundlers. Use the following
+                  code to import this component:
+                </p>
+
+                <!-- prettier-ignore -->
+                <mdbsnippet>
+                  <code data-lang="js" data-name="JavaScript">
+                    import { Button } from 'mdb-ui-kit';
+                  </code>
+                </mdbsnippet>
+              </section>
+              <!--Section: Import-->
+            </section>
+            <!--Section: API content-->
+          </div>
+          <!--Grid column-->
+
+          <!--Grid column-->
+          <div class="col-md-2 mb-4">
+            <!-- Table of content -->
+            <div id="scrollspy" class="sticky-top">
+              <ul class="nav flex-column nav-pills menu-sidebar">
+                <!-- Links -->
+                <li class="nav-item">
+                  <a class="nav-link active" href="#api-section-usage">Usage</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#api-section-methods">Methods</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#api-section-events">Events</a>
+                </li>
+                <li class="nav-item">
+                  <a class="nav-link" href="#api-section-import">Import</a>
+                </li>
+                <!-- Links -->
+              </ul>
+            </div>
+            <!-- Table of content -->
+          </div>
+          <!--Grid column-->
+        </div>
+        <!--Grid row-->
+      </div>
+      <!-- API panel -->
+    </div>
+    <!-- Panels -->
+  </div>
+
+    <!-- PRISM -->
+    <script type="text/javascript" src="../../dev/js/new-prism.js"></script>
+    <!-- MDB SNIPPET -->
+    <script type="text/javascript" src="../../dev/js/dist/mdbsnippet.min.js"></script>
+    <!-- MDB -->
+    <script type="text/javascript" src="../../js/mdb.min.js"></script>
+    <!-- Custom scripts -->
+    <script type="text/javascript"></script>
+  </body>
+</html>

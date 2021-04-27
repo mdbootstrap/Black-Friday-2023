@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <title>Material Design for Bootstrap</title>
+    <!-- MDB icon -->
+    <link rel="icon" href="../../img/mdb-favicon.ico" type="image/x-icon" />
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" />
+    <!-- Google Fonts Roboto -->
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
+    />
+    <!-- MDB -->
+    <link rel="stylesheet" href="../../css/mdb.min.css" />
+    <!-- PRISM -->
+    <link rel="stylesheet" href="../../dev/css/new-prism.css" />
+    <!-- Custom styles -->
+    <style></style>
+  </head>
+
+  <body>
+    <div class="container my-5">
+      <!-- Navs -->
+      <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+        <!-- Overview tab -->
+        <li class="nav-item" role="presentation">
+          <a
+            class="nav-link active"
+            id="pills-overview-tab"
+            data-mdb-toggle="pill"
+            href="#pills-overview"
+            role="tab"
+            aria-controls="pills-overview"
+            aria-selected="true"
+            >Overview</a
+          >
+        </li>
+        <!-- Overview tab -->
+
+        <!-- Api tab -->
+        <li class="nav-item" role="presentation">
+          <a
+            class="nav-link"
+            id="pills-api-tab"
+            data-mdb-toggle="pill"
+            href="#pills-api"
+            role="tab"
+            aria-controls="pills-api"
+            aria-selected="false"
+            >API</a
+          >
+        </li>
+        <!-- Api tab -->
+      </ul>
+      <!-- Navs -->
+
+      <!-- Panels -->
+      <div class="tab-content mt-4" id="pills-tabContent">
+        <!-- Overview panel -->
+        <div
+          class="tab-pane fade show active"
+          id="pills-overview"
+          role="tabpanel"
+          aria-labelledby="pills-overview-tab"
+        >
+          <!--Grid row-->
+          <div class="row">
+            <!--Grid column-->
+            <div class="col-md-10 mb-4">
+              <!--Section: Docs content-->
+              <section>
+                <!--Section: Introduction-->
+                <section id="section-introduction">
+                  <!-- Main title -->
+                  <h2 class="h1 fw-bold">Range</h2>
+
+                  <!-- Seo title -->
+                  <h1 class="h5">Range - Bootstrap 5 & Material Design 2.0 forms</h1>
+
+                  <!-- Description -->
+                  <p>
+                    A Range is an interactive component that lets the user swiftly slide through
+                    possible values spread over the desired range.
+                  </p>
+
+                  <p class="note note-light">
+                    <strong>Note:</strong> Read the <strong>API</strong> tab to find all available
+                    options and advanced customization
+                  </p>
+                </section>
+                <!--Section: Introduction-->
+
+                <hr class="my-5" />
+
+                <!--Section: Basic example-->
+                <section id="section-basic-example">
+                  <!-- Section title -->
+                  <h2 class="mb-4">Basic example</h2>
+
+                  <!-- Description -->
+                  <p>
+                    Create custom <code>&lt;input type="range"&gt;</code> controls with
+                    <code>.form-range</code>. The track (the background) and thumb (the value) are
+                    both styled to appear the same across browsers. As only Firefox supports
+                    “filling” their track from the left or right of the thumb as a means to visually
+                    indicate progress, we do not currently support it.
+                  </p>
+
+                  <!--Section: Demo-->
+                  <section class="border p-4 mb-4">
+                    <label class="form-label" for="customRange1">Example range</label>
+                    <div class="range">
+                      <input type="range" class="form-range" id="customRange1" />
+                    </div>
+                  </section>
+                  <!--Section: Demo-->
+
+                  <!--Section: Code-->
+                  <section>
+                    <mdbsnippet>
+                      <code data-lang="html" data-name="HTML">
+                        <label class="form-label" for="customRange1">Example range</label>
+                        <div class="range">
+                          <input type="range" class="form-range" id="customRange1" />
+                        </div>
+                      </code>
+                    </mdbsnippet>
+                  </section>
+                  <!--Section: Code-->
+                </section>
+                <!--Section: Basic example-->
+
+                <hr class="my-5" />
+
+                <!--Section: Min and max-->
+                <section id="section-min-max">
+                  <!-- Section title -->
+                  <h4 class="mb-4">Min and max</h4>
+
+                  <!-- Description -->
+                  <p>
+                    Range inputs have implicit values for <code>min</code> and
+                    <code>max</code>—<code>0</code> and <code>100</code>, respectively. You may
+                    specify new values for those using the <code>min</code> and
+                    <code>max</code> attributes.
+                  </p>
+
+                  <!--Section: Demo-->
+                  <section class="border p-4 mb-4">
+                    <label for="customRange2" class="form-label">Example range</label>
+                    <div class="range">
+                      <input type="range" class="form-range" min="0" max="5" id="customRange2" />
+                    </div>
+                  </section>
+                  <!--Section: Demo-->
+
+                  <!--Section: Code-->
+                  <section>
+                    <mdbsnippet>
+                      <code data-lang="html" data-name="HTML">
+                        <label class="form-label" for="customRange2">Example range</label>
+                        <div class="range">
+                          <input
+                            type="range"
+                            class="form-range"
+                            min="0"
+                            max="5"
+                            id="customRange2"
+                          />
+                        </div>
+                      </code>
+                    </mdbsnippet>
+                  </section>
+                  <!--Section: Code-->
+                </section>
+                <!--Section: Min and max-->
+
+                <hr class="my-5" />
+
+                <!--Section: Steps-->
+                <section id="section-steps">
+                  <!-- Section title -->
+                  <h4 class="mb-4">Steps</h4>
+
+                  <!-- Description -->
+                  <p>
+                    By default, range inputs “snap” to integer values. To change this, you can
+                    specify a <code>step</code> value. In the example below, we double the number of
+                    steps by using <code>step="0.5"</code>.
+                  </p>
+
+                  <!--Section: Demo-->
+                  <section class="border p-4 mb-4">
+                    <label class="form-label" for="customRange3">Example range</label>
+                    <div class="range">
+                      <input
+                        type="range"
+                        class="form-range"
+                        min="0"
+                        max="5"
+                        step="0.5"
+                        id="customRange3"
+                      />
+                    </div>
+                  </section>
+                  <!--Section: Demo-->
+
+                  <!--Section: Code-->
+                  <section>
+                    <mdbsnippet>
+                      <code data-lang="html" data-name="HTML">
+                        <label for="customRange3" class="form-label">Example range</label>
+                        <div class="range">
+                          <input
+                            type="range"
+                            class="form-range"
+                            min="0"
+                            max="5"
+                            step="0.5"
+                            id="customRange3"
+                          />
+                        </div>
+                      </code>
+                    </mdbsnippet>
+                  </section>
+                  <!--Section: Code-->
+                </section>
+                <!--Section: Steps-->
+              </section>
+              <!--Section: Docs content-->
+            </div>
+            <!--Grid column-->
+
+            <!--Grid column-->
+            <div class="col-md-2 mb-4">
+              <!-- Table of content -->
+              <div id="scrollspy" class="sticky-top">
+                <ul class="nav flex-column nav-pills menu-sidebar">
+                  <!-- Links -->
+                  <li class="nav-item">
+                    <a class="nav-link active" href="#section-introduction">Introduction</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#section-basic-example">Basic example</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#section-min-max">Min and max</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#section-steps">Steps</a>
+                  </li>
+                  <!-- Links -->
+                </ul>
+              </div>
+              <!-- Table of content -->
+            </div>
+            <!--Grid column-->
+          </div>
+          <!--Grid row-->
+        </div>
+        <!-- Overview panel -->
+
+        <!-- API panel -->
+        <div class="tab-pane fade" id="pills-api" role="tabpanel" aria-labelledby="pills-api-tab">
+          <!--Grid row-->
+          <div class="row">
+            <!--Grid column-->
+            <div class="col-md-10 mb-4">
+              <!--Section: API content-->
+              <section>
+                <!--Section: Introduction-->
+                <section id="section-introduction">
+                  <!-- Main title -->
+                  <h2 class="h1 fw-bold">Range - API</h2>
+                </section>
+                <!--Section: Introduction-->
+
+                <hr class="my-5" />
+
+                <!--Section: Usage-->
+                <section id="api-section-usage">
+                  <!-- Section title -->
+                  <h2 class="mb-4">Usage</h2>
+
+                  <h4 class="my-4">Via JavaScript</h4>
+
+                  <!-- prettier-ignore -->
+                  <mdbsnippet>
+                    <code data-lang="js" data-name="JavaScript">
+                      const range = new bootstrap.Range(document.getElementById('range'), options)
+                    </code>
+                  </mdbsnippet>
+
+                  <h4 class="my-4">Via jQuery</h4>
+
+                  <p class="note note-warning">
+                    <strong>Note:</strong> By default, MDB <strong>does not</strong> include jQuery
+                    and you have to add it to the project on your own.
+                  </p>
+                  <mdbsnippet>
+                    <code data-lang="js" data-name="JavaScript"> $('#range').range('init'); </code>
+                  </mdbsnippet>
+                </section>
+                <!--Section: Usage-->
+
+                <hr class="my-5" />
+
+                <!--Section: Methods-->
+                <section id="api-section-methods">
+                  <!-- Section title -->
+                  <h2 class="mb-4">Methods</h2>
+
+                  <div class="table-responsive">
+                    <table class="table table-striped table-bordered">
+                      <thead>
+                        <tr>
+                          <th class="th-sm">Name</th>
+                          <th class="th-sm">Description</th>
+                          <th class="th-sm">Example</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td class="text-nowrap"><code class="highlighter-rouge">init</code></td>
+                          <td>Initialize a range instance</td>
+                          <td><code class="language-markup text-nowrap">myRange.init()</code></td>
+                        </tr>
+                        <tr>
+                          <td class="text-nowrap">
+                            <code class="highlighter-rouge">dispose</code>
+                          </td>
+                          <td>Disposes a range instance</td>
+                          <td>
+                            <code class="language-markup text-nowrap">myRange.dispose()</code>
+                          </td>
+                        </tr>
+                        <tr>
+                          <td class="text-nowrap">
+                            <code class="highlighter-rouge">getInstance</code>
+                          </td>
+                          <td>
+                            <em>Static</em> method which allows you to get the range instance
+                            associated with a DOM element.
+                          </td>
+                          <td>
+                            <code class="language-markup text-nowrap"
+                              >mdb.Range.getInstance(element)</code
+                            >
+                          </td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+
+                  <!-- prettier-ignore -->
+                  <mdbsnippet>
+                    <code data-lang="js" data-name="JavaScript">
+                      const range = document.getElementById('range');
+                      const instance = mdb.Range.getInstance(range);
+                      instance.dispose();
+                    </code>
+                  </mdbsnippet>
+                </section>
+                <!--Section: Methods-->
+
+                <hr class="my-5" />
+
+                <!--Section: Import-->
+                <section id="api-section-import">
+                  <!-- Section title -->
+                  <h2 class="mb-4">Import</h2>
+
+                  <!-- Description -->
+                  <p>
+                    <strong>MDB UI KIT</strong> also works with module bundlers. Use the following
+                    code to import this component:
+                  </p>
+
+                  <!-- prettier-ignore -->
+                  <mdbsnippet>
+                    <code data-lang="js" data-name="JavaScript">
+                      import { Range } from 'mdb-ui-kit';
+                    </code>
+                  </mdbsnippet>
+                </section>
+                <!--Section: Import-->
+              </section>
+              <!--Section: API content-->
+            </div>
+            <!--Grid column-->
+
+            <!--Grid column-->
+            <div class="col-md-2 mb-4">
+              <!-- Table of content -->
+              <div id="scrollspy" class="sticky-top">
+                <ul class="nav flex-column nav-pills menu-sidebar">
+                  <!-- Links -->
+                  <li class="nav-item">
+                    <a class="nav-link active" href="#api-section-usage">Usage</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#api-section-methods">Methods</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#api-section-import">Import</a>
+                  </li>
+                  <!-- Links -->
+                </ul>
+              </div>
+              <!-- Table of content -->
+            </div>
+            <!--Grid column-->
+          </div>
+          <!--Grid row-->
+        </div>
+        <!-- API panel -->
+      </div>
+      <!-- Panels -->
+    </div>
+
+    <!-- PRISM -->
+    <script type="text/javascript" src="../../dev/js/new-prism.js"></script>
+    <!-- MDB SNIPPET -->
+    <script type="text/javascript" src="../../dev/js/dist/mdbsnippet.min.js"></script>
+    <!-- MDB -->
+    <script type="text/javascript" src="../../js/mdb.min.js"></script>
+    <!-- Custom scripts -->
+    <script type="text/javascript"></script>
+  </body>
+</html>

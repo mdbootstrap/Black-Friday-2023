@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <title>Material Design for Bootstrap</title>
+    <!-- MDB icon -->
+    <link rel="icon" href="../../img/mdb-favicon.ico" type="image/x-icon" />
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" />
+    <!-- Google Fonts Roboto -->
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
+    />
+    <!-- MDB -->
+    <link rel="stylesheet" href="../../css/mdb.min.css" />
+    <!-- PRISM -->
+    <link rel="stylesheet" href="../../dev/css/new-prism.css" />
+    <!-- Custom styles -->
+    <style>
+      .shadow-demo {
+        width: 100px;
+        height: 100px;
+        background-color: #fff;
+      }
+
+      .shadow-demo-1 {
+        width: 100px;
+        height: 100px;
+        background-color: #ccc;
+      }
+
+      .shadow-demo-2 {
+        width: 100px;
+        height: 100px;
+        background-color: #000;
+      }
+
+      .mask-custom {
+        background-color: rgba(255, 255, 255, 0.2);
+        border-radius: 0;
+        border: 0;
+        background-clip: padding-box;
+        box-shadow: 10px 10px 10px rgba(46, 54, 68, 0.03);
+      }
+
+      .custom-1 {
+        backdrop-filter: blur(30px);
+      }
+
+      .custom-2 {
+        backdrop-filter: blur(60px);
+      }
+
+      .custom-3 {
+        backdrop-filter: blur(40px);
+      }
+
+      .custom-4 {
+        backdrop-filter: blur(15px);
+      }
+
+      .custom-5 {
+        backdrop-filter: blur(5px);
+      }
+
+      .mask-custom-1 {
+        background-color: rgba(0, 0, 0, 0.2);
+        border-radius: 0;
+        border: 0;
+        background-clip: padding-box;
+        box-shadow: 10px 10px 10px rgba(46, 54, 68, 0.03);
+      }
+
+      .custom-6 {
+        backdrop-filter: blur(30px);
+      }
+
+      .custom-7 {
+        backdrop-filter: blur(60px);
+      }
+
+      .custom-8 {
+        backdrop-filter: blur(40px);
+      }
+
+      .custom-9 {
+        backdrop-filter: blur(15px);
+      }
+
+      .custom-10 {
+        backdrop-filter: blur(5px);
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="container my-5">
+      <div class="row mb-5">
+        <div class="col">
+          <div class="shadow-demo shadow-0"></div>
+        </div>
+        <div class="col">
+          <div class="shadow-demo shadow-1"></div>
+        </div>
+        <div class="col">
+          <div class="shadow-demo shadow-2"></div>
+        </div>
+        <div class="col">
+          <div class="shadow-demo shadow-3"></div>
+        </div>
+        <div class="col">
+          <div class="shadow-demo shadow-4"></div>
+        </div>
+      </div>
+
+      <!-- <div class="row mb-5">
+        <div class="col">
+          <div class="shadow-demo shadow-0"></div>
+        </div>
+        <div class="col">
+          <div class="shadow-demo shadow-1-strong"></div>
+        </div>
+        <div class="col">
+          <div class="shadow-demo shadow-2-strong"></div>
+        </div>
+        <div class="col">
+          <div class="shadow-demo shadow-3-strong"></div>
+        </div>
+        <div class="col">
+          <div class="shadow-demo shadow-4-strong"></div>
+        </div>
+        <div class="col">
+          <div class="shadow-demo shadow-5-strong"></div>
+        </div>
+      </div>
+
+      <div class="row mb-5">
+        <div class="col">
+          <div class="shadow-demo-1 shadow-0"></div>
+        </div>
+        <div class="col">
+          <div class="shadow-demo-1 shadow-1-strong"></div>
+        </div>
+        <div class="col">
+          <div class="shadow-demo-1 shadow-2-strong"></div>
+        </div>
+        <div class="col">
+          <div class="shadow-demo-1 shadow-3-strong"></div>
+        </div>
+        <div class="col">
+          <div class="shadow-demo-1 shadow-4-strong"></div>
+        </div>
+        <div class="col">
+          <div class="shadow-demo-1 shadow-5-strong"></div>
+        </div>
+      </div>
+
+      <div class="row mb-5">
+        <div class="col">
+          <div class="shadow-demo-2 shadow-0"></div>
+        </div>
+        <div class="col">
+          <div class="shadow-demo-2 shadow-1-strong"></div>
+        </div>
+        <div class="col">
+          <div class="shadow-demo-2 shadow-2-strong"></div>
+        </div>
+        <div class="col">
+          <div class="shadow-demo-2 shadow-3-strong"></div>
+        </div>
+        <div class="col">
+          <div class="shadow-demo-2 shadow-4-strong"></div>
+        </div>
+        <div class="col">
+          <div class="shadow-demo-2 shadow-5-strong"></div>
+        </div>
+      </div> -->
+    </div>
+
+    <!-- <div class="container my-5">
+      <div class="row">
+        <h3 class="mb-4">Shadow 5 strong</h3>
+
+        <div class="col-12 mb-5">
+          <img
+            class="img-fluid shadow-5-strong"
+            src="https://mdbootstrap.com/img/new/slides/132.jpg"
+            alt="Sample"
+          />
+        </div>
+      </div>
+      <div class="row">
+        <h3 class="mb-4">Shadow 4 strong</h3>
+
+        <div class="col-6 mb-5">
+          <img
+            class="img-fluid shadow-4-strong"
+            src="https://mdbootstrap.com/img/new/standard/city/058.jpg"
+            alt="Sample"
+          />
+        </div>
+        <div class="col-6 mb-5">
+          <img
+            class="img-fluid shadow-4-strong"
+            src="https://mdbootstrap.com/img/new/standard/nature/046.jpg"
+            alt="Sample"
+          />
+        </div>
+      </div>
+      <div class="row">
+        <h3 class="mb-4">Shadow 3 strong</h3>
+
+        <div class="col-6 mb-5">
+          <img
+            class="img-fluid shadow-3-strong"
+            src="https://mdbootstrap.com/img/new/standard/city/060.jpg"
+            alt="Sample"
+          />
+        </div>
+        <div class="col-6 mb-5">
+          <img
+            class="img-fluid shadow-3-strong"
+            src="https://mdbootstrap.com/img/new/standard/nature/015.jpg"
+            alt="Sample"
+          />
+        </div>
+      </div>
+      <div class="row">
+        <h3 class="mb-4">Shadow 2 strong</h3>
+
+        <div class="col-4 mb-5">
+          <img
+            class="img-fluid shadow-2-strong"
+            src="https://mdbootstrap.com/img/new/standard/nature/034.jpg"
+            alt="Sample"
+          />
+        </div>
+        <div class="col-4 mb-5">
+          <img
+            class="img-fluid shadow-2-strong"
+            src="https://mdbootstrap.com/img/new/standard/nature/045.jpg"
+            alt="Sample"
+          />
+        </div>
+        <div class="col-4 mb-5">
+          <img
+            class="img-fluid shadow-2-strong"
+            src="https://mdbootstrap.com/img/new/standard/nature/055.jpg"
+            alt="Sample"
+          />
+        </div>
+      </div>
+      <div class="row">
+        <h3 class="mb-4">Shadow 1 strong</h3>
+
+        <div class="col-3 mb-5">
+          <img
+            class="img-fluid shadow-1-strong"
+            src="https://mdbootstrap.com/img/new/standard/nature/003.jpg"
+            alt="Sample"
+          />
+        </div>
+        <div class="col-3 mb-5">
+          <img
+            class="img-fluid shadow-1-strong"
+            src="https://mdbootstrap.com/img/new/standard/nature/021.jpg"
+            alt="Sample"
+          />
+        </div>
+        <div class="col-3 mb-5">
+          <img
+            class="img-fluid shadow-1-strong"
+            src="https://mdbootstrap.com/img/new/standard/nature/047.jpg"
+            alt="Sample"
+          />
+        </div>
+        <div class="col-3 mb-5">
+          <img
+            class="img-fluid shadow-1-strong"
+            src="https://mdbootstrap.com/img/new/standard/nature/058.jpg"
+            alt="Sample"
+          />
+        </div>
+      </div>
+    </div> -->
+
+    <div class="container mb-5">
+      <section style="height: 1000px;">
+        <div
+          class="bg-image h-100"
+          style="
+            background-image: url(https://mdbootstrap.com/img/Photos/new-templates/glassmorphism-article/img5.jpg);
+          "
+        >
+          <div class="mask d-flex align-items-center h-100">
+            <div class="container">
+              <div class="row justify-content-center">
+                <div class="col-xl-8 mb-4">
+                  <div
+                    class="card mask-custom custom-1 py-5 px-4 text-white"
+                    style="height: 350px;"
+                  >
+                    <div class="card-body d-flex align-items-center justify-content-center">
+                      <p class="h4 mb-0 text-dark">Blur: 30px</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="row justify-content-center">
+                <div class="col-xl-2">
+                  <div
+                    class="card mask-custom custom-2 py-5 px-4 text-white"
+                    style="height: 150px;"
+                  >
+                    <div class="card-body d-flex align-items-center justify-content-center">
+                      <p class="h6 mb-0 text-dark">Blur: 60px</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-xl-2">
+                  <div
+                    class="card mask-custom custom-3 py-5 px-4 text-white"
+                    style="height: 150px;"
+                  >
+                    <div class="card-body d-flex align-items-center justify-content-center">
+                      <p class="h6 mb-0 text-dark">Blur: 40px</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-xl-2">
+                  <div
+                    class="card mask-custom custom-4 py-5 px-4 text-white"
+                    style="height: 150px;"
+                  >
+                    <div class="card-body d-flex align-items-center justify-content-center">
+                      <p class="h6 mb-0 text-dark">Blur: 15px</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-xl-2">
+                  <div
+                    class="card mask-custom custom-5 py-5 px-4 text-white"
+                    style="height: 150px;"
+                  >
+                    <div class="card-body d-flex align-items-center justify-content-center">
+                      <p class="h6 mb-0 text-dark">Blur: 5px</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <div class="container mb-5">
+      <section style="height: 1000px;">
+        <div
+          class="bg-image h-100"
+          style="
+            background-image: url(https://mdbootstrap.com/img/Photos/new-templates/glassmorphism-article/img8.jpg);
+          "
+        >
+          <div class="mask d-flex align-items-center h-100">
+            <div class="container">
+              <div class="row justify-content-center">
+                <div class="col-xl-8 mb-4">
+                  <div
+                    class="card mask-custom-1 custom-6 py-5 px-4 text-white"
+                    style="height: 350px;"
+                  >
+                    <div class="card-body d-flex align-items-center justify-content-center">
+                      <p class="h4 mb-0">Blur: 30px</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div class="row justify-content-center">
+                <div class="col-xl-2">
+                  <div
+                    class="card mask-custom-1 custom-7 py-5 px-4 text-white"
+                    style="height: 150px;"
+                  >
+                    <div class="card-body d-flex align-items-center justify-content-center">
+                      <p class="h6 mb-0">Blur: 60px</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-xl-2">
+                  <div
+                    class="card mask-custom-1 custom-8 py-5 px-4 text-white"
+                    style="height: 150px;"
+                  >
+                    <div class="card-body d-flex align-items-center justify-content-center">
+                      <p class="h6 mb-0">Blur: 40px</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-xl-2">
+                  <div
+                    class="card mask-custom-1 custom-9 py-5 px-4 text-white"
+                    style="height: 150px;"
+                  >
+                    <div class="card-body d-flex align-items-center justify-content-center">
+                      <p class="h6 mb-0">Blur: 15px</p>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-xl-2">
+                  <div
+                    class="card mask-custom-1 custom-10 py-5 px-4 text-white"
+                    style="height: 150px;"
+                  >
+                    <div class="card-body d-flex align-items-center justify-content-center">
+                      <p class="h6 mb-0">Blur: 5px</p>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <div class="row">
+        <div class="col-12 mb-4"></div>
+      </div>
+      <div class="row">
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+        <div class="col-md-3"></div>
+      </div>
+    </div>
+
+    <!-- MDB -->
+    <script type="text/javascript" src="../../js/mdb.min.js"></script>
+    <!-- PRISM -->
+    <script type="text/javascript" src="../../dev/js/new-prism.js"></script>
+    <!-- MDB SNIPPET -->
+    <script type="text/javascript" src="../../dev/js/dist/mdbsnippet.min.js"></script>
+    <!-- Custom scripts -->
+    <script type="text/javascript"></script>
+  </body>
+</html>

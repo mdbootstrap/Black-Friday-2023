@@ -1,0 +1,370 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <title>Material Design for Bootstrap</title>
+    <!-- MDB icon -->
+    <link rel="icon" href="../../img/mdb-favicon.ico" type="image/x-icon" />
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" />
+    <!-- Google Fonts Roboto -->
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
+    />
+    <!-- MDB -->
+    <link rel="stylesheet" href="../../css/mdb.min.css" />
+    <!-- PRISM -->
+    <link rel="stylesheet" href="../../dev/css/new-prism.css" />
+    <!-- Custom styles -->
+    <style></style>
+  </head>
+
+  <body data-mdb-spy="scroll" data-mdb-target="#scrollspy" data-mdb-offset="0">
+    <div class="container my-5">
+      <!-- Navs -->
+      <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+        <!-- Overview tab -->
+        <li class="nav-item" role="presentation">
+          <a
+            class="nav-link active"
+            id="pills-overview-tab"
+            data-mdb-toggle="pill"
+            href="#pills-overview"
+            role="tab"
+            aria-controls="pills-overview"
+            aria-selected="true"
+            >Overview</a
+          >
+        </li>
+        <!-- Overview tab -->
+      </ul>
+      <!-- Navs -->
+
+      <!-- Panels -->
+      <div class="tab-content mt-4" id="pills-tabContent">
+        <!-- Overview panel -->
+        <div
+          class="tab-pane fade show active"
+          id="pills-overview"
+          role="tabpanel"
+          aria-labelledby="pills-overview-tab"
+        >
+          <!--Grid row-->
+          <div class="row">
+            <!--Grid column-->
+            <div class="col-md-10 mb-4">
+              <!--Section: Docs content-->
+              <section>
+                <!--Section: Introduction-->
+                <section id="section-introduction">
+                  <!-- Main title -->
+                  <h2 class="h1 fw-bold">Toasts</h2>
+
+                  <!-- Seo title -->
+                  <h1 class="h5">Bootstrap 5 Toasts</h1>
+
+                  <!-- Description -->
+                  <p>
+                    Push notifications to your visitors with a 'toast', a lightweight and easily
+                    customizable alert message. Toasts are designed to mimic the push notifications
+                    that have been popularized by mobile and desktop operating systems.
+                  </p>
+                </section>
+                <!--Section: Introduction-->
+
+                <hr class="my-5" />
+
+                <!--Section: Basic example-->
+                <section id="section-basic-example">
+                  <!-- Section title -->
+                  <h2 class="mb-4">Basic example</h2>
+
+                  <!--Section: Demo-->
+                  <section class="border p-4 d-flex justify-content-center mb-4">
+                    <div class="container">
+                      <div
+                        class="toast fade show"
+                        role="alert"
+                        aria-live="assertive"
+                        aria-atomic="true"
+                      >
+                        <div class="toast-header">
+                          <svg
+                            class="bd-placeholder-img rounded me-2"
+                            width="20"
+                            height="20"
+                            xmlns="http://www.w3.org/2000/svg"
+                            preserveAspectRatio="xMidYMid slice"
+                            role="img"
+                            focusable="false"
+                          >
+                            <rect width="100%" height="100%" fill="#007aff"></rect>
+                          </svg>
+
+                          <strong class="me-auto">Bootstrap</strong>
+                          <small class="text-muted">11 mins ago</small>
+                          <button
+                            type="button"
+                            class="ms-2 mb-1 btn-close"
+                            data-dismiss="toast"
+                            aria-label="Close"
+                          ></button>
+                        </div>
+                        <div class="toast-body">Hello, world! This is a toast message.</div>
+                      </div>
+                    </div>
+                  </section>
+                  <!--Section: Demo-->
+
+                  <!--Section: Code-->
+                  <section>
+                    <mdbsnippet>
+                      <code data-lang="html" data-name="HTML">
+                        <div class="toast" role="alert" aria-live="assertive" aria-atomic="true">
+                          <div class="toast-header">
+                            <img src="..." class="rounded me-2" alt="..." />
+                            <strong class="me-auto">Bootstrap</strong>
+                            <small>11 mins ago</small>
+                            <button
+                              type="button"
+                              class="ms-2 mb-1 btn-close"
+                              data-dismiss="toast"
+                              aria-label="Close"
+                            ></button>
+                          </div>
+                          <div class="toast-body">Hello, world! This is a toast message.</div>
+                        </div>
+                      </code>
+                      <code data-lang="js" data-name="JavaScript">
+                        var toastElList = [].slice.call(document.querySelectorAll('.toast')); var
+                        toastList = toastElList.map(function (toastEl) { return new
+                        mdb.Toast(toastEl); });
+                      </code>
+                    </mdbsnippet>
+                  </section>
+                  <!--Section: Code-->
+                </section>
+                <!--Section: Basic example-->
+
+                <hr class="my-5" />
+
+                <!--Section: Colors-->
+                <section id="section-colors">
+                  <!-- Section title -->
+                  <h2 class="mb-4">Colors</h2>
+
+                  <!--Section: Demo-->
+                  <section class="border p-4 d-flex justify-content-center mb-4">
+                    <div class="container">
+                      <div
+                        class="toast fade show bg-info text-white"
+                        role="alert"
+                        aria-live="assertive"
+                        aria-atomic="true"
+                      >
+                        <div class="toast-header bg-info text-white">
+                          <i class="fas fa-info-circle fa-lg me-2"></i>
+                          <strong class="me-auto">MDBootstrap</strong>
+                          <small>11 mins ago</small>
+                          <button
+                            type="button"
+                            class="ms-2 my-1 btn-close btn-close-white"
+                            data-dismiss="toast"
+                            aria-label="Close"
+                          ></button>
+                        </div>
+                        <div class="toast-body">Hello, world! This is a toast message.</div>
+                      </div>
+                      <div
+                        class="toast fade show bg-warning text-white"
+                        role="alert"
+                        aria-live="assertive"
+                        aria-atomic="true"
+                      >
+                        <div class="toast-header bg-warning text-white">
+                          <i class="fas fa-exclamation-triangle fa-lg me-2"></i>
+                          <strong class="me-auto">MDBootstrap</strong>
+                          <small>11 mins ago</small>
+                          <button
+                            type="button"
+                            class="ms-2 my-1 btn-close btn-close-white"
+                            data-dismiss="toast"
+                            aria-label="Close"
+                          ></button>
+                        </div>
+                        <div class="toast-body">Hello, world! This is a toast message.</div>
+                      </div>
+                      <div
+                        class="toast fade show bg-success text-white"
+                        role="alert"
+                        aria-live="assertive"
+                        aria-atomic="true"
+                      >
+                        <div class="toast-header bg-success text-white">
+                          <i class="fas fa-check fa-lg me-2"></i>
+                          <strong class="me-auto">MDBootstrap</strong>
+                          <small>11 mins ago</small>
+                          <button
+                            type="button"
+                            class="ms-2 my-1 btn-close btn-close-white"
+                            data-dismiss="toast"
+                            aria-label="Close"
+                          ></button>
+                        </div>
+                        <div class="toast-body">Hello, world! This is a toast message.</div>
+                      </div>
+                      <div
+                        class="toast fade show bg-danger text-white"
+                        role="alert"
+                        aria-live="assertive"
+                        aria-atomic="true"
+                      >
+                        <div class="toast-header bg-danger text-white">
+                          <i class="fas fa-exclamation-circle fa-lg me-2"></i>
+                          <strong class="me-auto">MDBootstrap</strong>
+                          <small>11 mins ago</small>
+                          <button
+                            type="button"
+                            class="ms-2 my-1 btn-close btn-close-white"
+                            data-dismiss="toast"
+                            aria-label="Close"
+                          ></button>
+                        </div>
+                        <div class="toast-body">Hello, world! This is a toast message.</div>
+                      </div>
+                    </div>
+                  </section>
+                  <!--Section: Demo-->
+
+                  <!--Section: Code-->
+                  <section>
+                    <mdbsnippet>
+                      <code data-lang="html" data-name="HTML">
+                        <div
+                          class="toast fade show bg-info text-white"
+                          role="alert"
+                          aria-live="assertive"
+                          aria-atomic="true"
+                        >
+                          <div class="toast-header bg-info text-white">
+                            <i class="fas fa-info-circle fa-lg me-2"></i>
+                            <strong class="me-auto">MDBootstrap</strong>
+                            <small>11 mins ago</small>
+                            <button
+                              type="button"
+                              class="ms-2 my-1 btn-close btn-close-white"
+                              data-dismiss="toast"
+                              aria-label="Close"
+                            ></button>
+                          </div>
+                          <div class="toast-body">Hello, world! This is a toast message.</div>
+                        </div>
+                        <div
+                          class="toast fade show bg-warning text-white"
+                          role="alert"
+                          aria-live="assertive"
+                          aria-atomic="true"
+                        >
+                          <div class="toast-header bg-warning text-white">
+                            <i class="fas fa-exclamation-triangle fa-lg me-2"></i>
+                            <strong class="me-auto">MDBootstrap</strong>
+                            <small>11 mins ago</small>
+                            <button
+                              type="button"
+                              class="ms-2 my-1 btn-close btn-close-white"
+                              data-dismiss="toast"
+                              aria-label="Close"
+                            ></button>
+                          </div>
+                          <div class="toast-body">Hello, world! This is a toast message.</div>
+                        </div>
+                        <div
+                          class="toast fade show bg-success text-white"
+                          role="alert"
+                          aria-live="assertive"
+                          aria-atomic="true"
+                        >
+                          <div class="toast-header bg-success text-white">
+                            <i class="fas fa-check fa-lg me-2"></i>
+                            <strong class="me-auto">MDBootstrap</strong>
+                            <small>11 mins ago</small>
+                            <button
+                              type="button"
+                              class="ms-2 my-1 btn-close btn-close-white"
+                              data-dismiss="toast"
+                              aria-label="Close"
+                            ></button>
+                          </div>
+                          <div class="toast-body">Hello, world! This is a toast message.</div>
+                        </div>
+                        <div
+                          class="toast fade show bg-danger text-white"
+                          role="alert"
+                          aria-live="assertive"
+                          aria-atomic="true"
+                        >
+                          <div class="toast-header bg-danger text-white">
+                            <i class="fas fa-exclamation-circle fa-lg me-2"></i>
+                            <strong class="me-auto">MDBootstrap</strong>
+                            <small>11 mins ago</small>
+                            <button
+                              type="button"
+                              class="ms-2 my-1 btn-close btn-close-white"
+                              data-dismiss="toast"
+                              aria-label="Close"
+                            ></button>
+                          </div>
+                          <div class="toast-body">Hello, world! This is a toast message.</div>
+                        </div>
+                      </code>
+                    </mdbsnippet>
+                  </section>
+                  <!--Section: Code-->
+                </section>
+                <!--Section: Colors-->
+              </section>
+              <!--Section: Docs content-->
+            </div>
+            <!--Grid column-->
+
+            <!--Grid column-->
+            <div class="col-md-2 mb-4">
+              <!-- Table of content -->
+              <div id="scrollspy" class="sticky-top">
+                <ul class="nav flex-column nav-pills menu-sidebar">
+                  <!-- Links -->
+                  <li class="nav-item">
+                    <a class="nav-link active" href="#section-introduction">Introduction</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#section-basic-example">Basic example</a>
+                  </li>
+                  <li class="nav-item">
+                    <a class="nav-link" href="#section-colors">Colors</a>
+                  </li>
+                  <!-- Links -->
+                </ul>
+              </div>
+              <!-- Table of content -->
+            </div>
+            <!--Grid column-->
+          </div>
+          <!--Grid row-->
+        </div>
+        <!-- Overview panel -->
+      </div>
+      <!-- Panels -->
+    </div>
+    <!-- PRISM -->
+    <script type="text/javascript" src="../../dev/js/new-prism.js"></script>
+    <!-- MDB SNIPPET -->
+    <script type="text/javascript" src="../../dev/js/dist/mdbsnippet.min.js"></script>
+    <!-- MDB -->
+    <script type="text/javascript" src="../../js/mdb.min.js"></script>
+    <!-- Custom scripts -->
+    <script type="text/javascript"></script>
+  </body>
+</html>

@@ -1,0 +1,401 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <title>Material Design for Bootstrap</title>
+    <!-- MDB icon -->
+    <link rel="icon" href="../../img/mdb-favicon.ico" type="image/x-icon" />
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" />
+    <!-- Google Fonts Roboto -->
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
+    />
+    <!-- MDB -->
+    <link rel="stylesheet" href="../../css/mdb.min.css" />
+    <!-- PRISM -->
+    <link rel="stylesheet" href="../../dev/css/new-prism.css" />
+    <!-- Custom styles -->
+    <style></style>
+  </head>
+
+  <body>
+    <div class="container my-5">
+      <section>
+        <input type="checkbox" class="btn-check" id="btn-check" autocomplete="off" />
+        <label class="btn btn-primary" for="btn-check">Checkbox button</label>
+
+        <input type="checkbox" class="btn-check" id="btn-check2" checked autocomplete="off" />
+        <label class="btn btn-primary" for="btn-check2">Checkbox button</label>
+
+        <input type="checkbox" class="btn-check" id="btn-check3" autocomplete="off" />
+        <label class="btn btn-primary" for="btn-check3">Checkbox button</label>
+
+        <br />
+        <br />
+
+        <div class="form-check ms-1 mt-1 ps-0">
+          <input class="table-editor__input form-check-input ms-1" type="checkbox" />
+          <label class="ps-3 form-check-label">label</label>
+        </div>
+
+        <div class="row my-5 d-flex align-items-center">
+          <div class="col-md-2">
+            <div class="form-check">
+              <input
+                class="form-check-input"
+                type="checkbox"
+                value=""
+                id="flexCheckChecked"
+                checked
+              />
+              <label class="form-check-label" for="flexCheckChecked">
+                Checked checkbox
+              </label>
+            </div>
+          </div>
+          <div class="col-md-6">
+            <button type="button" class="btn btn-primary">Button</button>
+          </div>
+        </div>
+
+        <div class="mb-5">
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault" />
+            <label class="form-check-label" for="flexCheckDefault">
+              Default checkbox
+            </label>
+          </div>
+
+          <br />
+
+          <div class="form-check">
+            <input
+              class="form-check-input"
+              type="checkbox"
+              value=""
+              id="flexCheckChecked"
+              checked
+            />
+            <label class="form-check-label" for="flexCheckChecked">
+              Checked checkbox
+            </label>
+          </div>
+        </div>
+
+        <div class="mb-5">
+          <div class="form-check">
+            <input
+              class="form-check-input"
+              type="checkbox"
+              value=""
+              id="demo"
+              onclick="toggle(this)"
+              checked
+            />
+            <label class="form-check-label" for="demo">
+              Indeterminate checkbox
+            </label>
+          </div>
+        </div>
+
+        <div class="mb-5">
+          <div class="form-check">
+            <input
+              class="form-check-input"
+              type="checkbox"
+              value=""
+              id="flexCheckDisabled"
+              disabled
+            />
+            <label class="form-check-label" for="flexCheckDisabled">
+              Disabled checkbox
+            </label>
+          </div>
+
+          <br />
+
+          <div class="form-check">
+            <input
+              class="form-check-input"
+              type="checkbox"
+              value=""
+              id="flexCheckCheckedDisabled"
+              checked
+              disabled
+            />
+            <label class="form-check-label" for="flexCheckCheckedDisabled">
+              Disabled checked checkbox
+            </label>
+          </div>
+        </div>
+
+        <div class="mb-5">
+          <div class="form-check">
+            <input
+              class="form-check-input"
+              type="radio"
+              name="flexRadioDefault"
+              id="flexRadioDefault1"
+            />
+            <label class="form-check-label" for="flexRadioDefault1">
+              Default radio
+            </label>
+          </div>
+
+          <br />
+
+          <div class="form-check">
+            <input
+              class="form-check-input"
+              type="radio"
+              name="flexRadioDefault"
+              id="flexRadioDefault2"
+              checked
+            />
+            <label class="form-check-label" for="flexRadioDefault2">
+              Default checked radio
+            </label>
+          </div>
+        </div>
+
+        <div class="mb-5">
+          <div class="form-check">
+            <input
+              class="form-check-input"
+              type="radio"
+              name="flexRadioDisabled"
+              id="flexRadioDisabled"
+              disabled
+            />
+            <label class="form-check-label" for="flexRadioDisabled">
+              Disabled radio
+            </label>
+          </div>
+
+          <br />
+
+          <div class="form-check">
+            <input
+              class="form-check-input"
+              type="radio"
+              name="flexRadioDisabled"
+              id="flexRadioCheckedDisabled"
+              checked
+              disabled
+            />
+            <label class="form-check-label" for="flexRadioCheckedDisabled">
+              Disabled checked radio
+            </label>
+          </div>
+        </div>
+
+        <div class="mb-5">
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="" id="defaultCheck1" />
+            <label class="form-check-label" for="defaultCheck1">
+              Default checkbox
+            </label>
+          </div>
+
+          <br />
+
+          <div class="form-check">
+            <input class="form-check-input" type="checkbox" value="" id="defaultCheck2" disabled />
+            <label class="form-check-label" for="defaultCheck2">
+              Disabled checkbox
+            </label>
+          </div>
+        </div>
+
+        <div class="mb-5">
+          <div class="form-check">
+            <input
+              class="form-check-input"
+              type="radio"
+              name="exampleRadios"
+              id="exampleRadios1"
+              value="option1"
+              checked
+            />
+            <label class="form-check-label" for="exampleRadios1">
+              Default radio
+            </label>
+          </div>
+
+          <br />
+
+          <div class="form-check">
+            <input
+              class="form-check-input"
+              type="radio"
+              name="exampleRadios"
+              id="exampleRadios2"
+              value="option2"
+            />
+            <label class="form-check-label" for="exampleRadios2">
+              Second default radio
+            </label>
+          </div>
+
+          <br />
+
+          <div class="form-check">
+            <input
+              class="form-check-input"
+              type="radio"
+              name="exampleRadios"
+              id="exampleRadios3"
+              value="option3"
+              disabled
+            />
+            <label class="form-check-label" for="exampleRadios3">
+              Disabled radio
+            </label>
+          </div>
+        </div>
+
+        <div class="mb-5">
+          <div class="form-check form-check-inline">
+            <input class="form-check-input" type="checkbox" id="inlineCheckbox1" value="option1" />
+            <label class="form-check-label" for="inlineCheckbox1">1</label>
+          </div>
+          <div class="form-check form-check-inline">
+            <input class="form-check-input" type="checkbox" id="inlineCheckbox2" value="option2" />
+            <label class="form-check-label" for="inlineCheckbox2">2</label>
+          </div>
+          <div class="form-check form-check-inline">
+            <input
+              class="form-check-input"
+              type="checkbox"
+              id="inlineCheckbox3"
+              value="option3"
+              disabled
+            />
+            <label class="form-check-label" for="inlineCheckbox3">3 (disabled)</label>
+          </div>
+        </div>
+
+        <div class="mb-5">
+          <div class="form-check form-check-inline">
+            <input
+              class="form-check-input"
+              type="radio"
+              name="inlineRadioOptions"
+              id="inlineRadio1"
+              value="option1"
+            />
+            <label class="form-check-label" for="inlineRadio1">1</label>
+          </div>
+          <div class="form-check form-check-inline">
+            <input
+              class="form-check-input"
+              type="radio"
+              name="inlineRadioOptions"
+              id="inlineRadio2"
+              value="option2"
+            />
+            <label class="form-check-label" for="inlineRadio2">2</label>
+          </div>
+          <div class="form-check form-check-inline">
+            <input
+              class="form-check-input"
+              type="radio"
+              name="inlineRadioOptions"
+              id="inlineRadio3"
+              value="option3"
+              disabled
+            />
+            <label class="form-check-label" for="inlineRadio3">3 (disabled)</label>
+          </div>
+        </div>
+
+        <div class="mb-5">
+          <div>
+            <input
+              class="form-check-input"
+              type="checkbox"
+              id="checkboxNoLabel"
+              value=""
+              aria-label="..."
+            />
+          </div>
+
+          <br />
+
+          <div>
+            <input
+              class="form-check-input"
+              type="radio"
+              name="radioNoLabel"
+              id="radioNoLabel1"
+              value=""
+              aria-label="..."
+            />
+          </div>
+        </div>
+
+        <div class="mb-5">
+          <div class="form-check form-switch">
+            <input class="form-check-input" type="checkbox" id="flexSwitchCheckDefault" />
+            <label class="form-check-label" for="flexSwitchCheckDefault"
+              >Default switch checkbox input</label
+            >
+          </div>
+
+          <br />
+
+          <div class="form-check form-switch">
+            <input class="form-check-input" type="checkbox" id="flexSwitchCheckChecked" checked />
+            <label class="form-check-label" for="flexSwitchCheckChecked"
+              >Checked switch checkbox input</label
+            >
+          </div>
+
+          <br />
+
+          <div class="form-check form-switch">
+            <input class="form-check-input" type="checkbox" id="flexSwitchCheckDisabled" disabled />
+            <label class="form-check-label" for="flexSwitchCheckDisabled"
+              >Disabled switch checkbox input</label
+            >
+          </div>
+
+          <br />
+
+          <div class="form-check form-switch">
+            <input
+              class="form-check-input"
+              type="checkbox"
+              id="flexSwitchCheckCheckedDisabled"
+              checked
+              disabled
+            />
+            <label class="form-check-label" for="flexSwitchCheckCheckedDisabled"
+              >Disabled checked switch checkbox input</label
+            >
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <!-- PRISM -->
+    <script type="text/javascript" src="../../dev/js/new-prism.js"></script>
+    <!-- MDB SNIPPET -->
+    <script type="text/javascript" src="../../dev/js/dist/mdbsnippet.min.js"></script>
+    <!-- MDB -->
+    <script type="text/javascript" src="../../js/mdb.min.js"></script>
+    <!-- Custom scripts -->
+    <script type="text/javascript">
+      // Rotate checkbox states
+      // Ref: https://css-tricks.com/indeterminate-checkboxes/
+      function toggle(demo) {
+        if (demo.readOnly) demo.checked = demo.readOnly = false;
+        else if (!demo.checked) demo.readOnly = demo.indeterminate = true;
+      }
+    </script>
+  </body>
+</html>

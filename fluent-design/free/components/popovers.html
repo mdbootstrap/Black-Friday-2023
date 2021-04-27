@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <title>Material Design for Bootstrap</title>
+    <!-- MDB icon -->
+    <link rel="icon" href="../../img/mdb-favicon.ico" type="image/x-icon" />
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" />
+    <!-- Google Fonts Roboto -->
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
+    />
+    <!-- MDB -->
+    <link rel="stylesheet" href="../../css/mdb.min.css" />
+    <!-- PRISM -->
+    <link rel="stylesheet" href="../../dev/css/new-prism.css" />
+    <!-- Custom styles -->
+    <style></style>
+  </head>
+
+  <body>
+    <div class="container my-5">
+      <h2 class="mb-5">Popovers</h2>
+
+      <div class="mb-5">
+        <button
+          type="button"
+          class="btn btn-lg btn-danger"
+          data-mdb-toggle="popover"
+          title="Popover title"
+          data-mdb-content="And here's some amazing content. It's very engaging. Right?"
+        >
+          Click to toggle popover
+        </button>
+      </div>
+
+      <div class="mb-5">
+        <button
+          type="button"
+          class="btn btn-secondary"
+          data-mdb-container="body"
+          data-mdb-toggle="popover"
+          data-mdb-placement="top"
+          data-mdb-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."
+        >
+          Popover on top
+        </button>
+
+        <button
+          type="button"
+          class="btn btn-secondary"
+          data-mdb-container="body"
+          data-mdb-toggle="popover"
+          data-mdb-placement="right"
+          data-mdb-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."
+        >
+          Popover on right
+        </button>
+
+        <button
+          type="button"
+          class="btn btn-secondary"
+          data-mdb-container="body"
+          data-mdb-toggle="popover"
+          data-mdb-placement="bottom"
+          data-mdb-content="Vivamus
+      sagittis lacus vel augue laoreet rutrum faucibus."
+        >
+          Popover on bottom
+        </button>
+
+        <button
+          type="button"
+          class="btn btn-secondary"
+          data-mdb-container="body"
+          data-mdb-toggle="popover"
+          data-mdb-placement="left"
+          data-mdb-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."
+        >
+          Popover on left
+        </button>
+      </div>
+
+      <div class="mb-5">
+        <a
+          tabindex="0"
+          class="btn btn-lg btn-danger"
+          role="button"
+          data-mdb-toggle="popover"
+          data-mdb-trigger="focus"
+          title="Dismissible popover"
+          data-mdb-content="And here's some amazing content. It's very engaging. Right?"
+          >Dismissible popover</a
+        >
+      </div>
+
+      <div class="mb-5">
+        <span class="d-inline-block" data-mdb-toggle="popover" data-mdb-content="Disabled popover">
+          <button class="btn btn-primary" style="pointer-events: none;" type="button" disabled>
+            Disabled button
+          </button>
+        </span>
+      </div>
+
+      <hr class="my-5" />
+
+      <button
+        id="pop-example"
+        type="button"
+        class="btn btn-secondary"
+        data-mdb-container="body"
+        data-mdb-toggle="popover"
+        data-mdb-placement="bottom"
+      >
+        button
+      </button>
+    </div>
+
+    <!-- PRISM -->
+    <script type="text/javascript" src="../../dev/js/new-prism.js"></script>
+    <!-- MDB SNIPPET -->
+    <script type="text/javascript" src="../../dev/js/dist/mdbsnippet.min.js"></script>
+    <!-- MDB -->
+    <script type="text/javascript" src="../../js/mdb.min.js"></script>
+    <!-- Custom scripts -->
+    <script type="text/javascript">
+      let exampleTriggerEl = document.getElementById('pop-example');
+      let popover = new mdb.Popover(exampleTriggerEl, {
+        trigger: 'click',
+        html: true,
+        content: 'bla',
+        template: '<button>button</button>',
+      });
+    </script>
+  </body>
+</html>

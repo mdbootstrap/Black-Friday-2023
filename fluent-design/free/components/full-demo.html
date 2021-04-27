@@ -1,0 +1,2716 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <title>Material Design for Bootstrap</title>
+    <!-- MDB icon -->
+    <link rel="icon" href="../../img/mdb-favicon.ico" type="image/x-icon" />
+    <!-- Micon -->
+    <link rel="stylesheet" href="../../dev/css/micon.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@icon/micon@3.0.168/micon.min.css" />
+    <!-- MDB -->
+    <link rel="stylesheet" href="../../css/mdb.min.css" />
+    <!-- PRISM -->
+    <link rel="stylesheet" href="../../dev/css/new-prism.css" />
+    <!-- Custom styles -->
+    <style>
+      .shadow-demo {
+        width: 100px;
+        height: 100px;
+        background-color: #fff;
+      }
+
+      .shadow-demo-1 {
+        width: 100px;
+        height: 100px;
+        background-color: #ccc;
+      }
+
+      .shadow-demo-2 {
+        width: 100px;
+        height: 100px;
+        background-color: #000;
+      }
+
+      .mask-custom {
+        background-color: rgba(255, 255, 255, 0.2);
+        border-radius: 0;
+        border: 0;
+        background-clip: padding-box;
+        box-shadow: 10px 10px 10px rgba(46, 54, 68, 0.03);
+      }
+
+      .custom-1 {
+        backdrop-filter: blur(30px);
+      }
+
+      .custom-2 {
+        backdrop-filter: blur(60px);
+      }
+
+      .custom-3 {
+        backdrop-filter: blur(40px);
+      }
+
+      .custom-4 {
+        backdrop-filter: blur(15px);
+      }
+
+      .custom-5 {
+        backdrop-filter: blur(5px);
+      }
+
+      .mask-custom-1 {
+        background-color: rgba(0, 0, 0, 0.2);
+        border-radius: 0;
+        border: 0;
+        background-clip: padding-box;
+        box-shadow: 10px 10px 10px rgba(46, 54, 68, 0.03);
+      }
+
+      .custom-6 {
+        backdrop-filter: blur(30px);
+      }
+
+      .custom-7 {
+        backdrop-filter: blur(60px);
+      }
+
+      .custom-8 {
+        backdrop-filter: blur(40px);
+      }
+
+      .custom-9 {
+        backdrop-filter: blur(15px);
+      }
+
+      .custom-10 {
+        backdrop-filter: blur(5px);
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="container my-5">
+      <div class="text-center">
+        <p class="header">Demo</p>
+        <p class="subheader">FD Bootstrap Components</p>
+        <p class="subtitle">
+          Visual guide of components in the newest Bootstrap 5 and Fluent Design
+        </p>
+        <hr class="my-5" />
+      </div>
+
+      <section>
+        <p class="subheader text-center mb-4 pb-2">Cards</p>
+
+        <div class="row">
+          <div class="col-md-6 col-lg-4 col-xl-3 mb-5">
+            <div class="card">
+              <img
+                src="https://mdbootstrap.com/img/new/standard/nature/184.jpg"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <h4 class="semibold mb-3">Card title</h4>
+                <p class="mb-4">
+                  Some quick example text to build on the card title and make up the bulk of the
+                  card's content.
+                </p>
+                <a href="#!" class="btn btn-primary">Button</a>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-6 col-xl-5 mb-5">
+            <div class="card border shadow-0 rounded-0 mb-3">
+              <div class="d-flex g-0">
+                <div class="col-md-4">
+                  <img
+                    src="https://mdbootstrap.com/img/Photos/dark-theme-demo/img1.jpg"
+                    class="w-100"
+                    alt="..."
+                  />
+                </div>
+                <div class="col-md-8">
+                  <div class="card-body px-3 pt-2">
+                    <h5 class="mb-3">Title of the news</h5>
+                    <div class="d-flex position-absolute" style="bottom: 0;">
+                      <img
+                        src="https://mdbootstrap.com/img/Photos/Avatars/img (29).jpg"
+                        class="rounded-circle"
+                        height="35"
+                        alt=""
+                        loading="lazy"
+                      />
+                      <div class="d-flex align-items-center w-100 ps-3 pb-2">
+                        <div class="w-100">
+                          <h6 class="link-dark mb-0">Roko Kolar</h6>
+                          <a href="#!" class="stretched-link text-muted">
+                            <p class="mb-0 small">Created a few minutes ago</p>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="card border shadow-0 rounded-0 mb-3">
+              <div class="d-flex g-0">
+                <div
+                  class="col-md-4 d-flex justify-content-center align-items-center bg-primary"
+                  style="height: 131px;"
+                >
+                  <i class="mi mi-OpenFile mi-3x text-white"></i>
+                </div>
+                <div class="col-md-8">
+                  <div class="card-body px-3 pt-2">
+                    <h5 class="mb-3">View and share files</h5>
+                    <div class="d-flex position-absolute" style="bottom: 0;">
+                      <img
+                        src="https://mdbootstrap.com/img/Photos/Avatars/img (27).jpg"
+                        class="rounded-circle"
+                        height="35"
+                        alt=""
+                        loading="lazy"
+                      />
+                      <div class="d-flex align-items-center w-100 ps-3 pb-2">
+                        <div class="w-100">
+                          <h6 class="link-dark mb-0">Aaron Reid</h6>
+                          <a href="#!" class="stretched-link text-muted">
+                            <p class="mb-0 small">Created a few minutes ago</p>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="card border shadow-0 rounded-0">
+              <div class="d-flex g-0">
+                <div
+                  class="col-md-4 d-flex justify-content-center align-items-center bg-light"
+                  style="height: 131px;"
+                >
+                  <i class="mi mi-MailReply mi-3x text-secondary"></i>
+                </div>
+                <div class="col-md-8">
+                  <div class="card-body px-3 pt-2">
+                    <h5 class="mb-3">
+                      Conversation about takeaways from annual SharePoint conference
+                    </h5>
+                    <div class="d-flex position-absolute" style="bottom: 0;">
+                      <img
+                        src="https://mdbootstrap.com/img/Photos/Avatars/img (26).jpg"
+                        class="rounded-circle"
+                        height="35"
+                        alt=""
+                        loading="lazy"
+                      />
+                      <div class="d-flex align-items-center w-100 ps-3 pb-2">
+                        <div class="w-100">
+                          <h6 class="link-dark mb-0">Christina Bergqvist</h6>
+                          <a href="#!" class="stretched-link text-muted">
+                            <p class="mb-0 small">Sent a few minutes ago</p>
+                          </a>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="col-md-6 col-lg-4 col-xl-4 mb-5">
+            <div class="card border shadow-0 rounded-0">
+              <img
+                src="https://mdbootstrap.com/img/Photos/dark-theme-demo/img1.jpg"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body p-3">
+                <h5 class="mb-3">Large_file_name_…s_truncating.pptx</h5>
+                <div class="d-flex">
+                  <img
+                    src="https://mdbootstrap.com/img/Photos/Avatars/img (28).jpg"
+                    class="rounded-circle"
+                    height="35"
+                    alt=""
+                    loading="lazy"
+                  />
+                  <div class="d-flex align-items-center w-100 ps-3">
+                    <div class="w-100">
+                      <h6 class="link-dark mb-0">Annie Lindqvist</h6>
+                      <a href="#!" class="stretched-link text-muted">
+                        <p class="mb-0 small">Created a few minutes ago</p>
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col-md-6 col-lg-4 mb-5">
+            <div class="card">
+              <img
+                src="https://mdbootstrap.com/img/Photos/new-templates/linkedin/img3.jpg"
+                class="card-img-top"
+                alt="..."
+              />
+              <div class="card-body">
+                <span class="badge bg-primary mb-3">NEW</span>
+                <h4 class="semibold mb-3">Card title</h4>
+                <p class="mb-3">
+                  Some quick example text to build on the card title and make up the bulk of the
+                  card's content.
+                </p>
+                <a href="#" class="text-primary d-flex align-items-center"
+                  >Call to action
+                  <i class="mi mi-ChevronRight ms-2"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-4 mb-5">
+            <div class="card">
+              <div
+                class="py-3 w-100"
+                style="
+                  background-color: #b4009e;
+                  height: 9rem;
+                  border-top-left-radius: 2px;
+                  border-top-right-radius: 2px;
+                "
+              ></div>
+              <div class="position-relative h-100" style="margin-top: -4.5rem;">
+                <div class="w-50 mx-auto position-relative">
+                  <img
+                    class="img-fluid"
+                    src="https://mdbootstrap.com/img/Photos/Others/men.jpg"
+                    alt="Card image"
+                  />
+                </div>
+              </div>
+              <div class="card-body">
+                <div class="text-center">
+                  <h5 class="card-title semibold mb-2 pb-1">Jim Lohan</h5>
+                  <p class="card-subtitle semibold mb-2">UX Designer</p>
+                  <p class="card-text mb-4 pb-1">
+                    Lorem ipsum dolor sit, amet consectetur adipisicing elit. Est, deserunt.
+                  </p>
+                </div>
+                <ul class="ps-2 mb-1">
+                  <li class="d-flex justify-content-between mb-1">
+                    <i class="mi mi-MapPin2"></i>
+                    <span>Ellsworth , ME</span>
+                  </li>
+                  <li class="d-flex justify-content-between mb-1">
+                    <i class="mi mi-Phone"></i>
+                    <span>123 456 789</span>
+                  </li>
+                  <li class="d-flex justify-content-between mb-0">
+                    <i class="mi mi-Mail"></i>
+                    <span>exmaple@exmaple.com</span>
+                  </li>
+                </ul>
+              </div>
+              <div class="card-footer d-flex justify-content-between py-4">
+                <a href="#!" class="d-flex align-items-center">
+                  <i class="mi mi-instagram mi-lg" style="color: #bf0077;"></i>
+                </a>
+                <a href="#!" class="d-flex align-items-center">
+                  <i class="mi mi-dribbble mi-lg" style="color: #e3008c;"></i>
+                </a>
+                <a href="#!" class="d-flex align-items-center">
+                  <i class="mi mi-vimeo mi-lg" style="color: #0078d7;"></i>
+                </a>
+                <a href="#!" class="d-flex align-items-center">
+                  <i class="mi mi-reddit-alien mi-lg" style="color: #ef6950;"></i>
+                </a>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-md-6 col-lg-4 mb-5">
+            <div class="card text-center">
+              <div
+                class="bg-primary d-flex justify-content-center align-items-center"
+                style="height: 9rem; border-top-left-radius: 2px; border-top-right-radius: 2px;"
+              >
+                <i class="mi mi-5x mi-facebook text-white"></i>
+              </div>
+              <div class="card-body">
+                <h4 class="card-title semibold pt-0">Lorem, ipsum.</h4>
+                <p class="card-subtitle">Lorem, ipsum.</p>
+                <hr class="border-dark w-25 mx-auto" />
+                <p class="card-text">
+                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere facilis ullam est
+                  velit corporis corrupti nisi dolore soluta fugit provident!
+                </p>
+                <div class="d-flex justify-content-center">
+                  <ul class="ps-0 mb-0">
+                    <li class="d-flex align-items-center">
+                      <i class="pe-2 mi mi-DeviceLaptopNoPic"></i>Lorem ipsum dolor sit.
+                    </li>
+                    <li class="d-flex align-items-center">
+                      <i class="pe-2 mi mi-telegram"></i>Lorem ipsum dolor sit.
+                    </li>
+                    <li class="d-flex align-items-center">
+                      <i class="pe-2 mi mi-Phone"></i>Lorem ipsum dolor sit.
+                    </li>
+                    <li class="d-flex align-items-center">
+                      <i class="pe-2 mi mi-MobAirplane"></i>Lorem ipsum dolor sit.
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <hr class="mb-5" />
+
+      <section>
+        <p class="subheader text-center mb-4 pb-2">Carousel</p>
+
+        <!-- Carousel wrapper -->
+        <div
+          id="carouselExampleCaptions"
+          class="carousel slide carousel-fade shadow-3-strong"
+          data-mdb-ride="carousel"
+        >
+          <!-- Indicators -->
+          <ol class="carousel-indicators">
+            <li data-mdb-target="#carouselExampleCaptions" data-mdb-slide-to="0" class=""></li>
+            <li data-mdb-target="#carouselExampleCaptions" data-mdb-slide-to="1" class=""></li>
+            <li
+              data-mdb-target="#carouselExampleCaptions"
+              data-mdb-slide-to="2"
+              class="active"
+            ></li>
+          </ol>
+
+          <!-- Inner -->
+          <div class="carousel-inner">
+            <!-- Single item -->
+            <div class="carousel-item">
+              <img
+                src="https://mdbootstrap.com/img/Photos/Slides/img%20(15).jpg"
+                class="d-block w-100"
+                alt="..."
+              />
+              <div class="carousel-caption d-none d-md-block">
+                <h5>First slide label</h5>
+                <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+              </div>
+            </div>
+
+            <!-- Single item -->
+            <div class="carousel-item">
+              <img
+                src="https://mdbootstrap.com/img/Photos/Slides/img%20(22).jpg"
+                class="d-block w-100"
+                alt="..."
+              />
+              <div class="carousel-caption d-none d-md-block">
+                <h5>Second slide label</h5>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+              </div>
+            </div>
+
+            <!-- Single item -->
+            <div class="carousel-item active">
+              <img
+                src="https://mdbootstrap.com/img/Photos/Slides/img%20(23).jpg"
+                class="d-block w-100"
+                alt="..."
+              />
+              <div class="carousel-caption d-none d-md-block">
+                <h5>Third slide label</h5>
+                <p>
+                  Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+                </p>
+              </div>
+            </div>
+          </div>
+          <!-- Inner -->
+
+          <!-- Controls -->
+          <a
+            class="carousel-control-prev"
+            href="#carouselExampleCaptions"
+            role="button"
+            data-mdb-slide="prev"
+          >
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Previous</span>
+          </a>
+          <a
+            class="carousel-control-next"
+            href="#carouselExampleCaptions"
+            role="button"
+            data-mdb-slide="next"
+          >
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="visually-hidden">Next</span>
+          </a>
+        </div>
+        <!-- Carousel wrapper -->
+      </section>
+
+      <hr class="my-5" />
+
+      <section class="text-center">
+        <p class="subheader mb-4 pb-2">Buttons</p>
+
+        <!--Section: Regular-->
+        <section class="mb-4">
+          <button type="button" class="btn btn-primary">Primary</button>
+          <button type="button" class="btn btn-secondary">Secondary</button>
+          <button type="button" class="btn btn-success">Success</button>
+          <button type="button" class="btn btn-danger">Danger</button>
+          <button type="button" class="btn btn-warning">Warning</button>
+          <button type="button" class="btn btn-info">Info</button>
+          <button type="button" class="btn btn-light">Light</button>
+          <button type="button" class="btn btn-dark">Dark</button>
+          <button type="button" class="btn btn-link" data-mdb-ripple-color="dark">
+            Link
+          </button>
+        </section>
+        <!--Section: Regular-->
+
+        <!--Section: Outline-->
+        <section class="mb-4">
+          <button type="button" class="btn btn-outline-primary" data-mdb-ripple-color="dark">
+            Primary
+          </button>
+          <button type="button" class="btn btn-outline-secondary" data-mdb-ripple-color="dark">
+            Secondary
+          </button>
+          <button type="button" class="btn btn-outline-success" data-mdb-ripple-color="dark">
+            Success
+          </button>
+          <button type="button" class="btn btn-outline-danger" data-mdb-ripple-color="dark">
+            Danger
+          </button>
+          <button type="button" class="btn btn-outline-warning" data-mdb-ripple-color="dark">
+            Warning
+          </button>
+          <button type="button" class="btn btn-outline-info" data-mdb-ripple-color="dark">
+            Info
+          </button>
+
+          <button type="button" class="btn btn-outline-dark" data-mdb-ripple-color="dark">
+            Dark
+          </button>
+        </section>
+        <!--Section: Outline-->
+
+        <!--Section: Rounded-->
+        <section class="mb-4">
+          <button type="button" class="btn btn-primary btn-rounded">
+            Primary
+          </button>
+          <button type="button" class="btn btn-secondary btn-rounded">
+            Secondary
+          </button>
+          <button type="button" class="btn btn-success btn-rounded">
+            Success
+          </button>
+          <button type="button" class="btn btn-danger btn-rounded">Danger</button>
+          <button type="button" class="btn btn-warning btn-rounded">
+            Warning
+          </button>
+          <button type="button" class="btn btn-info btn-rounded">Info</button>
+          <button type="button" class="btn btn-light btn-rounded">Light</button>
+          <button type="button" class="btn btn-dark btn-rounded">Dark</button>
+        </section>
+        <!--Section: Rounded-->
+
+        <!--Section: Rounded outline-->
+        <section class="mb-4">
+          <button
+            type="button"
+            class="btn btn-outline-primary btn-rounded"
+            data-mdb-ripple-color="dark"
+          >
+            Primary
+          </button>
+          <button
+            type="button"
+            class="btn btn-outline-secondary btn-rounded"
+            data-mdb-ripple-color="dark"
+          >
+            Secondary
+          </button>
+          <button
+            type="button"
+            class="btn btn-outline-success btn-rounded"
+            data-mdb-ripple-color="dark"
+          >
+            Success
+          </button>
+          <button
+            type="button"
+            class="btn btn-outline-danger btn-rounded"
+            data-mdb-ripple-color="dark"
+          >
+            Danger
+          </button>
+          <button
+            type="button"
+            class="btn btn-outline-warning btn-rounded"
+            data-mdb-ripple-color="dark"
+          >
+            Warning
+          </button>
+          <button
+            type="button"
+            class="btn btn-outline-info btn-rounded"
+            data-mdb-ripple-color="dark"
+          >
+            Info
+          </button>
+          <button
+            type="button"
+            class="btn btn-outline-dark btn-rounded"
+            data-mdb-ripple-color="dark"
+          >
+            Dark
+          </button>
+        </section>
+        <!--Section: Rounded outline-->
+
+        <!--Section: Sizes-->
+        <section class="mb-4">
+          <button type="button" class="btn btn-primary btn-sm">Button</button>
+          <button type="button" class="btn btn-primary">Button</button>
+          <button type="button" class="btn btn-primary btn-lg">Button</button>
+        </section>
+        <!--Section: Sizes-->
+
+        <!--Section: Floating-->
+        <section class="mb-4">
+          <button type="button" class="btn btn-primary btn-lg btn-floating">
+            <i class="mi mi-facebook-f"></i>
+          </button>
+          <button
+            type="button"
+            class="btn btn-outline-success btn-floating"
+            data-mdb-ripple-color="dark"
+          >
+            <i class="mi mi-FavoriteStarFill"></i>
+          </button>
+          <button type="button" class="btn btn-danger btn-floating">
+            <i class="mi mi-Cut"></i>
+          </button>
+          <button type="button" class="btn btn-dark btn-floating">
+            <i class="mi mi-apple"></i>
+          </button>
+        </section>
+        <!--Section: Floating-->
+
+        <!--Section: Block-->
+        <section class="mb-4">
+          <!--Grid row-->
+          <div class="row d-flex justify-content-center">
+            <!--Grid column-->
+            <div class="col-md-6">
+              <button type="button" class="btn btn-primary btn-lg btn-block">
+                Block level button
+              </button>
+              <button type="button" class="btn btn-secondary btn-lg btn-block">
+                Block level button
+              </button>
+            </div>
+            <!--Grid column-->
+          </div>
+          <!--Grid row-->
+        </section>
+        <!--Section: Block-->
+
+        <!--Section: Social-->
+        <section class="mb-4">
+          <!-- Facebook -->
+          <a
+            class="btn btn-primary m-1"
+            style="background-color: #3b5998; border-color: #3b5998;"
+            href="#!"
+            role="button"
+            ><i class="mi mi-facebook-f"></i
+          ></a>
+
+          <!-- Twitter -->
+          <a
+            class="btn btn-primary m-1"
+            style="background-color: #55acee; border-color: #55acee;"
+            href="#!"
+            role="button"
+            ><i class="mi mi-twitter-square"></i
+          ></a>
+
+          <!-- Google -->
+          <a
+            class="btn btn-primary m-1"
+            style="background-color: #dd4b39; border-color: #dd4b39;"
+            href="#!"
+            role="button"
+            ><i class="mi mi-google"></i
+          ></a>
+
+          <!-- Instagram -->
+          <a
+            class="btn btn-primary m-1"
+            style="background-color: #ac2bac; border-color: #ac2bac;"
+            href="#!"
+            role="button"
+            ><i class="mi mi-instagram"></i
+          ></a>
+
+          <!-- Linkedin -->
+          <a
+            class="btn btn-primary m-1"
+            style="background-color: #0082ca; border-color: #0082ca;"
+            href="#!"
+            role="button"
+            ><i class="mi mi-linkedin-in"></i
+          ></a>
+
+          <!-- Pinterest -->
+          <a
+            class="btn btn-primary m-1"
+            style="background-color: #c61118; border-color: #c61118;"
+            href="#!"
+            role="button"
+            ><i class="mi mi-pinterest"></i
+          ></a>
+
+          <!-- Vkontakte -->
+          <a
+            class="btn btn-primary m-1"
+            style="background-color: #4c75a3; border-color: #4c75a3;"
+            href="#!"
+            role="button"
+            ><i class="mi mi-vk"></i
+          ></a>
+
+          <!-- Stack overflow -->
+          <a
+            class="btn btn-primary m-1"
+            style="background-color: #ffac44; border-color: #ffac44;"
+            href="#!"
+            role="button"
+            ><i class="mi mi-stack-overflow"></i
+          ></a>
+
+          <!-- Youtube -->
+          <a
+            class="btn btn-primary m-1"
+            style="background-color: #ed302f; border-color: #ed302f;"
+            href="#!"
+            role="button"
+            ><i class="mi mi-youtube"></i
+          ></a>
+
+          <!-- Slack -->
+          <a
+            class="btn btn-primary m-1"
+            style="background-color: #481449; border-color: #481449;"
+            href="#!"
+            role="button"
+            ><i class="mi mi-slack-hash"></i
+          ></a>
+
+          <!-- Github -->
+          <a
+            class="btn btn-primary m-1"
+            style="background-color: #333333; border-color: #333333;"
+            href="#!"
+            role="button"
+            ><i class="mi mi-github"></i
+          ></a>
+
+          <!-- Dribbble -->
+          <a
+            class="btn btn-primary m-1"
+            style="background-color: #ec4a89; border-color: #ec4a89;"
+            href="#!"
+            role="button"
+            ><i class="mi mi-dribbble"></i
+          ></a>
+
+          <!-- Reddit -->
+          <a
+            class="btn btn-primary m-1"
+            style="background-color: #ff4500; border-color: #ff4500;"
+            href="#!"
+            role="button"
+            ><i class="mi mi-reddit-alien"></i
+          ></a>
+
+          <!-- Whatsapp -->
+          <a
+            class="btn btn-primary m-1"
+            style="background-color: #25d366; border-color: #25d366;"
+            href="#!"
+            role="button"
+            ><i class="mi mi-whatsapp"></i
+          ></a>
+        </section>
+        <!--Section: Social-->
+      </section>
+
+      <hr class="my-5" />
+
+      <section>
+        <p class="subheader text-center mb-4 pb-2">Progress</p>
+
+        <!--Grid row-->
+        <div class="row">
+          <!--Grid column-->
+          <div class="col-md-6 mb-4">
+            <div class="progress mb-3">
+              <div
+                class="progress-bar"
+                role="progressbar"
+                style="width: 25%;"
+                aria-valuenow="25"
+                aria-valuemin="0"
+                aria-valuemax="100"
+              ></div>
+            </div>
+            <div class="progress mb-3">
+              <div
+                class="progress-bar"
+                role="progressbar"
+                style="width: 50%;"
+                aria-valuenow="50"
+                aria-valuemin="0"
+                aria-valuemax="100"
+              ></div>
+            </div>
+            <div class="progress mb-3">
+              <div
+                class="progress-bar"
+                role="progressbar"
+                style="width: 75%;"
+                aria-valuenow="75"
+                aria-valuemin="0"
+                aria-valuemax="100"
+              ></div>
+            </div>
+            <div class="progress mb-3">
+              <div
+                class="progress-bar"
+                role="progressbar"
+                style="width: 100%;"
+                aria-valuenow="100"
+                aria-valuemin="0"
+                aria-valuemax="100"
+              ></div>
+            </div>
+
+            <div class="progress" style="height: 20px;">
+              <div
+                class="progress-bar"
+                role="progressbar"
+                style="width: 25%;"
+                aria-valuenow="25"
+                aria-valuemin="0"
+                aria-valuemax="100"
+              >
+                25%
+              </div>
+            </div>
+          </div>
+          <!--Grid column-->
+
+          <!--Grid column-->
+          <div class="col-md-6 mb-4">
+            <div class="progress mb-3">
+              <div
+                class="progress-bar bg-success"
+                role="progressbar"
+                style="width: 25%;"
+                aria-valuenow="25"
+                aria-valuemin="0"
+                aria-valuemax="100"
+              ></div>
+            </div>
+            <div class="progress mb-3">
+              <div
+                class="progress-bar bg-info"
+                role="progressbar"
+                style="width: 50%;"
+                aria-valuenow="50"
+                aria-valuemin="0"
+                aria-valuemax="100"
+              ></div>
+            </div>
+            <div class="progress mb-3">
+              <div
+                class="progress-bar bg-warning"
+                role="progressbar"
+                style="width: 75%;"
+                aria-valuenow="75"
+                aria-valuemin="0"
+                aria-valuemax="100"
+              ></div>
+            </div>
+            <div class="progress mb-3">
+              <div
+                class="progress-bar bg-danger"
+                role="progressbar"
+                style="width: 100%;"
+                aria-valuenow="100"
+                aria-valuemin="0"
+                aria-valuemax="100"
+              ></div>
+            </div>
+
+            <div class="progress" style="height: 20px;">
+              <div
+                class="progress-bar bg-success"
+                role="progressbar"
+                style="width: 25%;"
+                aria-valuenow="25"
+                aria-valuemin="0"
+                aria-valuemax="100"
+              >
+                25%
+              </div>
+            </div>
+          </div>
+          <!--Grid column-->
+        </div>
+        <!--Grid row-->
+      </section>
+
+      <hr class="my-5" />
+
+      <section>
+        <p class="subheader text-center mb-4 pb-2">Spinners</p>
+
+        <!--Grid row-->
+        <div class="row">
+          <!--Grid column-->
+          <div class="col-md-6 mb-4">
+            <div class="spinner-border text-primary mx-2" role="status">
+              <span class="visually-hidden">Loading...</span>
+            </div>
+            <div class="spinner-border text-secondary mx-2" role="status">
+              <span class="visually-hidden">Loading...</span>
+            </div>
+            <div class="spinner-border text-theme mx-2" role="status">
+              <span class="visually-hidden">Loading...</span>
+            </div>
+            <div class="spinner-border text-danger mx-2" role="status">
+              <span class="visually-hidden">Loading...</span>
+            </div>
+            <div class="spinner-border text-warning mx-2" role="status">
+              <span class="visually-hidden">Loading...</span>
+            </div>
+            <div class="spinner-border text-info mx-2" role="status">
+              <span class="visually-hidden">Loading...</span>
+            </div>
+            <div class="spinner-border text-light mx-2" role="status">
+              <span class="visually-hidden">Loading...</span>
+            </div>
+            <div class="spinner-border text-dark mx-2" role="status">
+              <span class="visually-hidden">Loading...</span>
+            </div>
+
+            <br />
+            <br />
+
+            <button class="btn btn-primary" type="button" disabled="">
+              <span
+                class="spinner-border spinner-border-sm"
+                role="status"
+                aria-hidden="true"
+              ></span>
+              <span class="visually-hidden">Loading...</span>
+            </button>
+            <button class="btn btn-primary" type="button" disabled="">
+              <span
+                class="spinner-border spinner-border-sm"
+                role="status"
+                aria-hidden="true"
+              ></span>
+              Loading...
+            </button>
+          </div>
+          <!--Grid column-->
+
+          <!--Grid column-->
+          <div class="col-md-6 mb-4">
+            <div class="spinner-grow text-primary mx-2" role="status">
+              <span class="visually-hidden">Loading...</span>
+            </div>
+            <div class="spinner-grow text-secondary mx-2" role="status">
+              <span class="visually-hidden">Loading...</span>
+            </div>
+            <div class="spinner-grow text-theme mx-2" role="status">
+              <span class="visually-hidden">Loading...</span>
+            </div>
+            <div class="spinner-grow text-danger mx-2" role="status">
+              <span class="visually-hidden">Loading...</span>
+            </div>
+            <div class="spinner-grow text-warning mx-2" role="status">
+              <span class="visually-hidden">Loading...</span>
+            </div>
+            <div class="spinner-grow text-info mx-2" role="status">
+              <span class="visually-hidden">Loading...</span>
+            </div>
+            <div class="spinner-grow text-light mx-2" role="status">
+              <span class="visually-hidden">Loading...</span>
+            </div>
+            <div class="spinner-grow text-dark mx-2" role="status">
+              <span class="visually-hidden">Loading...</span>
+            </div>
+
+            <br />
+            <br />
+
+            <button class="btn btn-primary" type="button" disabled="">
+              <span class="spinner-grow spinner-grow-sm" role="status" aria-hidden="true"></span>
+              <span class="visually-hidden">Loading...</span>
+            </button>
+            <button class="btn btn-primary" type="button" disabled="">
+              <span class="spinner-grow spinner-grow-sm" role="status" aria-hidden="true"></span>
+              Loading...
+            </button>
+          </div>
+          <!--Grid column-->
+        </div>
+        <!--Grid row-->
+      </section>
+
+      <hr class="my-5" />
+
+      <section>
+        <p class="subheader text-center mb-4 pb-2">Alerts</p>
+
+        <!---Grid row-->
+        <div class="row">
+          <!--Grid column-->
+          <div class="col-md-6 mb-4">
+            <div class="alert alert-primary" role="alert">
+              A simple primary alert—check it out!
+            </div>
+            <div class="alert alert-secondary" role="alert">
+              A simple secondary alert—check it out!
+            </div>
+            <div class="alert alert-success" role="alert">
+              A simple success alert—check it out!
+            </div>
+            <div class="alert alert-danger" role="alert">
+              A simple danger alert—check it out!
+            </div>
+            <div class="alert alert-warning" role="alert">
+              A simple warning alert—check it out!
+            </div>
+            <div class="alert alert-info" role="alert">
+              A simple info alert—check it out!
+            </div>
+            <div class="alert alert-light" role="alert">
+              A simple light alert—check it out!
+            </div>
+            <div class="alert alert-dark" role="alert">
+              A simple dark alert—check it out!
+            </div>
+          </div>
+          <!--Grid column-->
+
+          <!--Grid column-->
+          <div class="col-md-6 mb-4">
+            <div class="alert alert-warning alert-dismissible fade show" role="alert">
+              <strong>Holy guacamole!</strong> You should check in on some of those fields below.
+              <button
+                type="button"
+                class="btn-close"
+                data-mdb-dismiss="alert"
+                aria-label="Close"
+              ></button>
+            </div>
+
+            <div class="alert alert-success" role="alert">
+              <h4 class="alert-heading">Well done!</h4>
+              <p>
+                Aww yeah, you successfully read this important alert message. This example text is
+                going to run a bit longer so that you can see how spacing within an alert works with
+                this kind of content.
+              </p>
+              <hr />
+              <p class="mb-0">
+                Whenever you need to, be sure to use margin utilities to keep things nice and tidy.
+              </p>
+            </div>
+          </div>
+          <!--Grid column-->
+        </div>
+        <!--Grid row-->
+      </section>
+
+      <hr class="my-5" />
+
+      <section>
+        <p class="subheader text-center mb-4 pb-2">Badges</p>
+
+        <!--Grid row-->
+        <div class="row">
+          <!--Grid column-->
+          <div class="col-md-5 mb-4">
+            <h1>Example heading <span class="badge bg-primary">New</span></h1>
+            <h2>Example heading <span class="badge bg-primary">New</span></h2>
+            <h3>Example heading <span class="badge bg-primary">New</span></h3>
+            <h4>Example heading <span class="badge bg-primary">New</span></h4>
+            <h5>Example heading <span class="badge bg-primary">New</span></h5>
+            <h6>Example heading <span class="badge bg-primary">New</span></h6>
+          </div>
+          <!--Grid column-->
+
+          <!--Grid column-->
+          <div class="col-md-3 mb-4">
+            <a href="">
+              <span><i class="mi mi-Mail mi-2x"></i></span>
+              <span class="badge bg-danger badge-dot"></span>
+            </a>
+
+            <br />
+
+            <a href="">
+              <span><i class="mi mi-Mail mi-2x"></i></span>
+              <span class="badge rounded-pill badge-notification bg-danger">1</span>
+            </a>
+
+            <br />
+
+            <a href="">
+              <span><i class="mi mi-Mail mi-2x"></i></span>
+              <span class="badge rounded-pill badge-notification bg-danger">999+</span>
+            </a>
+          </div>
+          <!--Grid column-->
+
+          <!--Grid column-->
+          <div class="col-md-4 mb-4">
+            <span class="badge rounded-pill bg-primary">Primary</span>
+            <span class="badge rounded-pill bg-secondary">Secondary</span>
+            <span class="badge rounded-pill bg-success">Success</span>
+            <span class="badge rounded-pill bg-danger">Danger</span>
+            <span class="badge rounded-pill bg-warning text-dark">Warning</span>
+            <span class="badge rounded-pill bg-info">Info</span>
+            <span class="badge rounded-pill bg-light text-dark">Light</span>
+            <span class="badge rounded-pill bg-dark">Dark</span>
+
+            <br />
+            <br />
+
+            <button type="button" class="btn btn-primary">
+              Notifications<span class="badge bg-danger ms-2">8</span>
+            </button>
+
+            <br />
+            <br />
+
+            <span class="badge bg-primary">Primary</span>
+            <span class="badge bg-secondary">Secondary</span>
+            <span class="badge bg-success">Success</span>
+            <span class="badge bg-danger">Danger</span>
+            <span class="badge bg-warning text-dark">Warning</span>
+            <span class="badge bg-info">Info</span>
+            <span class="badge bg-light text-dark">Light</span>
+            <span class="badge bg-dark">Dark</span>
+          </div>
+          <!--Grid column-->
+        </div>
+        <!--Grid row-->
+      </section>
+
+      <hr class="my-5" />
+
+      <section>
+        <p class="subheader text-center mb-4 pb-2">Notes &amp; typography</p>
+
+        <p class="note note-primary">
+          <strong>Note primary:</strong> Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+          Cum doloremque officia laboriosam. Itaque ex obcaecati architecto! Qui necessitatibus
+          delectus placeat illo rem id nisi consequatur esse, sint perspiciatis soluta porro?
+        </p>
+
+        <p class="note note-secondary">
+          <strong>Note secondary:</strong> Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+          Cum doloremque officia laboriosam. Itaque ex obcaecati architecto! Qui necessitatibus
+          delectus placeat illo rem id nisi consequatur esse, sint perspiciatis soluta porro?
+        </p>
+
+        <p class="note note-success">
+          <strong>Note success:</strong> Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+          Cum doloremque officia laboriosam. Itaque ex obcaecati architecto! Qui necessitatibus
+          delectus placeat illo rem id nisi consequatur esse, sint perspiciatis soluta porro?
+        </p>
+
+        <p class="note note-danger">
+          <strong>Note danger:</strong> Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+          Cum doloremque officia laboriosam. Itaque ex obcaecati architecto! Qui necessitatibus
+          delectus placeat illo rem id nisi consequatur esse, sint perspiciatis soluta porro?
+        </p>
+
+        <p class="note note-warning">
+          <strong>Note warning:</strong> Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+          Cum doloremque officia laboriosam. Itaque ex obcaecati architecto! Qui necessitatibus
+          delectus placeat illo rem id nisi consequatur esse, sint perspiciatis soluta porro?
+        </p>
+
+        <p class="note note-info">
+          <strong>Note info:</strong> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cum
+          doloremque officia laboriosam. Itaque ex obcaecati architecto! Qui necessitatibus delectus
+          placeat illo rem id nisi consequatur esse, sint perspiciatis soluta porro?
+        </p>
+
+        <p class="note note-light">
+          <strong>Note light:</strong> Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cum
+          doloremque officia laboriosam. Itaque ex obcaecati architecto! Qui necessitatibus delectus
+          placeat illo rem id nisi consequatur esse, sint perspiciatis soluta porro?
+        </p>
+
+        <section class="border p-4 text-center mt-5">
+          <section class="text-center">
+            <h1>Main website heading (h1)</h1>
+
+            <h4>Website subheading (h4)</h4>
+
+            <hr class="my-4" />
+
+            <h3>Section heading (h3)</h3>
+
+            <hr class="my-4" />
+
+            <!--Grid row-->
+            <div class="row">
+              <!--Grid column-->
+              <div class="col-lg-4 col-md-12 mb-4">
+                <h5>Component heading (h5)</h5>
+
+                <p class="small text-muted text-uppercase mb-2">
+                  Component subheading
+                </p>
+
+                <h6>Component alternative subheading (h6)</h6>
+
+                <p>
+                  Lorem, ipsum dolor sit amet consectetur adipisicing elit. A nemo commodi odio
+                  veniam nisi? Cupiditate nobis doloremque unde in ut, consequatur reprehenderit
+                  saepe iure perspiciatis, veniam facilis asperiores deleniti at?
+                </p>
+              </div>
+              <!--Grid column-->
+
+              <!--Grid column-->
+              <div class="col-lg-4 col-md-6 mb-4">
+                <h5>Component heading (h5)</h5>
+
+                <p class="small text-muted text-uppercase mb-2">
+                  Component subheading
+                </p>
+
+                <h6>Component alternative subheading (h6)</h6>
+
+                <p>
+                  Lorem, ipsum dolor sit amet consectetur adipisicing elit. A nemo commodi odio
+                  veniam nisi? Cupiditate nobis doloremque unde in ut, consequatur reprehenderit
+                  saepe iure perspiciatis, veniam facilis asperiores deleniti at?
+                </p>
+              </div>
+              <!--Grid column-->
+
+              <!--Grid column-->
+              <div class="col-lg-4 col-md-6 mb-4">
+                <h5>Component heading (h5)</h5>
+
+                <p class="small text-muted text-uppercase mb-2">
+                  Component subheading
+                </p>
+
+                <h6>Component alternative subheading (h6)</h6>
+
+                <p>
+                  Lorem, ipsum dolor sit amet consectetur adipisicing elit. A nemo commodi odio
+                  veniam nisi? Cupiditate nobis doloremque unde in ut, consequatur reprehenderit
+                  saepe iure perspiciatis, veniam facilis asperiores deleniti at?
+                </p>
+              </div>
+              <!--Grid column-->
+            </div>
+            <!--Grid row-->
+          </section>
+        </section>
+      </section>
+
+      <hr class="my-5" />
+
+      <section>
+        <p class="subheader text-center mb-4 pb-2">Button group</p>
+
+        <!--Grid row-->
+        <div class="row">
+          <!--Grid column-->
+          <div class="col-md-5 mb-4">
+            <div class="btn-toolbar" role="toolbar" aria-label="Toolbar with button groups">
+              <div class="btn-group me-2" role="group" aria-label="First group">
+                <button type="button" class="btn btn-primary">1</button>
+                <button type="button" class="btn btn-primary">2</button>
+                <button type="button" class="btn btn-primary">3</button>
+                <button type="button" class="btn btn-primary">4</button>
+              </div>
+              <div class="btn-group me-2" role="group" aria-label="Second group">
+                <button type="button" class="btn btn-primary">5</button>
+                <button type="button" class="btn btn-primary">6</button>
+                <button type="button" class="btn btn-primary">7</button>
+              </div>
+              <div class="btn-group" role="group" aria-label="Third group">
+                <button type="button" class="btn btn-primary">8</button>
+              </div>
+            </div>
+
+            <br />
+            <br />
+
+            <!-- Large -->
+            <div class="btn-group btn-group-lg" role="group" aria-label="Basic example">
+              <button type="button" class="btn btn-primary">Left</button>
+              <button type="button" class="btn btn-primary">Middle</button>
+              <button type="button" class="btn btn-primary">Right</button>
+            </div>
+
+            <br />
+            <br />
+
+            <!-- Standard -->
+            <div class="btn-group" role="group" aria-label="Basic example">
+              <button type="button" class="btn btn-primary">Left</button>
+              <button type="button" class="btn btn-primary">Middle</button>
+              <button type="button" class="btn btn-primary">Right</button>
+            </div>
+
+            <br />
+            <br />
+
+            <!-- Small -->
+            <div class="btn-group btn-group-sm" role="group" aria-label="Basic example">
+              <button type="button" class="btn btn-primary">Left</button>
+              <button type="button" class="btn btn-primary">Middle</button>
+              <button type="button" class="btn btn-primary">Right</button>
+            </div>
+
+            <br />
+            <br />
+
+            <div class="btn-group" role="group" aria-label="Button group with nested dropdown">
+              <button type="button" class="btn btn-primary">1</button>
+              <button type="button" class="btn btn-primary">2</button>
+
+              <div class="btn-group" role="group">
+                <button
+                  id="btnGroupDrop1"
+                  type="button"
+                  class="btn btn-primary dropdown-toggle"
+                  data-mdb-toggle="dropdown"
+                  aria-expanded="false"
+                >
+                  Dropdown
+                </button>
+                <ul class="dropdown-menu" aria-labelledby="btnGroupDrop1">
+                  <li><a class="dropdown-item" href="#">Dropdown link</a></li>
+                  <li><a class="dropdown-item" href="#">Dropdown link</a></li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <!--Grid column-->
+
+          <!--Grid column-->
+          <div class="col-md-7 mb-4">
+            <!--Grid row-->
+            <div class="row">
+              <!--Grid column-->
+              <div class="col-md-8 mb-4">
+                <div class="btn-group shadow-0" role="group">
+                  <button type="button" class="btn btn-light" data-mdb-ripple-color="dark">
+                    Left
+                  </button>
+                  <button type="button" class="btn btn-light" data-mdb-ripple-color="dark">
+                    Middle
+                  </button>
+                  <button type="button" class="btn btn-light" data-mdb-ripple-color="dark">
+                    Right
+                  </button>
+                </div>
+
+                <br />
+                <br />
+
+                <div class="btn-group shadow-0" role="group">
+                  <button type="button" class="btn btn-link" data-mdb-ripple-color="dark">
+                    Left
+                  </button>
+                  <button type="button" class="btn btn-link" data-mdb-ripple-color="dark">
+                    Middle
+                  </button>
+                  <button type="button" class="btn btn-link" data-mdb-ripple-color="dark">
+                    Right
+                  </button>
+                </div>
+
+                <br />
+                <br />
+
+                <div class="btn-group" role="group">
+                  <button type="button" class="btn btn-secondary">Left</button>
+                  <button type="button" class="btn btn-secondary">Middle</button>
+                  <button type="button" class="btn btn-secondary">Right</button>
+                </div>
+
+                <br />
+                <br />
+
+                <div class="btn-group" role="group">
+                  <button type="button" class="btn btn-success">Left</button>
+                  <button type="button" class="btn btn-success">Middle</button>
+                  <button type="button" class="btn btn-success">Right</button>
+                </div>
+
+                <br />
+                <br />
+
+                <div class="btn-group" role="group">
+                  <button type="button" class="btn btn-danger">Left</button>
+                  <button type="button" class="btn btn-danger">Middle</button>
+                  <button type="button" class="btn btn-danger">Right</button>
+                </div>
+
+                <br />
+                <br />
+
+                <div class="btn-group" role="group">
+                  <button type="button" class="btn btn-warning">Left</button>
+                  <button type="button" class="btn btn-warning">Middle</button>
+                  <button type="button" class="btn btn-warning">Right</button>
+                </div>
+
+                <br />
+                <br />
+
+                <div class="btn-group" role="group">
+                  <button type="button" class="btn btn-info">Left</button>
+                  <button type="button" class="btn btn-info">Middle</button>
+                  <button type="button" class="btn btn-info">Right</button>
+                </div>
+
+                <br />
+                <br />
+
+                <div class="btn-group" role="group">
+                  <button type="button" class="btn btn-dark">Left</button>
+                  <button type="button" class="btn btn-dark">Middle</button>
+                  <button type="button" class="btn btn-dark">Right</button>
+                </div>
+              </div>
+              <!--Grid column-->
+
+              <!--Grid column-->
+              <div class="col-md-4 mb-4">
+                <div class="btn-group-vertical" role="group" aria-label="Vertical button group">
+                  <button type="button" class="btn btn-primary">Button</button>
+                  <button type="button" class="btn btn-primary">Button</button>
+                  <button type="button" class="btn btn-primary">Button</button>
+                  <button type="button" class="btn btn-primary">Button</button>
+                  <button type="button" class="btn btn-primary">Button</button>
+                  <button type="button" class="btn btn-primary">Button</button>
+                </div>
+              </div>
+              <!--Grid column-->
+            </div>
+            <!--Grid row-->
+          </div>
+          <!--Grid column-->
+        </div>
+        <!--Grid row-->
+      </section>
+
+      <hr class="my-5" />
+
+      <section>
+        <p class="subheader text-center mb-4 pb-2">Collapse</p>
+
+        <!--Grid row-->
+        <div class="row">
+          <!--Grid column-->
+          <div class="col-md-6 mb-4">
+            <!-- Buttons trigger collapse -->
+            <a
+              class="btn btn-primary"
+              data-mdb-toggle="collapse"
+              href="#collapseExample"
+              role="button"
+              aria-expanded="false"
+              aria-controls="collapseExample"
+            >
+              Link with href
+            </a>
+            <button
+              class="btn btn-primary"
+              type="button"
+              data-mdb-toggle="collapse"
+              data-mdb-target="#collapseExample"
+              aria-expanded="false"
+              aria-controls="collapseExample"
+            >
+              Button with data-mdb-target
+            </button>
+
+            <!-- Collapsed content -->
+            <div class="collapse mt-3" id="collapseExample">
+              Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson
+              ad squid. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt
+              sapiente ea proident.
+            </div>
+          </div>
+          <!--Grid column-->
+
+          <!--Grid column-->
+          <div class="col-md-6 mb-4">
+            <!-- Accordion wrapper -->
+            <div class="accordion" id="accordionExample">
+              <!-- Single collapse -->
+              <div id="headingOne">
+                <h2>
+                  <button
+                    class="btn btn-link btn-block text-start ps-3"
+                    type="button"
+                    data-mdb-toggle="collapse"
+                    data-mdb-target="#collapseOne"
+                    aria-expanded="true"
+                    aria-controls="collapseOne"
+                  >
+                    Collapsible Group Item #1
+                  </button>
+                </h2>
+              </div>
+
+              <div
+                id="collapseOne"
+                class="collapse show ps-3"
+                aria-labelledby="headingOne"
+                data-mdb-parent="#accordionExample"
+              >
+                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry
+                richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor
+                brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt
+                aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et.
+                Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente
+                ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer
+                farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them
+                accusamus labore sustainable VHS.
+              </div>
+              <!-- Single collapse -->
+
+              <!-- Single collapse -->
+              <div id="headingTwo">
+                <h2>
+                  <button
+                    class="btn btn-link btn-block text-start ps-3 collapsed"
+                    type="button"
+                    data-mdb-toggle="collapse"
+                    data-mdb-target="#collapseTwo"
+                    aria-expanded="false"
+                    aria-controls="collapseTwo"
+                  >
+                    Collapsible Group Item #2
+                  </button>
+                </h2>
+              </div>
+
+              <div
+                id="collapseTwo"
+                class="collapse ps-3"
+                aria-labelledby="headingTwo"
+                data-mdb-parent="#accordionExample"
+              >
+                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry
+                richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor
+                brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt
+                aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et.
+                Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente
+                ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer
+                farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them
+                accusamus labore sustainable VHS.
+              </div>
+              <!-- Single collapse -->
+
+              <!-- Single collapse -->
+              <div id="headingThree">
+                <h2>
+                  <button
+                    class="btn btn-link btn-block text-start ps-3 collapsed"
+                    type="button"
+                    data-mdb-toggle="collapse"
+                    data-mdb-target="#collapseThree"
+                    aria-expanded="false"
+                    aria-controls="collapseThree"
+                  >
+                    Collapsible Group Item #3
+                  </button>
+                </h2>
+              </div>
+
+              <div
+                id="collapseThree"
+                class="collapse ps-3"
+                aria-labelledby="headingThree"
+                data-mdb-parent="#accordionExample"
+              >
+                Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry
+                richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor
+                brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt
+                aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et.
+                Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente
+                ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer
+                farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them
+                accusamus labore sustainable VHS.
+              </div>
+              <!-- Single collapse -->
+            </div>
+            <!-- Accordion wrapper -->
+          </div>
+          <!--Grid column-->
+        </div>
+        <!--Grid row-->
+      </section>
+
+      <hr class="my-5" />
+
+      <section class="text-center">
+        <p class="subheader mb-4 pb-2">Dropdowns</p>
+
+        <!-- Primary -->
+        <div class="btn-group">
+          <button
+            type="button"
+            class="btn btn-primary dropdown-toggle"
+            data-mdb-toggle="dropdown"
+            aria-expanded="false"
+          >
+            Action
+          </button>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Action</a></li>
+            <li><a class="dropdown-item" href="#">Another action</a></li>
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+            <li>
+              <hr class="dropdown-divider" />
+            </li>
+            <li><a class="dropdown-item" href="#">Separated link</a></li>
+          </ul>
+        </div>
+
+        <!-- Secondary -->
+        <div class="btn-group">
+          <button
+            type="button"
+            class="btn btn-secondary dropdown-toggle"
+            data-mdb-toggle="dropdown"
+            aria-expanded="false"
+          >
+            Action
+          </button>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Action</a></li>
+            <li><a class="dropdown-item" href="#">Another action</a></li>
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+            <li>
+              <hr class="dropdown-divider" />
+            </li>
+            <li><a class="dropdown-item" href="#">Separated link</a></li>
+          </ul>
+        </div>
+
+        <!-- Success -->
+        <div class="btn-group">
+          <button
+            type="button"
+            class="btn btn-success dropdown-toggle"
+            data-mdb-toggle="dropdown"
+            aria-expanded="false"
+          >
+            Action
+          </button>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Action</a></li>
+            <li><a class="dropdown-item" href="#">Another action</a></li>
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+            <li>
+              <hr class="dropdown-divider" />
+            </li>
+            <li><a class="dropdown-item" href="#">Separated link</a></li>
+          </ul>
+        </div>
+
+        <!-- Info -->
+        <div class="btn-group">
+          <button
+            type="button"
+            class="btn btn-info dropdown-toggle"
+            data-mdb-toggle="dropdown"
+            aria-expanded="false"
+          >
+            Action
+          </button>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Action</a></li>
+            <li><a class="dropdown-item" href="#">Another action</a></li>
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+            <li>
+              <hr class="dropdown-divider" />
+            </li>
+            <li><a class="dropdown-item" href="#">Separated link</a></li>
+          </ul>
+        </div>
+
+        <!-- Warning -->
+        <div class="btn-group">
+          <button
+            type="button"
+            class="btn btn-warning dropdown-toggle"
+            data-mdb-toggle="dropdown"
+            aria-expanded="false"
+          >
+            Action
+          </button>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Action</a></li>
+            <li><a class="dropdown-item" href="#">Another action</a></li>
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+            <li>
+              <hr class="dropdown-divider" />
+            </li>
+            <li><a class="dropdown-item" href="#">Separated link</a></li>
+          </ul>
+        </div>
+
+        <!-- Danger -->
+        <div class="btn-group">
+          <button
+            type="button"
+            class="btn btn-danger dropdown-toggle"
+            data-mdb-toggle="dropdown"
+            aria-expanded="false"
+          >
+            Action
+          </button>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Action</a></li>
+            <li><a class="dropdown-item" href="#">Another action</a></li>
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+            <li>
+              <hr class="dropdown-divider" />
+            </li>
+            <li><a class="dropdown-item" href="#">Separated link</a></li>
+          </ul>
+        </div>
+
+        <!-- Dark -->
+        <div class="btn-group">
+          <button
+            type="button"
+            class="btn btn-dark dropdown-toggle"
+            data-mdb-toggle="dropdown"
+            aria-expanded="false"
+          >
+            Action
+          </button>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Action</a></li>
+            <li><a class="dropdown-item" href="#">Another action</a></li>
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+            <li>
+              <hr class="dropdown-divider" />
+            </li>
+            <li><a class="dropdown-item" href="#">Separated link</a></li>
+          </ul>
+        </div>
+
+        <!-- Light -->
+        <div class="btn-group shadow-0">
+          <button
+            type="button"
+            class="btn btn-light dropdown-toggle"
+            data-mdb-toggle="dropdown"
+            aria-expanded="false"
+          >
+            Action
+          </button>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Action</a></li>
+            <li><a class="dropdown-item" href="#">Another action</a></li>
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+            <li>
+              <hr class="dropdown-divider" />
+            </li>
+            <li><a class="dropdown-item" href="#">Separated link</a></li>
+          </ul>
+        </div>
+
+        <!-- Link -->
+        <div class="btn-group shadow-0">
+          <button
+            type="button"
+            class="btn btn-link dropdown-toggle"
+            data-mdb-toggle="dropdown"
+            aria-expanded="false"
+          >
+            Action
+          </button>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="#">Action</a></li>
+            <li><a class="dropdown-item" href="#">Another action</a></li>
+            <li><a class="dropdown-item" href="#">Something else here</a></li>
+            <li>
+              <hr class="dropdown-divider" />
+            </li>
+            <li><a class="dropdown-item" href="#">Separated link</a></li>
+          </ul>
+        </div>
+      </section>
+
+      <hr class="my-5" />
+
+      <section>
+        <p class="subheader text-center mb-4 pb-2">Modal</p>
+
+        <section class="border p-4 text-center mb-4 bg-light">
+          <!-- Button trigger modal -->
+          <button
+            type="button"
+            class="btn btn-primary"
+            data-mdb-toggle="modal"
+            data-mdb-target="#exampleModal"
+          >
+            Launch demo modal
+          </button>
+
+          <div
+            class="modal"
+            tabindex="-1"
+            style="position: static; display: block; height: auto;"
+            data-gtm-vis-first-on-screen-2340190_1302="6684"
+            data-gtm-vis-total-visible-time-2340190_1302="100"
+            data-gtm-vis-has-fired-2340190_1302="1"
+          >
+            <div class="modal-dialog">
+              <div class="modal-content">
+                <div class="modal-header">
+                  <h5 class="modal-title">Modal title</h5>
+                  <button
+                    type="button"
+                    class="btn-close"
+                    data-mdb-dismiss="modal"
+                    aria-label="Close"
+                  ></button>
+                </div>
+                <div class="modal-body">
+                  <p>Modal body text goes here.</p>
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-secondary" data-mdb-dismiss="modal">
+                    Close
+                  </button>
+                  <button type="button" class="btn btn-primary">
+                    Save changes
+                  </button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+
+        <!-- Modal -->
+        <div
+          class="modal fade"
+          id="exampleModal"
+          tabindex="-1"
+          aria-labelledby="exampleModalLabel"
+          aria-hidden="true"
+        >
+          <div class="modal-dialog">
+            <div class="modal-content">
+              <div class="modal-header">
+                <h5 class="modal-title" id="exampleModalLabel">Modal title</h5>
+                <button
+                  type="button"
+                  class="btn-close"
+                  data-mdb-dismiss="modal"
+                  aria-label="Close"
+                ></button>
+              </div>
+              <div class="modal-body">
+                ...
+              </div>
+              <div class="modal-footer">
+                <button type="button" class="btn btn-secondary" data-mdb-dismiss="modal">
+                  Close
+                </button>
+                <button type="button" class="btn btn-primary">
+                  Save changes
+                </button>
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <hr class="my-5" />
+
+      <section>
+        <p class="subheader text-center mb-4 pb-2">Toasts</p>
+
+        <!--Grid row-->
+        <div class="row d-flex justify-content-center">
+          <!--Grid column-->
+          <div class="col-md-3 mb-4">
+            <div class="toast fade show" role="alert" aria-live="assertive" aria-atomic="true">
+              <div class="toast-header">
+                <strong class="me-auto">MDBootstrap</strong>
+                <small>11 mins ago</small>
+                <button
+                  type="button"
+                  class="btn-close"
+                  data-mdb-dismiss="toast"
+                  aria-label="Close"
+                ></button>
+              </div>
+              <div class="toast-body">
+                Hello, world! This is a toast message.
+              </div>
+            </div>
+          </div>
+          <!--Grid column-->
+        </div>
+        <!--Grid row-->
+
+        <!--Grid row-->
+        <div class="row">
+          <!--Grid column-->
+          <div class="col-lg-3 col-md-6 mb-4">
+            <!-- Info toast -->
+            <div
+              class="toast fade show bg-info text-white"
+              role="alert"
+              aria-live="assertive"
+              aria-atomic="true"
+            >
+              <div class="toast-header bg-info text-white">
+                <i class="fas fa-info-circle fa-lg me-2"></i>
+                <strong class="me-auto">MDBootstrap</strong>
+                <small>11 mins ago</small>
+                <button
+                  type="button"
+                  class="btn-close btn-close-white"
+                  data-mdb-dismiss="toast"
+                  aria-label="Close"
+                ></button>
+              </div>
+              <div class="toast-body">
+                Hello, world! This is a toast message.
+              </div>
+            </div>
+          </div>
+          <!--Grid column-->
+
+          <!--Grid column-->
+          <div class="col-lg-3 col-md-6 mb-4">
+            <!-- Warning toast -->
+            <div
+              class="toast fade show bg-warning text-white"
+              role="alert"
+              aria-live="assertive"
+              aria-atomic="true"
+            >
+              <div class="toast-header bg-warning text-white">
+                <i class="fas fa-exclamation-triangle fa-lg me-2"></i>
+                <strong class="me-auto">MDBootstrap</strong>
+                <small>11 mins ago</small>
+                <button
+                  type="button"
+                  class="btn-close btn-close-white"
+                  data-mdb-dismiss="toast"
+                  aria-label="Close"
+                ></button>
+              </div>
+              <div class="toast-body">
+                Hello, world! This is a toast message.
+              </div>
+            </div>
+          </div>
+          <!--Grid column-->
+
+          <!--Grid column-->
+          <div class="col-lg-3 col-md-6 mb-4">
+            <!-- Success toast -->
+            <div
+              class="toast fade show bg-success text-white"
+              role="alert"
+              aria-live="assertive"
+              aria-atomic="true"
+            >
+              <div class="toast-header bg-success text-white">
+                <i class="fas fa-check fa-lg me-2"></i>
+                <strong class="me-auto">MDBootstrap</strong>
+                <small>11 mins ago</small>
+                <button
+                  type="button"
+                  class="btn-close btn-close-white"
+                  data-mdb-dismiss="toast"
+                  aria-label="Close"
+                ></button>
+              </div>
+              <div class="toast-body">
+                Hello, world! This is a toast message.
+              </div>
+            </div>
+          </div>
+          <!--Grid column-->
+
+          <!--Grid column-->
+          <div class="col-lg-3 col-md-6 mb-4">
+            <!-- Danger toast -->
+            <div
+              class="toast fade show bg-danger text-white"
+              role="alert"
+              aria-live="assertive"
+              aria-atomic="true"
+            >
+              <div class="toast-header bg-danger text-white">
+                <i class="fas fa-exclamation-circle fa-lg me-2"></i>
+                <strong class="me-auto">MDBootstrap</strong>
+                <small>11 mins ago</small>
+                <button
+                  type="button"
+                  class="btn-close btn-close-white"
+                  data-mdb-dismiss="toast"
+                  aria-label="Close"
+                ></button>
+              </div>
+              <div class="toast-body">
+                Hello, world! This is a toast message.
+              </div>
+            </div>
+          </div>
+          <!--Grid column-->
+        </div>
+        <!--Grid row-->
+      </section>
+
+      <hr class="my-5" />
+
+      <section>
+        <p class="subheader text-center mb-4 pb-2">Acrylic</p>
+
+        <div class="container mb-5">
+          <section style="height: 1000px;">
+            <div
+              class="bg-image h-100"
+              style="
+                background-image: url(https://mdbootstrap.com/img/Photos/new-templates/glassmorphism-article/img5.jpg);
+              "
+            >
+              <div class="mask d-flex align-items-center h-100">
+                <div class="container">
+                  <div class="row justify-content-center">
+                    <div class="col-xl-8 mb-4">
+                      <div
+                        class="card mask-custom custom-1 py-5 px-4 text-white"
+                        style="height: 350px;"
+                      >
+                        <div class="card-body d-flex align-items-center justify-content-center">
+                          <p class="h4 mb-0 text-dark">Blur: 30px</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="row justify-content-center">
+                    <div class="col-xl-2">
+                      <div
+                        class="card mask-custom custom-2 py-5 px-4 text-white"
+                        style="height: 150px;"
+                      >
+                        <div class="card-body d-flex align-items-center justify-content-center">
+                          <p class="h6 mb-0 text-dark">Blur: 60px</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-xl-2">
+                      <div
+                        class="card mask-custom custom-3 py-5 px-4 text-white"
+                        style="height: 150px;"
+                      >
+                        <div class="card-body d-flex align-items-center justify-content-center">
+                          <p class="h6 mb-0 text-dark">Blur: 40px</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-xl-2">
+                      <div
+                        class="card mask-custom custom-4 py-5 px-4 text-white"
+                        style="height: 150px;"
+                      >
+                        <div class="card-body d-flex align-items-center justify-content-center">
+                          <p class="h6 mb-0 text-dark">Blur: 15px</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-xl-2">
+                      <div
+                        class="card mask-custom custom-5 py-5 px-4 text-white"
+                        style="height: 150px;"
+                      >
+                        <div class="card-body d-flex align-items-center justify-content-center">
+                          <p class="h6 mb-0 text-dark">Blur: 5px</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+        </div>
+
+        <div class="container mb-5">
+          <section style="height: 1000px;">
+            <div
+              class="bg-image h-100"
+              style="
+                background-image: url(https://mdbootstrap.com/img/Photos/new-templates/glassmorphism-article/img8.jpg);
+              "
+            >
+              <div class="mask d-flex align-items-center h-100">
+                <div class="container">
+                  <div class="row justify-content-center">
+                    <div class="col-xl-8 mb-4">
+                      <div
+                        class="card mask-custom-1 custom-6 py-5 px-4 text-white"
+                        style="height: 350px;"
+                      >
+                        <div class="card-body d-flex align-items-center justify-content-center">
+                          <p class="h4 mb-0">Blur: 30px</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="row justify-content-center">
+                    <div class="col-xl-2">
+                      <div
+                        class="card mask-custom-1 custom-7 py-5 px-4 text-white"
+                        style="height: 150px;"
+                      >
+                        <div class="card-body d-flex align-items-center justify-content-center">
+                          <p class="h6 mb-0">Blur: 60px</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-xl-2">
+                      <div
+                        class="card mask-custom-1 custom-8 py-5 px-4 text-white"
+                        style="height: 150px;"
+                      >
+                        <div class="card-body d-flex align-items-center justify-content-center">
+                          <p class="h6 mb-0">Blur: 40px</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-xl-2">
+                      <div
+                        class="card mask-custom-1 custom-9 py-5 px-4 text-white"
+                        style="height: 150px;"
+                      >
+                        <div class="card-body d-flex align-items-center justify-content-center">
+                          <p class="h6 mb-0">Blur: 15px</p>
+                        </div>
+                      </div>
+                    </div>
+                    <div class="col-xl-2">
+                      <div
+                        class="card mask-custom-1 custom-10 py-5 px-4 text-white"
+                        style="height: 150px;"
+                      >
+                        <div class="card-body d-flex align-items-center justify-content-center">
+                          <p class="h6 mb-0">Blur: 5px</p>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+
+          <div class="row">
+            <div class="col-12 mb-4"></div>
+          </div>
+          <div class="row">
+            <div class="col-md-3"></div>
+            <div class="col-md-3"></div>
+            <div class="col-md-3"></div>
+            <div class="col-md-3"></div>
+          </div>
+        </div>
+      </section>
+
+      <hr class="my-5" />
+
+      <section class="text-center">
+        <p class="subheader mb-4 pb-2">Tooltips</p>
+
+        <button
+          type="button"
+          class="btn btn-secondary m-1"
+          data-mdb-toggle="tooltip"
+          data-mdb-placement="top"
+          title=""
+          data-mdb-original-title="Tooltip on top"
+        >
+          Tooltip on top
+        </button>
+        <button
+          type="button"
+          class="btn btn-secondary m-1"
+          data-mdb-toggle="tooltip"
+          data-mdb-placement="right"
+          title=""
+          data-mdb-original-title="Tooltip on right"
+        >
+          Tooltip on right
+        </button>
+        <button
+          type="button"
+          class="btn btn-secondary m-1"
+          data-mdb-toggle="tooltip"
+          data-mdb-placement="bottom"
+          title=""
+          data-mdb-original-title="Tooltip on bottom"
+        >
+          Tooltip on bottom
+        </button>
+        <button
+          type="button"
+          class="btn btn-secondary m-1"
+          data-mdb-toggle="tooltip"
+          data-mdb-placement="left"
+          title=""
+          data-mdb-original-title="Tooltip on left"
+        >
+          Tooltip on left
+        </button>
+      </section>
+
+      <hr class="my-5" />
+
+      <section class="text-center">
+        <p class="subheader mb-4 pb-2">Popovers</p>
+
+        <button
+          type="button"
+          class="btn btn-success m-1"
+          data-mdb-container="body"
+          data-mdb-toggle="popover"
+          data-mdb-placement="top"
+          data-mdb-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."
+          data-mdb-original-title=""
+          title=""
+        >
+          Popover on top
+        </button>
+
+        <button
+          type="button"
+          class="btn btn-success m-1"
+          data-mdb-container="body"
+          data-mdb-toggle="popover"
+          data-mdb-placement="right"
+          data-mdb-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."
+          data-mdb-original-title=""
+          title=""
+        >
+          Popover on right
+        </button>
+
+        <button
+          type="button"
+          class="btn btn-success m-1"
+          data-mdb-container="body"
+          data-mdb-toggle="popover"
+          data-mdb-placement="bottom"
+          data-mdb-content="Vivamus
+            sagittis lacus vel augue laoreet rutrum faucibus."
+          data-mdb-original-title=""
+          title=""
+        >
+          Popover on bottom
+        </button>
+
+        <button
+          type="button"
+          class="btn btn-success m-1"
+          data-mdb-container="body"
+          data-mdb-toggle="popover"
+          data-mdb-placement="left"
+          data-mdb-content="Vivamus sagittis lacus vel augue laoreet rutrum faucibus."
+          data-mdb-original-title=""
+          title=""
+        >
+          Popover on left
+        </button>
+      </section>
+
+      <hr class="my-5" />
+
+      <section>
+        <p class="subheader text-center mb-4 pb-2">Footer</p>
+
+        <footer class="bg-primary text-white mb-5">
+          <!-- Grid container -->
+          <div class="container p-4">
+            <!--Grid row-->
+            <div class="row">
+              <!--Grid column-->
+              <div class="col-lg-6 col-md-12 mb-4 mb-md-0">
+                <h5 class="text-uppercase">Footer Content</h5>
+
+                <p>
+                  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste atque ea quis
+                  molestias. Fugiat pariatur maxime quis culpa corporis vitae repudiandae aliquam
+                  voluptatem veniam, est atque cumque eum delectus sint!
+                </p>
+              </div>
+              <!--Grid column-->
+
+              <!--Grid column-->
+              <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                <h5 class="text-uppercase">Links</h5>
+
+                <ul class="list-unstyled">
+                  <li>
+                    <a href="#!" class="text-white">Link 1</a>
+                  </li>
+                  <li>
+                    <a href="#!" class="text-white">Link 2</a>
+                  </li>
+                  <li>
+                    <a href="#!" class="text-white">Link 3</a>
+                  </li>
+                  <li>
+                    <a href="#!" class="text-white">Link 4</a>
+                  </li>
+                </ul>
+              </div>
+              <!--Grid column-->
+
+              <!--Grid column-->
+              <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                <h5 class="text-uppercase">Links</h5>
+
+                <ul class="list-unstyled">
+                  <li>
+                    <a href="#!" class="text-white">Link 1</a>
+                  </li>
+                  <li>
+                    <a href="#!" class="text-white">Link 2</a>
+                  </li>
+                  <li>
+                    <a href="#!" class="text-white">Link 3</a>
+                  </li>
+                  <li>
+                    <a href="#!" class="text-white">Link 4</a>
+                  </li>
+                </ul>
+              </div>
+              <!--Grid column-->
+            </div>
+            <!--Grid row-->
+          </div>
+          <!-- Grid container -->
+
+          <!-- Copyright -->
+          <div
+            class="text-center p-3"
+            style="background-color: rgba(0, 0, 0, 0.2); color: rgba(255, 255, 255, 0.6);"
+          >
+            © 2020 Copyright:
+            <a class="text-white" href="https://mdbootstrap.com/"> MDBootstrap.com</a>
+          </div>
+          <!-- Copyright -->
+        </footer>
+
+        <footer class="bg-secondary text-white">
+          <!-- Grid container -->
+          <div class="container p-4">
+            <!--Grid row-->
+            <div class="row">
+              <!--Grid column-->
+              <div class="col-lg-6 col-md-12 mb-4 mb-md-0">
+                <h5 class="text-uppercase">Footer Content</h5>
+
+                <p>
+                  Lorem ipsum dolor sit amet consectetur, adipisicing elit. Iste atque ea quis
+                  molestias. Fugiat pariatur maxime quis culpa corporis vitae repudiandae aliquam
+                  voluptatem veniam, est atque cumque eum delectus sint!
+                </p>
+              </div>
+              <!--Grid column-->
+
+              <!--Grid column-->
+              <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                <h5 class="text-uppercase">Links</h5>
+
+                <ul class="list-unstyled">
+                  <li>
+                    <a href="#!" class="text-white">Link 1</a>
+                  </li>
+                  <li>
+                    <a href="#!" class="text-white">Link 2</a>
+                  </li>
+                  <li>
+                    <a href="#!" class="text-white">Link 3</a>
+                  </li>
+                  <li>
+                    <a href="#!" class="text-white">Link 4</a>
+                  </li>
+                </ul>
+              </div>
+              <!--Grid column-->
+
+              <!--Grid column-->
+              <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                <h5 class="text-uppercase">Links</h5>
+
+                <ul class="list-unstyled">
+                  <li>
+                    <a href="#!" class="text-white">Link 1</a>
+                  </li>
+                  <li>
+                    <a href="#!" class="text-white">Link 2</a>
+                  </li>
+                  <li>
+                    <a href="#!" class="text-white">Link 3</a>
+                  </li>
+                  <li>
+                    <a href="#!" class="text-white">Link 4</a>
+                  </li>
+                </ul>
+              </div>
+              <!--Grid column-->
+            </div>
+            <!--Grid row-->
+          </div>
+          <!-- Grid container -->
+
+          <!-- Copyright -->
+          <div
+            class="text-center p-3"
+            style="background-color: rgba(0, 0, 0, 0.2); color: rgba(255, 255, 255, 0.6);"
+          >
+            © 2020 Copyright:
+            <a class="text-white" href="https://mdbootstrap.com/"> MDBootstrap.com</a>
+          </div>
+          <!-- Copyright -->
+        </footer>
+      </section>
+
+      <hr class="my-5" />
+
+      <section>
+        <p class="subheader text-center mb-4 pb-2">Breadcrumbs</p>
+
+        <nav aria-label="breadcrumb">
+          <ol class="breadcrumb">
+            <li class="breadcrumb-item active" aria-current="page">Home</li>
+          </ol>
+        </nav>
+
+        <nav aria-label="breadcrumb">
+          <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="#">Home</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Library</li>
+          </ol>
+        </nav>
+
+        <nav aria-label="breadcrumb">
+          <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a href="#">Home</a></li>
+            <li class="breadcrumb-item"><a href="#">Library</a></li>
+            <li class="breadcrumb-item active" aria-current="page">Data</li>
+          </ol>
+        </nav>
+
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+          <div class="container-fluid">
+            <nav aria-label="breadcrumb">
+              <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="#">Home</a></li>
+                <li class="breadcrumb-item"><a href="#">Library</a></li>
+                <li class="breadcrumb-item active" aria-current="page">
+                  <a href="#">Data</a>
+                </li>
+              </ol>
+            </nav>
+          </div>
+        </nav>
+      </section>
+
+      <hr class="my-5" />
+
+      <section>
+        <p class="subheader text-center mb-4 pb-2">Pills</p>
+
+        <!-- Pills navs -->
+        <ul class="nav nav-pills nav-justified mb-3" id="ex-3" role="tablist">
+          <li class="nav-item" role="presentation">
+            <a
+              class="nav-link active"
+              id="ex-3-tab-1"
+              data-mdb-toggle="pill"
+              href="#ex-3-pills-1"
+              role="tab"
+              aria-controls="pills-1"
+              aria-selected="true"
+              >Home</a
+            >
+          </li>
+          <li class="nav-item" role="presentation">
+            <a
+              class="nav-link"
+              id="ex-3-tab-2"
+              data-mdb-toggle="pill"
+              href="#ex-3-pills-2"
+              role="tab"
+              aria-controls="pills-2"
+              aria-selected="false"
+              >Profile</a
+            >
+          </li>
+          <li class="nav-item" role="presentation">
+            <a
+              class="nav-link"
+              id="ex-3-tab-3"
+              data-mdb-toggle="pill"
+              href="#ex-3-pills-3"
+              role="tab"
+              aria-controls="pills-3"
+              aria-selected="false"
+              >Settings</a
+            >
+          </li>
+        </ul>
+        <!-- Pills navs -->
+
+        <!-- Pills content -->
+        <div class="tab-content" id="ex-3-content">
+          <div
+            class="tab-pane fade show active"
+            id="ex-3-pills-1"
+            role="tabpanel"
+            aria-labelledby="pills-1-tab"
+          >
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero sint similique eaque
+            excepturi quisquam molestiae, mollitia eos magnam est iure doloribus veritatis aut modi
+            eligendi nulla doloremque, et consequuntur! Fuga.
+          </div>
+          <div
+            class="tab-pane fade"
+            id="ex-3-pills-2"
+            role="tabpanel"
+            aria-labelledby="pills-2-tab"
+          >
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero sint similique eaque
+            excepturi quisquam molestiae, mollitia eos magnam est iure doloribus veritatis aut modi
+            eligendi nulla doloremque, et consequuntur! Fuga.
+
+            <br />
+
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero sint similique eaque
+            excepturi quisquam molestiae, mollitia eos magnam est iure doloribus veritatis aut modi
+            eligendi nulla doloremque, et consequuntur! Fuga.
+          </div>
+          <div
+            class="tab-pane fade"
+            id="ex-3-pills-3"
+            role="tabpanel"
+            aria-labelledby="pills-3-tab"
+          >
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero sint similique eaque
+            excepturi quisquam molestiae, mollitia eos magnam est iure doloribus veritatis aut modi
+            eligendi nulla doloremque, et consequuntur! Fuga.
+          </div>
+        </div>
+        <!-- Pills content -->
+      </section>
+
+      <hr class="my-5" />
+
+      <section>
+        <p class="subheader text-center mb-4 pb-2">Tabs</p>
+
+        <!-- Tabs navs -->
+        <ul class="nav nav-tabs nav-fill mb-3" id="ex-2" role="tablist">
+          <li class="nav-item" role="presentation">
+            <a
+              class="nav-link active"
+              id="ex-2-tab-1"
+              data-mdb-toggle="pill"
+              href="#ex-2-tabs-1"
+              role="tab"
+              aria-controls="pills-1"
+              aria-selected="true"
+              >Home</a
+            >
+          </li>
+          <li class="nav-item" role="presentation">
+            <a
+              class="nav-link"
+              id="ex-2-tab-2"
+              data-mdb-toggle="pill"
+              href="#ex-2-tabs-2"
+              role="tab"
+              aria-controls="pills-2"
+              aria-selected="false"
+              >Profile</a
+            >
+          </li>
+          <li class="nav-item" role="presentation">
+            <a
+              class="nav-link"
+              id="ex-2-tab-3"
+              data-mdb-toggle="pill"
+              href="#ex-2-tabs-3"
+              role="tab"
+              aria-controls="pills-3"
+              aria-selected="false"
+              >Settings</a
+            >
+          </li>
+        </ul>
+        <!-- Tabs navs -->
+
+        <!-- Tabs content-->
+        <div class="tab-content" id="ex-2-content">
+          <div
+            class="tab-pane fade show active"
+            id="ex-2-tabs-1"
+            role="tabpanel"
+            aria-labelledby="pills-1-tab"
+          >
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero sint similique eaque
+            excepturi quisquam molestiae, mollitia eos magnam est iure doloribus veritatis aut modi
+            eligendi nulla doloremque, et consequuntur! Fuga.
+          </div>
+          <div class="tab-pane fade" id="ex-2-tabs-2" role="tabpanel" aria-labelledby="pills-2-tab">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero sint similique eaque
+            excepturi quisquam molestiae, mollitia eos magnam est iure doloribus veritatis aut modi
+            eligendi nulla doloremque, et consequuntur! Fuga.
+
+            <br />
+
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero sint similique eaque
+            excepturi quisquam molestiae, mollitia eos magnam est iure doloribus veritatis aut modi
+            eligendi nulla doloremque, et consequuntur! Fuga.
+          </div>
+          <div class="tab-pane fade" id="ex-2-tabs-3" role="tabpanel" aria-labelledby="pills-3-tab">
+            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Libero sint similique eaque
+            excepturi quisquam molestiae, mollitia eos magnam est iure doloribus veritatis aut modi
+            eligendi nulla doloremque, et consequuntur! Fuga.
+          </div>
+        </div>
+        <!-- Tabs content-->
+      </section>
+
+      <hr class="my-5" />
+
+      <section>
+        <p class="subheader text-center mb-4 pb-2">Tables</p>
+
+        <table class="table table-striped">
+          <thead>
+            <tr>
+              <th scope="col">#</th>
+              <th scope="col">First</th>
+              <th scope="col">Last</th>
+              <th scope="col">Handle</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">1</th>
+              <td>Mark</td>
+              <td>Otto</td>
+              <td>@mdo</td>
+            </tr>
+            <tr>
+              <th scope="row">2</th>
+              <td>Jacob</td>
+              <td>Thornton</td>
+              <td>@fat</td>
+            </tr>
+            <tr>
+              <th scope="row">3</th>
+              <td colspan="2">Larry the Bird</td>
+              <td>@twitter</td>
+            </tr>
+          </tbody>
+        </table>
+      </section>
+
+      <hr class="my-5" />
+
+      <section>
+        <p class="subheader text-center mb-5 pb-2">Shadows</p>
+
+        <div class="row mb-5 pb-5">
+          <div class="col">
+            <div class="shadow-demo shadow-1 mx-auto"></div>
+          </div>
+          <div class="col">
+            <div class="shadow-demo shadow-2 mx-auto"></div>
+          </div>
+          <div class="col">
+            <div class="shadow-demo shadow-3 mx-auto"></div>
+          </div>
+          <div class="col">
+            <div class="shadow-demo shadow-4 mx-auto"></div>
+          </div>
+        </div>
+      </section>
+    </div>
+
+    <!-- MDB -->
+    <script type="text/javascript" src="../../js/mdb.min.js"></script>
+    <!-- PRISM -->
+    <script type="text/javascript" src="../../dev/js/new-prism.js"></script>
+    <!-- MDB SNIPPET -->
+    <script type="text/javascript" src="../../dev/js/dist/mdbsnippet.min.js"></script>
+    <!-- Custom scripts -->
+    <script type="text/javascript"></script>
+  </body>
+</html>

@@ -1,0 +1,1413 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <title>Material Design for Bootstrap</title>
+    <!-- MDB icon -->
+    <link rel="icon" href="../../img/mdb-favicon.ico" type="image/x-icon" />
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.11.2/css/all.css" />
+    <!-- Google Fonts Roboto -->
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"
+    />
+    <!-- MDB -->
+    <link rel="stylesheet" href="../../css/mdb.min.css" />
+    <!-- PRISM -->
+    <link rel="stylesheet" href="../../dev/css/new-prism.css" />
+    <!-- Custom styles -->
+    <style>
+      .square {
+        height: 100px;
+        width: 100px;
+      }
+
+      img.fit {
+        object-fit: contain;
+        max-width: 100%;
+        max-height: 100%;
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="container my-5">
+      <!-- Navs -->
+      <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+        <!-- Overview tab -->
+        <li class="nav-item" role="presentation">
+          <a
+            class="nav-link active"
+            id="pills-overview-tab"
+            data-mdb-toggle="pill"
+            href="#pills-overview"
+            role="tab"
+            aria-controls="pills-overview"
+            aria-selected="true"
+            >Overview</a
+          >
+        </li>
+        <!-- Overview tab -->
+
+        <!-- Api tab -->
+        <li class="nav-item" role="presentation">
+          <a
+            class="nav-link"
+            id="pills-api-tab"
+            data-mdb-toggle="pill"
+            href="#pills-api"
+            role="tab"
+            aria-controls="pills-api"
+            aria-selected="false"
+            >API</a
+          >
+        </li>
+        <!-- Api tab -->
+      </ul>
+      <!-- Navs -->
+
+      <!-- Panels -->
+      <div class="tab-content mt-4" id="pills-tabContent">
+        <!-- Overview panel -->
+        <div
+          class="tab-pane fade show active"
+          id="pills-overview"
+          role="tabpanel"
+          aria-labelledby="pills-overview-tab"
+        >
+          <!--Grid row-->
+          <div class="row">
+            <!--Grid column-->
+            <div class="col-md-10 mb-4">
+              <!--Section: Docs content-->
+              <section>
+                <!--Section: Introduction-->
+                <section id="section-introduction">
+                  <!-- Main title -->
+                  <h2 class="h1 fw-bold">Ripple effect</h2>
+
+                  <!-- Seo title -->
+                  <h1 class="h5">Subtitle</h1>
+
+                  <!-- Description -->
+                  <p>
+                    To apply a ripple effect to an element, it must have content, for example 'img'
+                    does not meet this condition, but 'button' already yes.
+                  </p>
+                </section>
+                <!--Section: Introduction-->
+
+                <hr class="my-5" />
+
+                <!--Section: Basic example-->
+                <section id="section-basic-example">
+                  <!-- Section title -->
+                  <h2 class="mb-4">Basic example</h2>
+
+                  <!--Section: Demo-->
+                  <section class="border d-flex justify-content-center flex-column p-4 mb-4">
+                    <div class="mb-4">
+                      <button type="button" class="btn btn-sm btn-primary">Primary</button>
+                      <button type="button" class="btn btn-sm btn-secondary">Secondary</button>
+                      <button type="button" class="btn btn-sm btn-success">Success</button>
+                      <button type="button" class="btn btn-sm btn-danger">Danger</button>
+                      <button type="button" class="btn btn-sm btn-warning">Warning</button>
+                      <button type="button" class="btn btn-sm btn-info">Info</button>
+                      <button type="button" class="btn btn-sm btn-light">Light</button>
+                      <button type="button" class="btn btn-sm btn-dark">Dark</button>
+                      <button type="button" class="btn btn-sm btn-link">Link</button>
+                    </div>
+                    <div class="mb-4">
+                      <button type="button" class="btn btn-primary">Primary</button>
+                      <button type="button" class="btn btn-secondary">Secondary</button>
+                      <button type="button" class="btn btn-success">Success</button>
+                      <button type="button" class="btn btn-danger">Danger</button>
+                      <button type="button" class="btn btn-warning">Warning</button>
+                      <button type="button" class="btn btn-info">Info</button>
+                      <button type="button" class="btn btn-light">Light</button>
+                      <button type="button" class="btn btn-dark">Dark</button>
+                      <button type="button" class="btn btn-link">Link</button>
+                    </div>
+
+                    <div>
+                      <button type="button" class="btn btn-lg btn-primary">Primary</button>
+                      <button type="button" class="btn btn-lg btn-secondary">Secondary</button>
+                      <button type="button" class="btn btn-lg btn-success">Success</button>
+                      <button type="button" class="btn btn-lg btn-danger">Danger</button>
+                      <button type="button" class="btn btn-lg btn-warning">Warning</button>
+                      <button type="button" class="btn btn-lg btn-info">Info</button>
+                      <button type="button" class="btn btn-lg btn-light">Light</button>
+                      <button type="button" class="btn btn-lg btn-dark">Dark</button>
+                      <button type="button" class="btn btn-lg btn-link">Link</button>
+                    </div>
+                  </section>
+                  <!--Section: Demo-->
+
+                  <!--Section: Code-->
+                  <section>
+                    <mdbsnippet>
+                      <code data-lang="html" data-name="HTML">
+                        <div>
+                          <button type="button" class="btn btn-sm btn-primary">Primary</button>
+                          <button type="button" class="btn btn-sm btn-secondary">Secondary</button>
+                          <button type="button" class="btn btn-sm btn-success">Success</button>
+                          <button type="button" class="btn btn-sm btn-danger">Danger</button>
+                          <button type="button" class="btn btn-sm btn-warning">Warning</button>
+                          <button type="button" class="btn btn-sm btn-info">Info</button>
+                          <button type="button" class="btn btn-sm btn-light">Light</button>
+                          <button type="button" class="btn btn-sm btn-dark">Dark</button>
+                          <button type="button" class="btn btn-sm btn-link">Link</button>
+                        </div>
+
+                        <div>
+                          <button type="button" class="btn btn-primary">Primary</button>
+                          <button type="button" class="btn btn-secondary">Secondary</button>
+                          <button type="button" class="btn btn-success">Success</button>
+                          <button type="button" class="btn btn-danger">Danger</button>
+                          <button type="button" class="btn btn-warning">Warning</button>
+                          <button type="button" class="btn btn-info">Info</button>
+                          <button type="button" class="btn btn-light">Light</button>
+                          <button type="button" class="btn btn-dark">Dark</button>
+                          <button type="button" class="btn btn-link">Link</button>
+                        </div>
+
+                        <div>
+                          <button type="button" class="btn btn-lg btn-primary">Primary</button>
+                          <button type="button" class="btn btn-lg btn-secondary">Secondary</button>
+                          <button type="button" class="btn btn-lg btn-success">Success</button>
+                          <button type="button" class="btn btn-lg btn-danger">Danger</button>
+                          <button type="button" class="btn btn-lg btn-warning">Warning</button>
+                          <button type="button" class="btn btn-lg btn-info">Info</button>
+                          <button type="button" class="btn btn-lg btn-light">Light</button>
+                          <button type="button" class="btn btn-lg btn-dark">Dark</button>
+                          <button type="button" class="btn btn-lg btn-link">Link</button>
+                        </div>
+                      </code>
+                    </mdbsnippet>
+                  </section>
+                  <!--Section: Code-->
+                </section>
+                <!--Section: Basic example-->
+
+                <hr class="my-5" />
+
+                <!--Section: Colors-->
+                <section id="section-colors">
+                  <!-- Section title -->
+                  <h2 class="mb-4">Colors</h2>
+
+                  <!--Section: Demo-->
+                  <section class="border d-flex justify-content-center p-4 mb-4">
+                    <div>
+                      <div class="mb-4 d-flex justify-content-between flex-wrap">
+                        <button data-ripple-color="primary" type="button" class="btn btn-light">
+                          Primary
+                        </button>
+                        <button data-ripple-color="secondary" type="button" class="btn btn-light">
+                          Secondary
+                        </button>
+                        <button data-ripple-color="success" type="button" class="btn btn-light">
+                          Success
+                        </button>
+                        <button data-ripple-color="danger" type="button" class="btn btn-light">
+                          Danger
+                        </button>
+                        <button data-ripple-color="warning" type="button" class="btn btn-light">
+                          Warning
+                        </button>
+                        <button data-ripple-color="info" type="button" class="btn btn-light">
+                          Info
+                        </button>
+                        <button data-ripple-color="light" type="button" class="btn btn-light">
+                          Light
+                        </button>
+                        <button data-ripple-color="dark" type="button" class="btn btn-light">
+                          Dark
+                        </button>
+                      </div>
+
+                      <div class="mb-4 d-flex justify-content-between flex-wrap">
+                        <button data-ripple-color="Red" type="button" class="btn btn-light">
+                          Red
+                        </button>
+                        <button data-ripple-color="Green" type="button" class="btn btn-light">
+                          Green
+                        </button>
+                        <button data-ripple-color="Blue" type="button" class="btn btn-light">
+                          Blue
+                        </button>
+                        <button data-ripple-color="Yellow" type="button" class="btn btn-light">
+                          Yellow
+                        </button>
+                        <button data-ripple-color="Orange" type="button" class="btn btn-light">
+                          Orange
+                        </button>
+                        <button data-ripple-color="Purple" type="button" class="btn btn-light">
+                          Purple
+                        </button>
+                        <button data-ripple-color="Gray" type="button" class="btn btn-light">
+                          Gray
+                        </button>
+                        <button data-ripple-color="Aqua" type="button" class="btn btn-light">
+                          Aqua
+                        </button>
+                      </div>
+
+                      <div class="mb-4 d-flex justify-content-between flex-wrap">
+                        <button data-ripple-color="#c953d6" type="button" class="btn btn-light">
+                          #c953d6
+                        </button>
+                        <button data-ripple-color="#44c6e3" type="button" class="btn btn-light">
+                          #44c6e3
+                        </button>
+                        <button data-ripple-color="#fcc834" type="button" class="btn btn-light">
+                          #fcc834
+                        </button>
+                        <button data-ripple-color="#386f06" type="button" class="btn btn-light">
+                          #386f06
+                        </button>
+                        <button data-ripple-color="#c1303a" type="button" class="btn btn-light">
+                          #c1303a
+                        </button>
+                        <button data-ripple-color="#a57c3e" type="button" class="btn btn-light">
+                          #a57c3e
+                        </button>
+                        <button data-ripple-color="#192ced" type="button" class="btn btn-light">
+                          #192ced
+                        </button>
+                        <button data-ripple-color="#525740" type="button" class="btn btn-light">
+                          #525740
+                        </button>
+                      </div>
+                    </div>
+                  </section>
+                  <!--Section: Demo-->
+
+                  <!--Section: Code-->
+                  <section>
+                    <mdbsnippet>
+                      <code data-lang="html" data-name="HTML">
+                        <div class="mb-4 d-flex justify-content-between flex-wrap">
+                          <button data-ripple-color="primary" type="button" class="btn btn-light">
+                            Primary
+                          </button>
+                          <button data-ripple-color="secondary" type="button" class="btn btn-light">
+                            Secondary
+                          </button>
+                          <button data-ripple-color="success" type="button" class="btn btn-light">
+                            Success
+                          </button>
+                          <button data-ripple-color="danger" type="button" class="btn btn-light">
+                            Danger
+                          </button>
+                          <button data-ripple-color="warning" type="button" class="btn btn-light">
+                            Warning
+                          </button>
+                          <button data-ripple-color="info" type="button" class="btn btn-light">
+                            Info
+                          </button>
+                          <button data-ripple-color="light" type="button" class="btn btn-light">
+                            Light
+                          </button>
+                          <button data-ripple-color="dark" type="button" class="btn btn-light">
+                            Dark
+                          </button>
+                        </div>
+
+                        <div class="mb-4 d-flex justify-content-between flex-wrap">
+                          <button data-ripple-color="Red" type="button" class="btn btn-light">
+                            Red
+                          </button>
+                          <button data-ripple-color="Green" type="button" class="btn btn-light">
+                            Green
+                          </button>
+                          <button data-ripple-color="Blue" type="button" class="btn btn-light">
+                            Blue
+                          </button>
+                          <button data-ripple-color="Yellow" type="button" class="btn btn-light">
+                            Yellow
+                          </button>
+                          <button data-ripple-color="Orange" type="button" class="btn btn-light">
+                            Orange
+                          </button>
+                          <button data-ripple-color="Purple" type="button" class="btn btn-light">
+                            Purple
+                          </button>
+                          <button data-ripple-color="Gray" type="button" class="btn btn-light">
+                            Gray
+                          </button>
+                          <button data-ripple-color="Aqua" type="button" class="btn btn-light">
+                            Aqua
+                          </button>
+                        </div>
+
+                        <div class="mb-4 d-flex justify-content-between flex-wrap">
+                          <button data-ripple-color="#c953d6" type="button" class="btn btn-light">
+                            #c953d6
+                          </button>
+                          <button data-ripple-color="#44c6e3" type="button" class="btn btn-light">
+                            #44c6e3
+                          </button>
+                          <button data-ripple-color="#fcc834" type="button" class="btn btn-light">
+                            #fcc834
+                          </button>
+                          <button data-ripple-color="#386f06" type="button" class="btn btn-light">
+                            #386f06
+                          </button>
+                          <button data-ripple-color="#c1303a" type="button" class="btn btn-light">
+                            #c1303a
+                          </button>
+                          <button data-ripple-color="#a57c3e" type="button" class="btn btn-light">
+                            #a57c3e
+                          </button>
+                          <button data-ripple-color="#192ced" type="button" class="btn btn-light">
+                            #192ced
+                          </button>
+                          <button data-ripple-color="#525740" type="button" class="btn btn-light">
+                            #525740
+                          </button>
+                        </div>
+                      </code>
+                    </mdbsnippet>
+                  </section>
+                  <!--Section: Code-->
+                </section>
+                <!--Section: Colors-->
+
+                <hr class="my-5" />
+
+                <!--Section: Duration-->
+                <section id="section-duration">
+                  <!-- Section title -->
+                  <h2 class="mb-4">Duration</h2>
+
+                  <!--Section: Demo-->
+                  <section
+                    class="border d-flex justify-content-center flex-direction-column p-4 mb-4"
+                  >
+                    <div>
+                      <button type="button" class="btn btn-primary">Default (500ms)</button>
+                      <button data-ripple-duration="1000ms" type="button" class="btn btn-secondary">
+                        Duration 1S
+                      </button>
+                      <button data-ripple-duration="3s" type="button" class="btn btn-success">
+                        Duration 3s
+                      </button>
+                      <button data-ripple-duration="5s" type="button" class="btn btn-danger">
+                        Duration 5s
+                      </button>
+                      <button data-ripple-duration="10s" type="button" class="btn btn-warning">
+                        Duration 10s
+                      </button>
+                    </div>
+                  </section>
+                  <!--Section: Demo-->
+
+                  <!--Section: Code-->
+                  <section>
+                    <mdbsnippet>
+                      <code data-lang="html" data-name="HTML">
+                        <div>
+                          <button type="button" class="btn btn-primary">Default (500ms)</button>
+                          <button
+                            data-ripple-duration="1000ms"
+                            type="button"
+                            class="btn btn-secondary"
+                          >
+                            Duration 1S
+                          </button>
+                          <button data-ripple-duration="3s" type="button" class="btn btn-success">
+                            Duration 3s
+                          </button>
+                          <button data-ripple-duration="5s" type="button" class="btn btn-danger">
+                            Duration 5s
+                          </button>
+                          <button data-ripple-duration="10s" type="button" class="btn btn-warning">
+                            Duration 10s
+                          </button>
+                        </div>
+                      </code>
+                    </mdbsnippet>
+                  </section>
+                  <!--Section: Code-->
+                </section>
+                <!--Section: Duration-->
+
+                <hr class="my-5" />
+
+                <!--Section: Centered-->
+                <section id="section-centered">
+                  <!-- Section title -->
+                  <h2 class="mb-4">Centered</h2>
+
+                  <!--Section: Demo-->
+                  <section class="border d-flex justify-content-center p-4 mb-4">
+                    <div class="d-flex flex-column">
+                      <div class="mb-4">
+                        <button
+                          type="button"
+                          data-ripple-centered="true"
+                          class="btn btn-dark btn-sm"
+                        >
+                          Small
+                        </button>
+                        <button type="button" data-ripple-centered="true" class="btn btn-dark">
+                          Default
+                        </button>
+                        <button
+                          type="button"
+                          data-ripple-centered="true"
+                          class="btn btn-dark btn-lg"
+                        >
+                          Large
+                        </button>
+                      </div>
+
+                      <button
+                        type="button"
+                        data-ripple-centered="true"
+                        class="btn btn-dark mx-auto square"
+                      >
+                        Square
+                      </button>
+                    </div>
+                  </section>
+                  <!--Section: Demo-->
+
+                  <!--Section: Code-->
+                  <section>
+                    <mdbsnippet>
+                      <code data-lang="html" data-name="HTML">
+                        <div class="d-flex flex-column">
+                          <div class="mb-4">
+                            <button
+                              type="button"
+                              data-ripple-centered="true"
+                              class="btn btn-dark btn-sm"
+                            >
+                              Small
+                            </button>
+                            <button type="button" data-ripple-centered="true" class="btn btn-dark">
+                              Default
+                            </button>
+                            <button
+                              type="button"
+                              data-ripple-centered="true"
+                              class="btn btn-dark btn-lg"
+                            >
+                              Large
+                            </button>
+                          </div>
+
+                          <button
+                            type="button"
+                            data-ripple-centered="true"
+                            class="btn btn-dark mx-auto square"
+                          >
+                            Square
+                          </button>
+                        </div>
+                      </code>
+                      <code data-lang="css" data-name="CSS">
+                        .square { height: 100px; width: 100px; }
+                      </code>
+                    </mdbsnippet>
+                  </section>
+                  <!--Section: Code-->
+                </section>
+                <!--Section: Centered-->
+
+                <hr class="my-5" />
+
+                <!--Section: Unbound-->
+                <section id="section-unbound">
+                  <!-- Section title -->
+                  <h2 class="mb-4">Unbound</h2>
+
+                  <!--Section: Demo-->
+                  <section class="border d-flex justify-content-center p-4 mb-4">
+                    <div class="d-flex flex-column">
+                      <div class="mb-4">
+                        <button
+                          type="button"
+                          data-ripple-color="dark"
+                          data-ripple-unbound="true"
+                          class="btn btn-primary btn-sm"
+                        >
+                          Small
+                        </button>
+                        <button
+                          type="button"
+                          data-ripple-color="dark"
+                          data-ripple-unbound="true"
+                          class="btn btn-secondary"
+                        >
+                          Default
+                        </button>
+                        <button
+                          type="button"
+                          data-ripple-color="dark"
+                          data-ripple-unbound="true"
+                          class="btn btn-success btn-lg"
+                        >
+                          Large
+                        </button>
+                      </div>
+
+                      <button
+                        type="button"
+                        data-ripple-color="dark"
+                        data-ripple-unbound="true"
+                        class="btn btn-danger mx-auto square"
+                      >
+                        Square
+                      </button>
+                    </div>
+                  </section>
+                  <!--Section: Demo-->
+
+                  <!--Section: Code-->
+                  <section>
+                    <mdbsnippet>
+                      <code data-lang="html" data-name="HTML">
+                        <div class="d-flex flex-column">
+                          <div class="mb-4">
+                            <button
+                              type="button"
+                              data-ripple-color="dark"
+                              data-ripple-unbound="true"
+                              class="btn btn-primary btn-sm"
+                            >
+                              Small
+                            </button>
+                            <button
+                              type="button"
+                              data-ripple-color="dark"
+                              data-ripple-unbound="true"
+                              class="btn btn-secondary"
+                            >
+                              Default
+                            </button>
+                            <button
+                              type="button"
+                              data-ripple-color="dark"
+                              data-ripple-unbound="true"
+                              class="btn btn-success btn-lg"
+                            >
+                              Large
+                            </button>
+                          </div>
+
+                          <button
+                            type="button"
+                            data-ripple-color="dark"
+                            data-ripple-unbound="true"
+                            class="btn btn-danger mx-auto square"
+                          >
+                            Square
+                          </button>
+                        </div>
+                      </code>
+                      <code data-lang="css" data-name="CSS">
+                        .square { height: 100px; width: 100px; }
+                      </code>
+                    </mdbsnippet>
+                  </section>
+                  <!--Section: Code-->
+                </section>
+                <!--Section: Unbound-->
+
+                <hr class="my-5" />
+
+                <!--Section: Radius-->
+                <section id="section-radius">
+                  <!-- Section title -->
+                  <h2 class="mb-4">Radius</h2>
+
+                  <!--Section: Demo-->
+                  <section class="border d-flex justify-content-center p-4 mb-4">
+                    <div>
+                      <button type="button" class="btn btn-primary square">Default</button>
+                      <button
+                        type="button"
+                        data-ripple-radius="10"
+                        class="btn btn-secondary square"
+                      >
+                        10
+                      </button>
+                      <button type="button" data-ripple-radius="25" class="btn btn-success square">
+                        25
+                      </button>
+                      <button type="button" data-ripple-radius="50" class="btn btn-danger square">
+                        50
+                      </button>
+                    </div>
+                  </section>
+                  <!--Section: Demo-->
+
+                  <!--Section: Code-->
+                  <section>
+                    <mdbsnippet>
+                      <code data-lang="html" data-name="HTML">
+                        <button type="button" class="btn btn-primary square">Default</button>
+                        <button
+                          type="button"
+                          data-ripple-radius="10"
+                          class="btn btn-secondary square"
+                        >
+                          10
+                        </button>
+                        <button
+                          type="button"
+                          data-ripple-radius="25"
+                          class="btn btn-success square"
+                        >
+                          25
+                        </button>
+                        <button type="button" data-ripple-radius="50" class="btn btn-danger square">
+                          50
+                        </button>
+                      </code>
+                      <code data-lang="css" data-name="CSS">
+                        .square { height: 100px; width: 100px; }
+                      </code>
+                    </mdbsnippet>
+                  </section>
+                  <!--Section: Code-->
+                </section>
+                <!--Section: Radius-->
+
+                <hr class="my-5" />
+
+                <!--Section: Images-->
+                <section id="section-images">
+                  <!-- Section title -->
+                  <h2 class="mb-4">Images Ripple effect</h2>
+                  <p>
+                    Adds ripple effect for image in card component via <code>ripple</code> class
+                  </p>
+                  <!--Section: Demo-->
+                  <section class="border d-flex justify-content-center p-4 mb-4">
+                    <div>
+                      <div class="row mb-4">
+                        <div class="col-md-4">
+                          <a class="ripple"
+                            ><img
+                              alt="example"
+                              class="fit"
+                              src="https://mdbootstrap.com/img/Photos/Lightbox/Original/img%20(145).jpg"
+                              draggable="false"
+                          /></a>
+                        </div>
+                        <div class="col-md-4">
+                          <a class="ripple"
+                            ><img
+                              alt="example"
+                              class="fit"
+                              src="https://mdbootstrap.com/img/Photos/Lightbox/Original/img%20(150).jpg"
+                              draggable="false"
+                          /></a>
+                        </div>
+                        <div class="col-md-4">
+                          <a class="ripple"
+                            ><img
+                              alt="example"
+                              class="fit"
+                              src="https://mdbootstrap.com/img/Photos/Lightbox/Original/img%20(147).jpg"
+                              draggable="false"
+                          /></a>
+                        </div>
+                      </div>
+                      <div class="row">
+                        <div class="col-md-4">
+                          <a data-ripple-color="light" class="ripple"
+                            ><img
+                              alt="example"
+                              class="fit"
+                              src="https://mdbootstrap.com/img/Photos/Lightbox/Original/img%20(94).jpg"
+                              draggable="false"
+                          /></a>
+                        </div>
+                        <div class="col-md-4">
+                          <a data-ripple-color="light" class="ripple"
+                            ><img
+                              alt="example"
+                              class="fit"
+                              src="https://mdbootstrap.com/img/Photos/Lightbox/Original/img%20(95).jpg"
+                              draggable="false"
+                          /></a>
+                        </div>
+                        <div class="col-md-4">
+                          <a data-ripple-color="light" class="ripple"
+                            ><img
+                              alt="example"
+                              class="fit"
+                              src="https://mdbootstrap.com/img/Photos/Lightbox/Original/img%20(96).jpg"
+                              draggable="false"
+                          /></a>
+                        </div>
+                      </div>
+                    </div>
+                  </section>
+                  <!--Section: Demo-->
+
+                  <!--Section: Code-->
+                  <section>
+                    <mdbsnippet>
+                      <code data-lang="html" data-name="HTML">
+                        <div class="row mb-4">
+                          <div class="col-md-4">
+                            <a class="ripple"
+                              ><img
+                                alt="example"
+                                class="fit"
+                                src="https://mdbootstrap.com/img/Photos/Lightbox/Original/img%20(145).jpg"
+                                draggable="false"
+                            /></a>
+                          </div>
+                          <div class="col-md-4">
+                            <a class="ripple"
+                              ><img
+                                alt="example"
+                                class="fit"
+                                src="https://mdbootstrap.com/img/Photos/Lightbox/Original/img%20(150).jpg"
+                                draggable="false"
+                            /></a>
+                          </div>
+                          <div class="col-md-4">
+                            <a class="ripple"
+                              ><img
+                                alt="example"
+                                class="fit"
+                                src="https://mdbootstrap.com/img/Photos/Lightbox/Original/img%20(147).jpg"
+                                draggable="false"
+                            /></a>
+                          </div>
+                        </div>
+
+                        <div class="row">
+                          <div class="col-md-4">
+                            <a data-ripple-color="light" class="ripple"
+                              ><img
+                                alt="example"
+                                class="fit"
+                                src="https://mdbootstrap.com/img/Photos/Lightbox/Original/img%20(94).jpg"
+                                draggable="false"
+                            /></a>
+                          </div>
+                          <div class="col-md-4">
+                            <a data-ripple-color="light" class="ripple"
+                              ><img
+                                alt="example"
+                                class="fit"
+                                src="https://mdbootstrap.com/img/Photos/Lightbox/Original/img%20(95).jpg"
+                                draggable="false"
+                            /></a>
+                          </div>
+                          <div class="col-md-4">
+                            <a data-ripple-color="light"
+                              ><img
+                                alt="example"
+                                class="ripple"
+                                class="fit"
+                                src="https://mdbootstrap.com/img/Photos/Lightbox/Original/img%20(96).jpg"
+                                draggable="false"
+                            /></a>
+                          </div>
+                        </div>
+                      </code>
+                      <code data-lang="css" data-name="CSS">
+                        .square { height: 100px; width: 100px; }
+                      </code>
+                    </mdbsnippet>
+                  </section>
+                  <!--Section: Code-->
+                </section>
+                <!--Section: Images-->
+
+                <hr class="my-5" />
+
+                <!--Section: JS implementation-->
+                <section id="card-js">
+                  <!-- Section title -->
+                  <h2 class="mb-4">Card - JavaScript implementation</h2>
+                  <p>
+                    Adds ripple effect for image in card component via JavaScript implementation
+                  </p>
+
+                  <!--Section: Demo-->
+                  <section class="border d-flex justify-content-center p-4 mb-4">
+                    <div class="row">
+                      <div class="col-md-4">
+                        <div class="card shadow-2">
+                          <div class="card-img-top">
+                            <img
+                              src="https://mdbootstrap.com/img/Mockups/Lightbox/Thumbnail/img%20(67).jpg"
+                              class=""
+                              alt="..."
+                              style="max-width: 100%; max-height: 100%"
+                            />
+                          </div>
+                          <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">
+                              Some quick example text to build on the card title and make up the
+                              bulk of the card's content.
+                            </p>
+                            <button class="btn btn-primary">Go somewhere</button>
+                          </div>
+                        </div>
+                      </div>
+
+                      <div class="col-md-4">
+                        <div class="card shadow-2">
+                          <div class="card-img-top">
+                            <img
+                              src="https://mdbootstrap.com/img/Mockups/Lightbox/Thumbnail/img%20(67).jpg"
+                              class=""
+                              alt="..."
+                              style="max-width: 100%; max-height: 100%"
+                            />
+                          </div>
+                          <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">
+                              Some quick example text to build on the card title and make up the
+                              bulk of the card's content.
+                            </p>
+                            <button class="btn btn-primary">Go somewhere</button>
+                          </div>
+                        </div>
+                      </div>
+
+                      <div class="col-md-4">
+                        <div class="card shadow-2">
+                          <div class="card-img-top">
+                            <img
+                              src="https://mdbootstrap.com/img/Mockups/Lightbox/Thumbnail/img%20(67).jpg"
+                              class=""
+                              alt="..."
+                              style="max-width: 100%; max-height: 100%"
+                            />
+                          </div>
+                          <div class="card-body">
+                            <h5 class="card-title">Card title</h5>
+                            <p class="card-text">
+                              Some quick example text to build on the card title and make up the
+                              bulk of the card's content.
+                            </p>
+                            <button class="btn btn-primary">Go somewhere</button>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </section>
+                  <!--Section: Demo-->
+
+                  <!--Section: Code-->
+                  <section>
+                    <mdbsnippet>
+                      <code data-lang="html" data-name="HTML">
+                        <div class="row">
+                          <div class="col-md-4">
+                            <div class="card shadow-2">
+                              <div class="card-img-top">
+                                <img
+                                  src="https://mdbootstrap.com/img/Mockups/Lightbox/Thumbnail/img%20(67).jpg"
+                                  class=""
+                                  alt="..."
+                                  style="max-width: 100%; max-height: 100%"
+                                />
+                              </div>
+                              <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">
+                                  Some quick example text to build on the card title and make up the
+                                  bulk of the card's content.
+                                </p>
+                                <button class="btn btn-primary">Go somewhere</button>
+                              </div>
+                            </div>
+                          </div>
+
+                          <div class="col-md-4">
+                            <div class="card shadow-2">
+                              <div class="card-img-top">
+                                <img
+                                  src="https://mdbootstrap.com/img/Mockups/Lightbox/Thumbnail/img%20(67).jpg"
+                                  class=""
+                                  alt="..."
+                                  style="max-width: 100%; max-height: 100%"
+                                />
+                              </div>
+                              <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">
+                                  Some quick example text to build on the card title and make up the
+                                  bulk of the card's content.
+                                </p>
+                                <button class="btn btn-primary">Go somewhere</button>
+                              </div>
+                            </div>
+                          </div>
+
+                          <div class="col-md-4">
+                            <div class="card shadow-2">
+                              <div class="card-img-top">
+                                <img
+                                  src="https://mdbootstrap.com/img/Mockups/Lightbox/Thumbnail/img%20(67).jpg"
+                                  class=""
+                                  alt="..."
+                                  style="max-width: 100%; max-height: 100%"
+                                />
+                              </div>
+                              <div class="card-body">
+                                <h5 class="card-title">Card title</h5>
+                                <p class="card-text">
+                                  Some quick example text to build on the card title and make up the
+                                  bulk of the card's content.
+                                </p>
+                                <button class="btn btn-primary">Go somewhere</button>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </code>
+                      <code data-lang="js" data-name="JavaScript">
+                        document .querySelectorAll('.card-img-top') .forEach((cardImage) => new
+                        mdb.Ripple(cardImage, { color: 'light' }));
+                      </code>
+                    </mdbsnippet>
+                  </section>
+                  <!--Section: Code-->
+                </section>
+                <!--Section: JS implementation-->
+
+                <hr class="my-5" />
+
+                <!--Section: jQ implementation-->
+                <section id="card-jq">
+                  <!-- Section title -->
+                  <h2 class="mb-4">Card - jQuery implementation</h2>
+                  <p>Adds ripple effect for image in card component via jQuery implementation</p>
+
+                  <!--Section: Demo-->
+                  <section class="border d-flex justify-content-center p-4 mb-4">
+                    <div class="d-flex flex-column">
+                      <div class="card mb-3" style="max-width: 540px">
+                        <div class="row g-0">
+                          <div class="col-md-4 card-img-left">
+                            <img
+                              src="https://mdbootstrap.com/img/Mockups/Lightbox/Thumbnail/img%20(67).jpg"
+                              class=""
+                              alt="..."
+                              style="width: 100%; height: 100%; object-fit: cover"
+                            />
+                          </div>
+                          <div class="col-md-8">
+                            <div class="card-body">
+                              <h5 class="card-title">Card title</h5>
+                              <p class="card-text">
+                                This is a wider card with supporting text below as a natural lead-in
+                                to additional content. This content is a little bit longer.
+                              </p>
+                              <p class="card-text">
+                                <small class="text-muted">Last updated 3 mins ago</small>
+                              </p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+
+                      <div class="card mb-3" style="max-width: 540px">
+                        <div class="row g-0">
+                          <div class="col-md-4 card-img-left">
+                            <img
+                              src="https://mdbootstrap.com/img/Mockups/Lightbox/Thumbnail/img%20(67).jpg"
+                              class=""
+                              alt="..."
+                              style="width: 100%; height: 100%; object-fit: cover"
+                            />
+                          </div>
+                          <div class="col-md-8">
+                            <div class="card-body">
+                              <h5 class="card-title">Card title</h5>
+                              <p class="card-text">
+                                This is a wider card with supporting text below as a natural lead-in
+                                to additional content. This content is a little bit longer.
+                              </p>
+                              <p class="card-text">
+                                <small class="text-muted">Last updated 3 mins ago</small>
+                              </p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+
+                      <div class="card mb-3" style="max-width: 540px">
+                        <div class="row g-0">
+                          <div class="col-md-4 card-img-left">
+                            <img
+                              src="https://mdbootstrap.com/img/Mockups/Lightbox/Thumbnail/img%20(67).jpg"
+                              class=""
+                              alt="..."
+                              style="width: 100%; height: 100%; object-fit: cover"
+                            />
+                          </div>
+                          <div class="col-md-8">
+                            <div class="card-body">
+                              <h5 class="card-title">Card title</h5>
+                              <p class="card-text">
+                                This is a wider card with supporting text below as a natural lead-in
+                                to additional content. This content is a little bit longer.
+                              </p>
+                              <p class="card-text">
+                                <small class="text-muted">Last updated 3 mins ago</small>
+                              </p>
+                            </div>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </section>
+                  <!--Section: Demo-->
+
+                  <!--Section: Code-->
+                  <section>
+                    <mdbsnippet>
+                      <code data-lang="html" data-name="HTML">
+                        <div class="d-flex flex-column">
+                          <div class="card mb-3" style="max-width: 540px">
+                            <div class="row g-0">
+                              <div class="col-md-4 card-img-left">
+                                <img
+                                  src="https://mdbootstrap.com/img/Mockups/Lightbox/Thumbnail/img%20(67).jpg"
+                                  class=""
+                                  alt="..."
+                                  style="width: 100%; height: 100%; object-fit: cover"
+                                />
+                              </div>
+                              <div class="col-md-8">
+                                <div class="card-body">
+                                  <h5 class="card-title">Card title</h5>
+                                  <p class="card-text">
+                                    This is a wider card with supporting text below as a natural
+                                    lead-in to additional content. This content is a little bit
+                                    longer.
+                                  </p>
+                                  <p class="card-text">
+                                    <small class="text-muted">Last updated 3 mins ago</small>
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+
+                          <div class="card mb-3" style="max-width: 540px">
+                            <div class="row g-0">
+                              <div class="col-md-4 card-img-left">
+                                <img
+                                  src="https://mdbootstrap.com/img/Mockups/Lightbox/Thumbnail/img%20(67).jpg"
+                                  class=""
+                                  alt="..."
+                                  style="width: 100%; height: 100%; object-fit: cover"
+                                />
+                              </div>
+                              <div class="col-md-8">
+                                <div class="card-body">
+                                  <h5 class="card-title">Card title</h5>
+                                  <p class="card-text">
+                                    This is a wider card with supporting text below as a natural
+                                    lead-in to additional content. This content is a little bit
+                                    longer.
+                                  </p>
+                                  <p class="card-text">
+                                    <small class="text-muted">Last updated 3 mins ago</small>
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+
+                          <div class="card mb-3" style="max-width: 540px">
+                            <div class="row g-0">
+                              <div class="col-md-4 card-img-left">
+                                <img
+                                  src="https://mdbootstrap.com/img/Mockups/Lightbox/Thumbnail/img%20(67).jpg"
+                                  class=""
+                                  alt="..."
+                                  style="width: 100%; height: 100%; object-fit: cover"
+                                />
+                              </div>
+                              <div class="col-md-8">
+                                <div class="card-body">
+                                  <h5 class="card-title">Card title</h5>
+                                  <p class="card-text">
+                                    This is a wider card with supporting text below as a natural
+                                    lead-in to additional content. This content is a little bit
+                                    longer.
+                                  </p>
+                                  <p class="card-text">
+                                    <small class="text-muted">Last updated 3 mins ago</small>
+                                  </p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                      </code>
+                      <code data-lang="js" data-name="jQuery">
+                        $('.card-img-left').ripple({color: 'light'})
+                      </code>
+                    </mdbsnippet>
+                  </section>
+                  <!--Section: Code-->
+                </section>
+                <!--Section: jQ implementation-->
+              </section>
+              <!--Section: Docs content-->
+            </div>
+            <!--Grid column-->
+
+            <!--Grid column-->
+            <div class="col-md-2 mb-4">
+              <!-- Table of content -->
+              <nav id="table-of-content">
+                <ul>
+                  <li><a href="#section-introduction">Introduction</a></li>
+                  <li><a href="#section-basic-example">Basic example</a></li>
+                  <li><a href="#section-colors">Colors</a></li>
+                  <li><a href="#section-duration">Duration</a></li>
+                  <li><a href="#section-centered">Centered</a></li>
+                  <li><a href="#section-unbound">Unbound</a></li>
+                  <li><a href="#section-radius">Radius</a></li>
+                  <li><a href="#section-images">Images Ripple effect</a></li>
+                  <li><a href="#card-js">Card - JavaScript implementation</a></li>
+                  <li><a href="#card-jq">Card - jQuery implementation</a></li>
+                </ul>
+              </nav>
+              <!-- Table of content -->
+            </div>
+            <!--Grid column-->
+          </div>
+          <!--Grid row-->
+        </div>
+        <!-- Overview panel -->
+
+        <!-- API panel -->
+        <div class="tab-pane fade" id="pills-api" role="tabpanel" aria-labelledby="pills-api-tab">
+          <!--Grid row-->
+          <div class="row">
+            <!--Grid column-->
+            <div class="col-md-10 mb-4">
+              <!--Section: API content-->
+              <section>
+                <!--Section: Introduction-->
+                <section id="section-introduction">
+                  <!-- Main title -->
+                  <h2 class="h1 fw-bold">Ripple effect - API</h2>
+                </section>
+                <!--Section: Introduction-->
+
+                <hr class="my-5" />
+
+                <!--Section: Usage-->
+                <section id="section-usage">
+                  <!-- Section title -->
+                  <h2 class="mb-4">Usage</h2>
+
+                  <h4 class="mb-4">Via data attributes</h4>
+                  <p>
+                    By default elements with <code>btn</code> and <code>ripple</code> classes
+                    includes ripple effect
+                  </p>
+                  <mdbsnippet>
+                    <code data-lang="html" data-name="HTML">
+                      <button type="button" class="btn btn-primary btn-sm">Ripple effect</button>
+
+                      <a class="ripple">
+                        <img
+                          alt="..."
+                          src="https://mdbootstrap.com/img/Photos/Lightbox/Original/img%20(145).jpg"
+                          draggable="false"
+                        />
+                      </a>
+                    </code>
+                  </mdbsnippet>
+
+                  <h4 class="my-4">Via JavaScript</h4>
+
+                  <mdbsnippet>
+                    <code data-lang="html" data-name="HTML">
+                      <a class="example">
+                        <img
+                          alt="..."
+                          src="https://mdbootstrap.com/img/Photos/Lightbox/Original/img%20(145).jpg"
+                          draggable="false"
+                        />
+                      </a>
+                    </code>
+                    <code data-lang="js" data-name="JavaScript">
+                      document .querySelectorAll('.example') .forEach((element => new
+                      mdb.Ripple(element, options));
+                    </code>
+                  </mdbsnippet>
+
+                  <h4 class="my-4">Via jQuery</h4>
+
+                  <mdbsnippet>
+                    <code data-lang="html" data-name="HTML">
+                      <a class="example">
+                        <img
+                          alt="..."
+                          src="https://mdbootstrap.com/img/Photos/Lightbox/Original/img%20(145).jpg"
+                          draggable="false"
+                        />
+                      </a>
+                    </code>
+                    <code data-lang="js" data-name="jQuery"> $('.example').ripple(options); </code>
+                  </mdbsnippet>
+                </section>
+                <!--Section: Usage-->
+
+                <hr class="my-5" />
+
+                <!--Section: Options-->
+                <section id="section-options">
+                  <!-- Section title -->
+                  <h2 class="mb-4">Options</h2>
+
+                  <div class="table-responsive">
+                    <table class="table table-striped table-bordered">
+                      <thead>
+                        <tr>
+                          <th class="th-sm">Name</th>
+                          <th class="th-sm">Type</th>
+                          <th class="th-sm">Default</th>
+                          <th class="th-sm">Description</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td class="text-nowrap">
+                            <code class="highlighter-rouge">rippleCentered</code>
+                          </td>
+                          <td><i>Boolean</i></td>
+                          <td><code>false</code></td>
+                          <td>Centers the position of wave</td>
+                        </tr>
+                        <tr>
+                          <td class="text-nowrap">
+                            <code class="highlighter-rouge">rippleColor</code>
+                          </td>
+                          <td><i>String</i></td>
+                          <td><code>''</code></td>
+                          <td>Changes color of wave</td>
+                        </tr>
+                        <tr>
+                          <td class="text-nowrap">
+                            <code class="highlighter-rouge">rippleDuration</code>
+                          </td>
+                          <td><i>String</i></td>
+                          <td><code>'500ms'</code></td>
+                          <td>Sets duration of animation</td>
+                        </tr>
+                        <tr>
+                          <td class="text-nowrap">
+                            <code class="highlighter-rouge">rippleRadius</code>
+                          </td>
+                          <td><i>Number</i></td>
+                          <td><code>0</code></td>
+                          <td>Sets radius value</td>
+                        </tr>
+                        <tr>
+                          <td class="text-nowrap">
+                            <code class="highlighter-rouge">rippleUnbound</code>
+                          </td>
+                          <td><i>Boolean</i></td>
+                          <td><code>false</code></td>
+                          <td>Sets whether the effect should go beyond the wrapper's boundaries</td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+                </section>
+                <!--Section: Options-->
+
+                <hr class="my-5" />
+
+                <!--Section: Methods-->
+                <section id="section-methods">
+                  <!-- Section title -->
+                  <h2 class="mb-4">Methods</h2>
+
+                  <div class="table-responsive">
+                    <table class="table table-striped table-bordered">
+                      <thead>
+                        <tr>
+                          <th class="th-sm">Name</th>
+                          <th class="th-sm">Description</th>
+                          <th class="th-sm">Example</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        <tr>
+                          <td class="text-nowrap">
+                            <code class="highlighter-rouge">dispose</code>
+                          </td>
+                          <td>Manually dispose of component</td>
+                          <td><code class="language-markup text-nowrap">ripple.dispose()</code></td>
+                        </tr>
+                      </tbody>
+                    </table>
+                  </div>
+                </section>
+                <!--Section: Methods-->
+              </section>
+              <!--Section: API content-->
+            </div>
+            <!--Grid column-->
+
+            <!--Grid column-->
+            <div class="col-md-2 mb-4">
+              <!-- Table of content -->
+              <nav id="table-of-content">
+                <ul>
+                  <li><a href="#section-usage">Usage</a></li>
+                  <li><a href="#section-options">Options</a></li>
+                  <li><a href="#section-methods">Methods</a></li>
+                  <li><a href="#section-events">Events</a></li>
+                </ul>
+              </nav>
+              <!-- Table of content -->
+            </div>
+            <!--Grid column-->
+          </div>
+          <!--Grid row-->
+        </div>
+        <!-- API panel -->
+      </div>
+      <!-- Panels -->
+    </div>
+
+    <!-- JQUERY -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.js"></script>
+    <!-- PRISM -->
+    <script type="text/javascript" src="../../dev/js/new-prism.js"></script>
+    <!-- MDB SNIPPET -->
+    <script type="text/javascript" src="../../dev/js/dist/mdbsnippet.min.js"></script>
+    <!-- MDB -->
+    <script type="text/javascript" src="../../js/mdb.min.js"></script>
+    <!-- Custom scripts -->
+    <script type="text/javascript">
+      document
+        .querySelectorAll('.card-img-top')
+        .forEach((cardImage) => new mdb.Ripple(cardImage, { color: 'light' }));
+
+      $('.card-img-left').ripple({ color: 'light' });
+    </script>
+  </body>
+</html>
