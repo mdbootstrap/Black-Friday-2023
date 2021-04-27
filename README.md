@@ -1,4 +1,4 @@
-# Free Bootstrap 5 Templates
+# Bootstarters
 
 All of these templates are created with the help of **[📥 MDB 5](https://mdbootstrap.com/docs/standard/getting-started/installation/)** - the first UI Kit was ever created for the latest Bootstrap v5.
 
