@@ -55,13 +55,13 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 🔗 https://nordvpn.com/
 
-### 📓 [FastestVPPN](https://fastestvpn.com/vpn-deals) - Fastest VPN Service that allows to access blocked & restricted content. Stream & Download with anonymity & security with high speed online access.
+
+### 📓 [FastestVPN](https://fastestvpn.com/vpn-deals) - Fastest VPN Service that allows to access blocked & restricted content. Stream & Download with anonymity & security with high speed online access.
 
 #### 💰 93%
 
 #### 🔗 https://fastestvpn.com/vpn-deals
 
------
 
 ## Courses, books learning
 
@@ -70,6 +70,14 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 💰 40%
 
 #### 🔗 https://vueschool.io/sales/blackfriday
+
+
+### 📓 [Pluralsight](https://www.pluralsight.com/) - Online education website that offers a variety of video training courses for software developers, IT administrators, and creative professionals.
+
+#### 💰 40%
+
+#### 🔗 https://www.pluralsight.com/
+
 
 ### 📓 [Tuturials Dojo](https://portal.tutorialsdojo.com/black-friday-sale/) - Best AWS and other IT certification exam reviewers in different training modes
 
@@ -88,3 +96,35 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 🎫 BFCM30
 
 #### 🔗 https://www.flycart.org/woocommerce-black-friday-cyber-monday-deals
+
+
+### 📓 [Nexcess](https://shop.nexcess.net/woocommerce-plans/) - Plugin that radically improve load times, keep secure and be ready to scale. Smart Monitoring built-in to every plan
+
+#### 💰 75%
+
+#### 🎫 CYBER2021
+
+#### 🔗 https://shop.nexcess.net/woocommerce-plans/
+
+
+### 📓 [Tripetto](https://tripetto.com/black-friday-sale/) - The fullblown form building plugin for WordPress. Build powerful, deeply customizable form experiences and store collected data all right inside your WordPress
+
+#### 💰 TBA
+
+#### 🔗 https://tripetto.com/black-friday-sale/
+
+
+### 📓 [WPMU DEV](https://wpmudev.com/black-friday/) - The hosting, tools, plugins, and support you need to run your WP business 
+
+#### 💰 50%
+
+#### 🔗 https://wpmudev.com/black-friday/
+
+
+### 📓 [Novashare](https://novashare.io/) - A lightweight social sharing plugin developed from the ground up with a performance-focused approach for Google Core Web Vitals
+
+#### 💰 75%
+
+#### 🎫 BLACKFRIDAY
+
+#### 🔗 https://novashare.io/
