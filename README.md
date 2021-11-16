@@ -20,7 +20,9 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💰 Up to 75%
 
-#### 🔗 https://mdbootstrap.com/bf/waiting-list
+#### 🔗 https://mdbootstrap.com/bf/sale/
+
+-----
 
 ## App Store Optimization (ASO)
 
@@ -31,3 +33,27 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 🎫 BLACKFRIDAY21MD
 
 #### 🔗 https://appfigures.com
+
+-----
+
+## CRMs, automation & marketing
+
+### 📓 [Adobe](https://www.adobe.com/) - Adobe Creative Cloud provides access to all designer tools for desktop and mobile devices, including Photoshop, Illustrator, InDesign, and Adobe Premiere Pro
+
+#### Almost 💰 40%
+
+#### 🔗 https://www.adobe.com/
+
+
+-----
+
+## Privacy and security
+
+### 📓 [NordVPN](https://nordvpn.com/) - Online VPN service that encrypts your internet traffic and hides your IP with physical location
+
+#### 💰 72%
+
+#### 🔗 https://nordvpn.com/
+
+
+
