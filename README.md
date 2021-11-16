@@ -40,7 +40,7 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 ### 📓 [Adobe](https://www.adobe.com/) - Adobe Creative Cloud provides access to all designer tools for desktop and mobile devices, including Photoshop, Illustrator, InDesign, and Adobe Premiere Pro
 
-#### Almost 💰 40%
+#### 💰 Almost 40%
 
 #### 🔗 https://www.adobe.com/
 
@@ -55,5 +55,36 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 🔗 https://nordvpn.com/
 
+### 📓 [FastestVPPN](https://fastestvpn.com/vpn-deals) - Fastest VPN Service that allows to access blocked & restricted content. Stream & Download with anonymity & security with high speed online access.
 
+#### 💰 93%
 
+#### 🔗 https://fastestvpn.com/vpn-deals
+
+-----
+
+## Courses, books learning
+
+### 📓 [Vue School](https://vueschool.io/sales/blackfriday) - Premium tutorials courses in Vue.js and modern, cutting-edge front-end technologies taught by team members and industry experts
+
+#### 💰 40%
+
+#### 🔗 https://vueschool.io/sales/blackfriday
+
+### 📓 [Tuturials Dojo](https://portal.tutorialsdojo.com/black-friday-sale/) - Best AWS and other IT certification exam reviewers in different training modes
+
+#### 💰 40%
+
+#### 🔗 https://portal.tutorialsdojo.com/black-friday-sale/
+
+-----
+
+## WP Plugins
+
+### 📓 [FlyCart](https://www.flycart.org/woocommerce-black-friday-cyber-monday-deals) - Premium WooCommerce plugins for discounts, subscriptions and email customization
+
+#### 💰 30%
+
+#### 🎫 BFCM30
+
+#### 🔗 https://www.flycart.org/woocommerce-black-friday-cyber-monday-deals
