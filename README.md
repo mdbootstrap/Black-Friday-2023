@@ -1,4 +1,4 @@
-![Black Friday](https://v1.mdbootstrap.com/wp-content/uploads/2021/11/bf-gh-v6.png)
+![Black Friday](https://v1.mdbootstrap.com/wp-content/uploads/2021/11/bf-gh-v9.png)
 --------------------
 
 # 🔥 Black Friday 2021 🔥
