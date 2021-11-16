@@ -21,3 +21,13 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 💰 Up to 75%
 
 #### 🔗 https://mdbootstrap.com/bf/waiting-list
+
+## App Store Optimization (ASO)
+
+### 📓 [Appfigures](https://appfigures.com?utm_source=mdbootstrap-bf-21) - Analytics, Optimization tools, and App Intelligence for mobile app and game developers
+
+#### 💰 50% + Additional prizes
+
+#### 🎫 BLACKFRIDAY21MD
+
+#### 🔗 https://appfigures.com
