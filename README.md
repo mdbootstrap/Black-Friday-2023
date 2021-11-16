@@ -1,3 +1,6 @@
+![Black Friday](https://v1.mdbootstrap.com/wp-content/uploads/2021/11/bf-gh-v6.png)
+--------------------
+
 # 🔥 Black Friday 2021 🔥
 A list of Back November, Black Friday & Cyber Monday promotions and discounts for web developers, programmers and software engineers.
 
