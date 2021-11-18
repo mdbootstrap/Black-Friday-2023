@@ -39,6 +39,17 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 -----
 
+## DevUtils
+
+### 📓 [DevUtils.app](https://devutils.app?utm_source=mdbootstrap-bf-21) - Powerful developer tools for your everyday tasks. Native macOS app, work offline, and respect your data.
+
+#### 💰 30% OFF
+
+#### 🎫 BLACKFRIDAY_2021B
+
+#### 🔗 https://devutils.app
+-----
+
 ## CRMs, automation & marketing
 
 ### 📓 [Adobe](https://www.adobe.com/) - Adobe Creative Cloud provides access to all designer tools for desktop and mobile devices, including Photoshop, Illustrator, InDesign, and Adobe Premiere Pro
