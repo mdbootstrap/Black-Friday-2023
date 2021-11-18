@@ -131,3 +131,17 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 🎫 BLACKFRIDAY
 
 #### 🔗 https://novashare.io/
+
+-----
+
+## SaaS
+
+### 📓 [MDX.one](https://mdx.one) - Notion to Blog in Minutes
+
+#### 💰 30% discount (22 Nov 2021 – 30 Nov 2021)
+
+#### 🎫 BFCM2021
+
+#### 🔗 https://mdx.one
+
+
