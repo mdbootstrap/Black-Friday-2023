@@ -48,6 +48,17 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 🎫 BLACKFRIDAY_2021B
 
 #### 🔗 https://devutils.app
+
+
+## Tinker 2
+
+### 📓 [Tinker2.app](https://tinker2.app?utm_source=mdbootstrap-bf-21) - A Laravel Tinker desktop app that helps you run testing code on the local machine and remote server without modifying source code.
+
+#### 💰 50% OFF
+
+#### 🎫 BLACKFRIDAY
+
+#### 🔗 https://tinker2.app
 -----
 
 ## CRMs, automation & marketing
@@ -150,4 +161,3 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 💰 14-day free trial (no cc required) + Up-to 25% OFF on annual plan (no coupon needed) 
 
 #### 🔗 https://alterclass.io/teaching
-
