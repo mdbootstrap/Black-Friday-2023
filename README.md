@@ -142,3 +142,12 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 🎫 BLACKFRIDAY
 
 #### 🔗 https://novashare.io/
+
+## SaaS
+
+### 📓 [AlterClass.io](https://alterclass.io/teaching) - The all-in-one platform for creating and selling your programming courses online. You got skills. Monetize them!
+
+#### 💰 14-day free trial (no cc required) + Up-to 25% OFF on annual plan (no coupon needed) 
+
+#### 🔗 https://alterclass.io/teaching
+
