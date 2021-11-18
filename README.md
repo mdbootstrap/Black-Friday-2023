@@ -88,6 +88,15 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 🔗 https://portal.tutorialsdojo.com/black-friday-sale/
 
+
+### 📓 [SaaS Pricer](https://saaspricer.com?utm_source=mdbootstrap-bf-21) - SaaS Pricing and analysis of 202 Products
+
+#### 💰 70% 
+
+#### 🎫 blackfriday21
+
+#### 🔗 https://saaspricer.com
+
 -----
 
 ## WP Plugins
