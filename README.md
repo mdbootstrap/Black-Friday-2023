@@ -77,6 +77,15 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 🔗 https://fastestvpn.com/vpn-deals
 
 
+### 📓 [pcWRT Security Router](https://www.pcwrt.com/) - WiFi router that comes with a sleuth of security tools: VLAN, VPN, Ad blocking, DNS over HTTPS, Access Controls, Network Monitoring. Lots of configurability.
+
+#### 💰 25% OFF
+
+#### 🎫 GITBTBF21
+
+#### 🔗 https://www.pcwrt.com/
+
+
 ## Courses, books learning
 
 ### 📓 [Vue School](https://vueschool.io/sales/blackfriday) - Premium tutorials courses in Vue.js and modern, cutting-edge front-end technologies taught by team members and industry experts
