@@ -151,3 +151,11 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 🔗 https://alterclass.io/teaching
 
+
+### 📓 [Eager.app](https://eager.app/sale) - Customer Support Help Desk, Knowledge Base, Live Chat, and Notification Feed to help you provide customer support for your apps or services.
+
+#### 💰 35% OFF
+
+#### 🎫 BFSALE2021
+
+#### 🔗 https://eager.app/sale
