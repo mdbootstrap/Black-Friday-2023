@@ -27,6 +27,16 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 -----
 
+## React App starter
+
+### 📓 [ReactApp.dev](https://reactapp.dev) – Next.js, React, Firebase, Authentication (Firebase), Tailwind CSS, State Management (Zustand) all hooked up and ready for your next project.
+
+#### 💰 50%
+
+#### 🔗 https://apphafen.gumroad.com/l/reactappstarter/bf2021
+
+-----
+
 ## App Store Optimization (ASO)
 
 ### 📓 [Appfigures](https://appfigures.com?utm_source=mdbootstrap-bf-21) - Analytics, Optimization tools, and App Intelligence for mobile app and game developers
@@ -39,7 +49,7 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 -----
 
-## Form backend - Form tools
+## Backend
 
 ### 📓 [ActionForms.io](https://www.actionforms.io/) - ActionForms.io provide a backend for your all your Forms. Send forms using our Backend - Without code
 
@@ -48,6 +58,16 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 🎫  BLACKFRIDAY21
 
 #### 🔗  https://www.actionforms.io
+
+
+
+### 📓 [DevUtils.app](https://devutils.app?utm_source=mdbootstrap-bf-21) - Powerful developer tools for your everyday tasks. Native macOS app, work offline, and respect your data.
+
+#### 💰 30% OFF
+
+#### 🎫 BLACKFRIDAY_2021B
+
+#### 🔗 https://devutils.app
 
 -----
 
@@ -143,3 +163,23 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 🎫 BLACKFRIDAY
 
 #### 🔗 https://novashare.io/
+
+-----
+
+## SaaS
+
+### 📓 [AlterClass.io](https://alterclass.io/teaching) - The all-in-one platform for creating and selling your programming courses online. You got skills. Monetize them!
+
+#### 💰 14-day free trial (no cc required) + Up-to 25% OFF on annual plan (no coupon needed) 
+
+#### 🔗 https://alterclass.io/teaching
+
+
+### 📓 [MDX.one](https://mdx.one) - Notion to Blog in Minutes
+
+#### 💰 30% discount (22 Nov 2021 – 30 Nov 2021)
+
+#### 🎫 BFCM2021
+
+#### 🔗 https://mdx.one
+
