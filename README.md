@@ -48,6 +48,17 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 🎫 BLACKFRIDAY_2021B
 
 #### 🔗 https://devutils.app
+
+-----
+
+## Developer Tools
+
+### 📓 [Tower](https://git-tower.com) - Git client for macOS and Windows.
+
+#### 💰 50% OFF
+
+#### 🔗 https://www.git-tower.com
+
 -----
 
 ## CRMs, automation & marketing
