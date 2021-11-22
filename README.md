@@ -27,6 +27,16 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 -----
 
+## React App starter
+
+### 📓 [ReactApp.dev](https://reactapp.dev) – Next.js, React, Firebase, Authentication (Firebase), Tailwind CSS, State Management (Zustand) all hooked up and ready for your next project.
+
+#### 💰 50%
+
+#### 🔗 https://apphafen.gumroad.com/l/reactappstarter/bf2021
+
+-----
+
 ## App Store Optimization (ASO)
 
 ### 📓 [Appfigures](https://appfigures.com?utm_source=mdbootstrap-bf-21) - Analytics, Optimization tools, and App Intelligence for mobile app and game developers
