@@ -27,6 +27,16 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 -----
 
+## React App starter
+
+### 📓 [ReactApp.dev](https://reactapp.dev) – Next.js, React, Firebase, Authentication (Firebase), Tailwind CSS, State Management (Zustand) all hooked up and ready for your next project.
+
+#### 💰 50%
+
+#### 🔗 https://apphafen.gumroad.com/l/reactappstarter/bf2021
+
+-----
+
 ## App Store Optimization (ASO)
 
 ### 📓 [Appfigures](https://appfigures.com?utm_source=mdbootstrap-bf-21) - Analytics, Optimization tools, and App Intelligence for mobile app and game developers
@@ -39,7 +49,17 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 -----
 
-## DevUtils
+## Backend
+
+### 📓 [ActionForms.io](https://www.actionforms.io/) - ActionForms.io provide a backend for your all your Forms. Send forms using our Backend - Without code
+
+#### 💰 30% OFF
+
+#### 🎫  BLACKFRIDAY21
+
+#### 🔗  https://www.actionforms.io
+
+
 
 ### 📓 [DevUtils.app](https://devutils.app?utm_source=mdbootstrap-bf-21) - Powerful developer tools for your everyday tasks. Native macOS app, work offline, and respect your data.
 
@@ -48,6 +68,18 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 🎫 BLACKFRIDAY_2021B
 
 #### 🔗 https://devutils.app
+
+
+## Tinker 2
+
+### 📓 [Tinker2.app](https://tinker2.app?utm_source=mdbootstrap-bf-21) - A Laravel Tinker desktop app that helps you run testing code on the local machine and remote server without modifying source code.
+
+#### 💰 50% OFF
+
+#### 🎫 BLACKFRIDAY
+
+#### 🔗 https://tinker2.app
+
 -----
 
 ## CRMs, automation & marketing
@@ -143,6 +175,8 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 🔗 https://novashare.io/
 
+-----
+
 ## SaaS
 
 ### 📓 [AlterClass.io](https://alterclass.io/teaching) - The all-in-one platform for creating and selling your programming courses online. You got skills. Monetize them!
@@ -151,7 +185,17 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 🔗 https://alterclass.io/teaching
 
+
+### 📓 [MDX.one](https://mdx.one) - Notion to Blog in Minutes
+
+#### 💰 30% discount (22 Nov 2021 – 30 Nov 2021)
+
+#### 🎫 BFCM2021
+
+#### 🔗 https://mdx.one
+
 -----
+
 
 ## Developer Tools
 
