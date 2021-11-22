@@ -27,7 +27,7 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 
 -----
-
+­­ 
 ## App Store Optimization (ASO)
 
 ### 📓 [Appfigures](https://appfigures.com?utm_source=mdbootstrap-bf-21) - Analytics, Optimization tools, and App Intelligence for mobile app and game developers
@@ -37,9 +37,9 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 🎫 BLACKFRIDAY21MD
 
 #### 🔗 https://appfigures.com
-
+­­ 
 -----
-
+­­ 
 ## Backend
 
 ### 📓 [ActionForms.io](https://www.actionforms.io/) - ActionForms.io provide a backend for your all your Forms. Send forms using our Backend - Without code
@@ -50,7 +50,7 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 🔗  https://www.actionforms.io
 
-
+­­ 
 
 ### 📓 [DevUtils.app](https://devutils.app?utm_source=mdbootstrap-bf-21) - Powerful developer tools for your everyday tasks. Native macOS app, work offline, and respect your data.
 
@@ -59,9 +59,7 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 🎫 BLACKFRIDAY_2021B
 
 #### 🔗 https://devutils.app
-
-
-## Tinker 2
+­­ 
 
 ### 📓 [Tinker2.app](https://tinker2.app?utm_source=mdbootstrap-bf-21) - A Laravel Tinker desktop app that helps you run testing code on the local machine and remote server without modifying source code.
 
@@ -70,16 +68,16 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 🎫 BLACKFRIDAY
 
 #### 🔗 https://tinker2.app
-
+­­ 
 
 ### 📓 [ReactApp.dev](https://reactapp.dev) – Next.js, React, Firebase, Authentication (Firebase), Tailwind CSS, State Management (Zustand) all hooked up and ready for your next project.
 
 #### 💰 50%
 
 #### 🔗 https://apphafen.gumroad.com/l/reactappstarter/bf2021
-
+­­ 
 -----
-
+­­ 
 ## CRMs, automation & marketing
 
 ### 📓 [Adobe](https://www.adobe.com/) - Adobe Creative Cloud provides access to all designer tools for desktop and mobile devices, including Photoshop, Illustrator, InDesign, and Adobe Premiere Pro
@@ -87,10 +85,10 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 💰 Almost 40%
 
 #### 🔗 https://www.adobe.com/
-
+­­ 
 
 -----
-
+­­ 
 ## Privacy and security
 
 ### 📓 [NordVPN](https://nordvpn.com/) - Online VPN service that encrypts your internet traffic and hides your IP with physical location
@@ -98,14 +96,14 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 💰 72%
 
 #### 🔗 https://nordvpn.com/
-
+­­ 
 
 ### 📓 [FastestVPN](https://fastestvpn.com/vpn-deals) - Fastest VPN Service that allows to access blocked & restricted content. Stream & Download with anonymity & security with high speed online access.
 
 #### 💰 93%
 
 #### 🔗 https://fastestvpn.com/vpn-deals
-
+­­ 
 
 ## Courses, books learning
 
@@ -114,7 +112,7 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 💰 40%
 
 #### 🔗 https://vueschool.io/sales/blackfriday
-
+­­ 
 
 ### 📓 [Pluralsight](https://www.pluralsight.com/) - Online education website that offers a variety of video training courses for software developers, IT administrators, and creative professionals.
 
@@ -128,9 +126,9 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 💰 40%
 
 #### 🔗 https://portal.tutorialsdojo.com/black-friday-sale/
-
+­­ 
 -----
-
+­­ 
 ## WP Plugins
 
 ### 📓 [FlyCart](https://www.flycart.org/woocommerce-black-friday-cyber-monday-deals) - Premium WooCommerce plugins for discounts, subscriptions and email customization
@@ -140,7 +138,7 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 🎫 BFCM30
 
 #### 🔗 https://www.flycart.org/woocommerce-black-friday-cyber-monday-deals
-
+­­ 
 
 ### 📓 [Nexcess](https://shop.nexcess.net/woocommerce-plans/) - Plugin that radically improve load times, keep secure and be ready to scale. Smart Monitoring built-in to every plan
 
@@ -149,7 +147,7 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 🎫 CYBER2021
 
 #### 🔗 https://shop.nexcess.net/woocommerce-plans/
-
+­­ 
 
 ### 📓 [Tripetto](https://tripetto.com/black-friday-sale/) - The fullblown form building plugin for WordPress. Build powerful, deeply customizable form experiences and store collected data all right inside your WordPress
 
@@ -157,13 +155,13 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 🔗 https://tripetto.com/black-friday-sale/
 
-
+­­ 
 ### 📓 [WPMU DEV](https://wpmudev.com/black-friday/) - The hosting, tools, plugins, and support you need to run your WP business 
 
 #### 💰 50%
 
 #### 🔗 https://wpmudev.com/black-friday/
-
+­­ 
 
 ### 📓 [Novashare](https://novashare.io/) - A lightweight social sharing plugin developed from the ground up with a performance-focused approach for Google Core Web Vitals
 
@@ -172,9 +170,9 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 🎫 BLACKFRIDAY
 
 #### 🔗 https://novashare.io/
-
+­­ 
 -----
-
+­­ 
 ## SaaS
 
 ### 📓 [AlterClass.io](https://alterclass.io/teaching) - The all-in-one platform for creating and selling your programming courses online. You got skills. Monetize them!
@@ -182,7 +180,7 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 💰 14-day free trial (no cc required) + Up-to 25% OFF on annual plan (no coupon needed) 
 
 #### 🔗 https://alterclass.io/teaching
-
+­­ 
 
 ### 📓 [MDX.one](https://mdx.one) - Notion to Blog in Minutes
 
@@ -191,10 +189,10 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 🎫 BFCM2021
 
 #### 🔗 https://mdx.one
-
+­­ ­­ 
 -----
 
-
+­­ 
 ## Developer Tools
 
 ### 📓 [Proxyman](https://proxyman.io) – Modern. Native. Web Debugging Proxy for macOS, iOS and Android. Support Apple M1, macOS Big Sur & Monterey!. 
