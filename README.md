@@ -39,6 +39,17 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 -----
 
+## DevUtils
+
+### 📓 [DevUtils.app](https://devutils.app?utm_source=mdbootstrap-bf-21) - Powerful developer tools for your everyday tasks. Native macOS app, work offline, and respect your data.
+
+#### 💰 30% OFF
+
+#### 🎫 BLACKFRIDAY_2021B
+
+#### 🔗 https://devutils.app
+-----
+
 ## CRMs, automation & marketing
 
 ### 📓 [Adobe](https://www.adobe.com/) - Adobe Creative Cloud provides access to all designer tools for desktop and mobile devices, including Photoshop, Illustrator, InDesign, and Adobe Premiere Pro
@@ -132,9 +143,16 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 🔗 https://novashare.io/
 
------
+=======
 
 ## SaaS
+
+### 📓 [AlterClass.io](https://alterclass.io/teaching) - The all-in-one platform for creating and selling your programming courses online. You got skills. Monetize them!
+
+#### 💰 14-day free trial (no cc required) + Up-to 25% OFF on annual plan (no coupon needed) 
+
+#### 🔗 https://alterclass.io/teaching
+
 
 ### 📓 [MDX.one](https://mdx.one) - Notion to Blog in Minutes
 
@@ -143,5 +161,4 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 🎫 BFCM2021
 
 #### 🔗 https://mdx.one
-
 
