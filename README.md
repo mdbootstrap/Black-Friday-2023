@@ -193,3 +193,16 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 🎫 BFCM2021
 
 #### 🔗 https://mdx.one
+
+-----
+
+
+## Developer Tools
+
+### 📓 [Proxyman](https://proxyman.io) – Modern. Native. Web Debugging Proxy for macOS, iOS and Android. Support Apple M1, macOS Big Sur & Monterey!. 
+
+#### 💰 30% OFF
+
+#### 🎫 PROXYMAN_BLACK_FRIDAY_2021
+
+#### 🔗 https://proxyman.io
