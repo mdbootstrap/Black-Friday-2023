@@ -201,3 +201,10 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 🎫 PROXYMAN_BLACK_FRIDAY_2021
 
 #### 🔗 https://proxyman.io
+­­ 
+
+### 📓 [Tower](https://git-tower.com) - Git client for macOS and Windows.
+
+#### 💰 50% OFF
+
+#### 🔗 https://www.git-tower.com
