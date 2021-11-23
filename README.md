@@ -85,6 +85,17 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 💰 Almost 40%
 
 #### 🔗 https://www.adobe.com/
+
+­­ 
+
+### 📓 [Logology](https://www.logology.co/) - Get a designer-quality logo + brand identity for your startup in 5 minutes.
+
+#### 💰 50% of logo packages (start: $25 instead of $49; grow: $49 instead of $99)
+
+#### 🎫  BF21
+
+#### 🔗 https://www.logology.co/
+
 ­­ 
 -----
 ­­ 
