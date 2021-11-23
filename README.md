@@ -1,203 +1,168 @@
-![Black Friday](https://v1.mdbootstrap.com/wp-content/uploads/2021/11/bf-gh-v9.png)
---------------------
 
 # 🔥 Black Friday 2021 🔥
-A list of Back November, Black Friday & Cyber Monday promotions and discounts for web developers, programmers and software engineers.
+A list of Back November, Black Friday & Cyber Monday promotions and discounts for web developers, programmers and software engineers
 
------
 
-### Legend
+## 🛒 UI Kits
 
-|Emoji | Meaning           |
-|---|-------------------------|
-| 📓 | description        |
-| 💰 | discount / promo type   |
-| 🎫 | coupon code (if needed) |
-| 🔗 | URL                     |
+#### 💸 [Bootstrap 5 + Material Design 2.0](https://mdbootstrap.com/bf/sale/) – Premium components, templates & plugins for Bootstrap 5, jQuery, Angular, React & Vue
 
------
-­­ 
-## UI Kits
+## 🛒 Hosting
 
-### 📓 [Bootstrap 5 + Material Design 2.0](https://mdbootstrap.com/bf/waiting-list) – Premium components, templates & plugins for Bootstrap 5, jQuery, Angular, React & Vue
+#### 💸 [BlueHost](https://www.bluehost.com/) – Affordable website creation and hosting
 
-#### 💰 Up to 75%
+#### ⭐ [MDBGO](https://mdbgo.com/) – Free alternative to paid hosting tools
 
-#### 🔗 https://mdbootstrap.com/bf/sale/
+ -  Free hosting for your apps & databases
 
-­­ 
------
-­­ 
-## App Store Optimization (ASO)
+ -  Open-source deployment tool
 
-### 📓 [Appfigures](https://appfigures.com?utm_source=mdbootstrap-bf-21) - Analytics, Optimization tools, and App Intelligence for mobile app and game developers
+ -  Custom domains
 
-#### 💰 50% + Additional prizes
+ -  Frontend & backend templates
 
-#### 🎫 BLACKFRIDAY21MD
+ -  WordPress support
 
-#### 🔗 https://appfigures.com
-­­ 
------
-­­ 
-## Backend
+ -  Git repository, FTP & Jenkins
 
-### 📓 [ActionForms.io](https://www.actionforms.io/) - ActionForms.io provide a backend for your all your Forms. Send forms using our Backend - Without code
+ 
+## 🛒 Apps
 
-#### 💰 30% OFF
+#### 💸 [Adobe Creative Colud](https://www.adobe.com/creativecloud.html) – Designer tools for desktop and mobile devices
 
-#### 🎫  BLACKFRIDAY21
+### Recording
 
-#### 🔗  https://www.actionforms.io
+#### 💸 [WonderShare](https://www.wondershare.net/shop/) – Video editor for all creators with a huge drice drop [HERE](https://stacksocial.com/sales/wondershare-democreator-for-mac)
 
-­­ 
+#### 💸 [Zoom](https://zoom.us/billing/campaign?coupon=21BLACKFRIDAY30) – Cloud-based video communications app
 
-### 📓 [DevUtils.app](https://devutils.app?utm_source=mdbootstrap-bf-21) - Powerful developer tools for your everyday tasks. Native macOS app, work offline, and respect your data.
+### VPN
 
-#### 💰 30% OFF
+#### 💸 [KeepSolid](https://www.keepsolid.com/goals/lifetime-deal) – Personal virtual private network software with a huge drice drop [HERE](https://stacksocial.com/sales/vpn-unlimited-lifetime-subscription)
 
-#### 🎫 BLACKFRIDAY_2021B
+#### 💸 [NordVPN](https://nordvpn.com/) - Online VPN service that encrypts your internet traffic
 
-#### 🔗 https://devutils.app
-­­ 
+#### 💸 [FastestVPN](https://fastestvpn.com/vpn-deals) - Fastest VPN Service that allows to access blocked & restricted content
 
-### 📓 [Tinker2.app](https://tinker2.app?utm_source=mdbootstrap-bf-21) - A Laravel Tinker desktop app that helps you run testing code on the local machine and remote server without modifying source code.
+## 🛒 Hardware
 
-#### 💰 50% OFF
+#### 💸 [Amazon Black Friday](https://www.amazon.com/events/earlyblackfriday/)
 
-#### 🎫 BLACKFRIDAY
+#### 💸 [Walmart Black Friday](https://www.walmart.com/shop/deals/)
 
-#### 🔗 https://tinker2.app
-­­ 
+#### 💸 [BestBuy Black Friday](https://www.bestbuy.com/site/electronics/black-friday/pcmcat225600050002.c)
 
-### 📓 [ReactApp.dev](https://reactapp.dev) – Next.js, React, Firebase, Authentication (Firebase), Tailwind CSS, State Management (Zustand) all hooked up and ready for your next project.
+#### 💸 [Dell Black Friday](https://deals.dell.com/en-us)
 
-#### 💰 50%
+#### 💸 [Microsoft Black Friday](https://www.microsoft.com/en-us/)
 
-#### 🔗 https://apphafen.gumroad.com/l/reactappstarter/bf2021
-­­ 
------
-­­ 
-## CRMs, automation & marketing
+#### 💸 [Apple Black Friday](https://www.apple.com/shop/gifts/shopping-event)
 
-### 📓 [Adobe](https://www.adobe.com/) - Adobe Creative Cloud provides access to all designer tools for desktop and mobile devices, including Photoshop, Illustrator, InDesign, and Adobe Premiere Pro
+#### 💸 [Samsung Black Friday](https://www.samsung.com/us/shop/all-deals/)
 
-#### 💰 Almost 40%
 
-#### 🔗 https://www.adobe.com/
-­­ 
------
-­­ 
-## Privacy and security
+## 🛒 Tutorials, courses, learning
 
-### 📓 [NordVPN](https://nordvpn.com/) - Online VPN service that encrypts your internet traffic and hides your IP with physical location
+### Udemy Free courses (https://udemyfreecourses.org/) 
 
-#### 💰 72%
+#### Programming
 
-#### 🔗 https://nordvpn.com/
-­­ 
+#### 💸 [C++ Tutorial for Complete Beginners](https://www.udemy.com/course/free-learn-c-tutorial-beginners/)
 
-### 📓 [FastestVPN](https://fastestvpn.com/vpn-deals) - Fastest VPN Service that allows to access blocked & restricted content. Stream & Download with anonymity & security with high speed online access.
+#### 💸 [Become an Android Developer from Scratch](https://www.udemy.com/course/become-an-android-developer-from-scratch/)
 
-#### 💰 93%
+#### 💸 [R Basics - R Programming Language Introduction](https://www.udemy.com/course/r-basics/)
 
-#### 🔗 https://fastestvpn.com/vpn-deals
-­­ 
+#### 💸 [Java Tutorial for Complete Beginners](https://www.udemy.com/course/java-tutorial/)
 
-## Courses, books learning
+#### 💸 [Introduction To Python Programming](https://www.udemy.com/course/pythonforbeginnersintro/)
 
-### 📓 [Vue School](https://vueschool.io/sales/blackfriday) - Premium tutorials courses in Vue.js and modern, cutting-edge front-end technologies taught by team members and industry experts
+#### 💸 [Javascript Essentials](https://www.udemy.com/course/javascript-essentials/)
 
-#### 💰 40%
+#### 💸 [Git Started with GitHub](https://www.udemy.com/course/git-started-with-github/)
 
-#### 🔗 https://vueschool.io/sales/blackfriday
-­­ 
+#### 💸 [Practical PHP](https://www.udemy.com/course/code-dynamic-websites/)
 
-### 📓 [Pluralsight](https://www.pluralsight.com/) - Online education website that offers a variety of video training courses for software developers, IT administrators, and creative professionals.
+#### 💸 [Learn Angular 4 from Scratch](https://www.udemy.com/course/learn-angular-from-scratch/)
 
-#### 💰 40%
+#### and many more https://udemyfreecourses.org/category/all-development
 
-#### 🔗 https://www.pluralsight.com/
+### Design
 
+#### 💸 [How To Create A Website using WordPress](https://www.udemy.com/course/how-to-create-a-website-using-wordpress-step-by-step/)
 
-### 📓 [Tuturials Dojo](https://portal.tutorialsdojo.com/black-friday-sale/) - Best AWS and other IT certification exam reviewers in different training modes
+#### 💸 [Professional Logo Design in Adobe Illustrator](https://www.udemy.com/course/professional-logo-design-crash-course/)
 
-#### 💰 40%
+#### 💸 [How to Design & Prototype in Adobe XD](https://www.udemy.com/course/adobe-xd-experience-design/)
 
-#### 🔗 https://portal.tutorialsdojo.com/black-friday-sale/
-­­ 
------
-­­ 
-## WP Plugins
+#### 💸 [Photoshop for Web Design Beginners](https://www.udemy.com/course/photoshop-for-web-design-beginners/)
 
-### 📓 [FlyCart](https://www.flycart.org/woocommerce-black-friday-cyber-monday-deals) - Premium WooCommerce plugins for discounts, subscriptions and email customization
+#### 💸 [Photoshop Fundamentals](https://www.udemy.com/course/photoshop-fundamentals-in-one-hour/)
 
-#### 💰 30%
+#### 💸 [AutoCAD 2D and 3D practice drawings](https://www.udemy.com/course/autocad-2d-and-3d-practice-drawings/)
 
-#### 🎫 BFCM30
+#### 💸 [Art Fundamentals - Building Blocks of Digital Painting](https://www.udemy.com/course/art-fundamentals-in-one-hour/)
 
-#### 🔗 https://www.flycart.org/woocommerce-black-friday-cyber-monday-deals
-­­ 
+#### 💸 [Getting Started with Balsamiq Wireframes](https://www.udemy.com/course/getting-started-with-balsamiq-wireframes/)
 
-### 📓 [Nexcess](https://shop.nexcess.net/woocommerce-plans/) - Plugin that radically improve load times, keep secure and be ready to scale. Smart Monitoring built-in to every plan
+#### and many more https://udemyfreecourses.org/category/all-design
 
-#### 💰 75%
+### SEO & Marketing
 
-#### 🎫 CYBER2021
+#### 💸 [SEO Training Course by Moz](https://www.udemy.com/course/whiteboard-seo/)
 
-#### 🔗 https://shop.nexcess.net/woocommerce-plans/
-­­ 
+#### 💸 [SEO Tutorial for Beginners](https://www.udemy.com/course/seo-tutorial/)
 
-### 📓 [Tripetto](https://tripetto.com/black-friday-sale/) - The fullblown form building plugin for WordPress. Build powerful, deeply customizable form experiences and store collected data all right inside your WordPress
+#### 💸 [What Is SEO? Learn SEO Basics](https://www.udemy.com/course/what-is-seo/)
 
-#### 💰 TBA
+#### 💸 [Copywriting Quick Start](https://www.udemy.com/course/copywritingquickstart/)
 
-#### 🔗 https://tripetto.com/black-friday-sale/
+#### 💸 [Copywriting Insights Taught](https://www.udemy.com/course/copywriter/)
 
-­­ 
-### 📓 [WPMU DEV](https://wpmudev.com/black-friday/) - The hosting, tools, plugins, and support you need to run your WP business 
+#### 💸 [Advanced Social Media Marketing](https://www.udemy.com/course/social-media-marketing-plan/)
 
-#### 💰 50%
+#### 💸 [Social Media Management](https://www.udemy.com/course/social-media-for-business/)
 
-#### 🔗 https://wpmudev.com/black-friday/
-­­ 
 
-### 📓 [Novashare](https://novashare.io/) - A lightweight social sharing plugin developed from the ground up with a performance-focused approach for Google Core Web Vitals
 
-#### 💰 75%
+#### and many more https://udemyfreecourses.org/category/all-marketing
 
-#### 🎫 BLACKFRIDAY
+### Books
 
-#### 🔗 https://novashare.io/
-­­ 
------
-­­ 
-## SaaS
+#### 💸 [Python Book Bundle - Pay What You Want](https://www.humblebundle.com/books/python-programming-oreilly-books)
 
-### 📓 [AlterClass.io](https://alterclass.io/teaching) - The all-in-one platform for creating and selling your programming courses online. You got skills. Monetize them!
+#### 💸 [Hands-On Python](https://www.amazon.com/dp/B09JM2ZCKW)
 
-#### 💰 14-day free trial (no cc required) + Up-to 25% OFF on annual plan (no coupon needed) 
+#### 💸 [Python Advanced Programming Exercises](https://www.amazon.com/dp/B09DSC6FMJ)
 
-#### 🔗 https://alterclass.io/teaching
-­­ 
+## Paid courses
 
-### 📓 [MDX.one](https://mdx.one) - Notion to Blog in Minutes
+#### 📓 [Vue School](https://vueschool.io/sales/blackfriday) - Tutorials courses in Vue.js 
 
-#### 💰 30% discount (22 Nov 2021 – 30 Nov 2021)
+#### 📓 [Pluralsight](https://www.pluralsight.com/) - Courses for software developers, IT administrators, and creative professionals
 
-#### 🎫 BFCM2021
+#### 📓 [Tuturials Dojo](https://portal.tutorialsdojo.com/black-friday-sale/) - IT certification exams in different training modes
 
-#### 🔗 https://mdx.one
-­­ ­­ 
------
+## Webdesign
 
-­­ 
-## Developer Tools
+#### 💸 [Iconfinder](https://www.iconfinder.com/discountcode/blackfriday21) - Marketplace for vector and raster icons in SVG and PNG formats
 
-### 📓 [Proxyman](https://proxyman.io) – Modern. Native. Web Debugging Proxy for macOS, iOS and Android. Support Apple M1, macOS Big Sur & Monterey!. 
+#### 💸 [Mockplus](https://www.mockplus.com/buy/black-friday) - Design platform for prototyping, collaboration, and design systems
 
-#### 💰 30% OFF
+#### 💸 [Affinity](https://affinity.serif.com/en-us/) - Photo editing and graphic design software
 
-#### 🎫 PROXYMAN_BLACK_FRIDAY_2021
+#### 💸 [Skylum](https://skylum.com/luminar-ai-b) - Photo editor for Mac & PC
 
-#### 🔗 https://proxyman.io
+#### 💸 [Placeit](https://placeit.net/) - Mockup templates from your browser
+
+
+
+## Games
+
+#### 💸 [GOG Pre-Black Friday Sale](https://www.gog.com/news/weekly_sale_a_black_friday_warmup_with_games_up_to_90_off)
+
+#### 💸 [Gamesradar Black Friday deals](https://www.gamesradar.com/black-friday-gaming-deals-2021/)
+
+#### 💸 [Nintendo Black Friday](https://www.nintendo.com/en_CA/holiday/#deals)
+
+
