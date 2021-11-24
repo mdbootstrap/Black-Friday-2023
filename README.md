@@ -30,6 +30,8 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 [Adobe Creative Colud](https://www.adobe.com/creativecloud.html) – Designer tools for desktop and mobile devices
 
+#### 💰 [SVG Shaper for SwiftUI](https://apps.apple.com/us/app/svg-shaper-for-swiftui/id1566140414) – Convert simple SVG files to SwiftUI Shapes/Views · 33% off
+
 ### Recording
 
 #### 💸 [WonderShare](https://www.wondershare.net/shop/) – Video editor for all creators with a huge drice drop [HERE](https://stacksocial.com/sales/wondershare-democreator-for-mac)
