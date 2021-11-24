@@ -135,6 +135,10 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 [Python Advanced Programming Exercises](https://www.amazon.com/dp/B09DSC6FMJ)
 
+#### 💸 [eBook Writing Workflow for Developers - 30% off](https://store.miguelcoba.com/l/ebookwriting)
+
+#### 💸 [Deploying Elixir - FREE download](https://store.miguelcoba.com/l/deployingelixir)
+
 ## Paid courses
 
 #### 📓 [Vue School](https://vueschool.io/sales/blackfriday) - Tutorials courses in Vue.js 
