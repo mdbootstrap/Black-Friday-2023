@@ -44,6 +44,10 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 [FastestVPN](https://fastestvpn.com/vpn-deals) - Fastest VPN Service that allows to access blocked & restricted content
 
+### Utilities
+
+#### 💸 [GetIpsum](https://apps.apple.com/app/getipsum/id1580281319) - Lorem Ipsum generator that sits in the MacOS menu bar
+
 ## 🛒 Hardware
 
 #### 💸 [Amazon Black Friday](https://www.amazon.com/events/earlyblackfriday/)
