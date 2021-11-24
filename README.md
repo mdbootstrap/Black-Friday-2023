@@ -30,6 +30,8 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 [Adobe Creative Colud](https://www.adobe.com/creativecloud.html) – Designer tools for desktop and mobile devices
 
+#### 💸 [EagleFiler](https://c-command.com/eaglefiler/) - Organize files on your Mac, archive e-mails, save Web pages, search everything
+
 #### 💰 [SVG Shaper for SwiftUI](https://apps.apple.com/us/app/svg-shaper-for-swiftui/id1566140414) – Convert simple SVG files to SwiftUI Shapes/Views · 33% off
 
 ### Recording
@@ -48,7 +50,13 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 ### Utilities
 
+#### 💸 [DropDMG](https://c-command.com/dropdmg/) - Create Mac disk image (.dmg) files and archives
+
 #### 💸 [GetIpsum](https://apps.apple.com/app/getipsum/id1580281319) - Lorem Ipsum generator that sits in the MacOS menu bar
+
+#### 💸 [SpamSieve](https://c-command.com/spamsieve/) - Save time by adding powerful spam filtering to the e-mail client on your Mac
+
+#### 💸 [ToothFairy](https://c-command.com/toothfairy/) - Connect Bluetooth devices to your Mac with a single click or keypress
 
 ## 🛒 Hardware
 
