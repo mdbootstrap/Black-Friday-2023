@@ -5,13 +5,13 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 ## 🛒 UI Kits
 
-#### 💸 [Bootstrap 5 + Material Design 2.0](https://mdbootstrap.com/bf/sale/) – Premium components, templates & plugins for Bootstrap 5, jQuery, Angular, React & Vue
+#### 💸 (90% OFF) [Bootstrap 5 + Material Design 2.0](https://mdbootstrap.com/bf/sale/) – Premium components, templates & plugins for Bootstrap 5, jQuery, Angular, React & Vue
 
 ## 🛒 Hosting
 
-#### 💸 [BlueHost](https://www.bluehost.com/) – Affordable website creation and hosting
+#### 💸 (90% OFF) [BlueHost](https://www.bluehost.com/) – Affordable website creation and hosting
 
-#### ⭐ [MDBGO](https://mdbgo.com/) – Free alternative to paid hosting tools
+#### ⭐ (FREE) [MDBGO](https://mdbgo.com/) – Free alternative to paid hosting tools
 
  -  Free hosting for your apps & databases
 
@@ -28,35 +28,37 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
  
 ## 🛒 Apps
 
-#### 💸 [Adobe Creative Colud](https://www.adobe.com/creativecloud.html) – Designer tools for desktop and mobile devices
+#### 💸 (40% OFF) [Adobe Creative Colud](https://www.adobe.com/creativecloud.html) – Designer tools for desktop and mobile devices
 
-#### 💸 [EagleFiler](https://c-command.com/eaglefiler/) - Organize files on your Mac, archive e-mails, save Web pages, search everything
+#### 💸 (25% OFF) [EagleFiler](https://c-command.com/eaglefiler/) - Organize files on your Mac, archive e-mails, save Web pages, search everything
 
-#### 💰 [SVG Shaper for SwiftUI](https://apps.apple.com/us/app/svg-shaper-for-swiftui/id1566140414) – Convert simple SVG files to SwiftUI Shapes/Views · 33% off
+#### 💰 (33% OFF) [SVG Shaper for SwiftUI](https://apps.apple.com/us/app/svg-shaper-for-swiftui/id1566140414) – Convert simple SVG files to SwiftUI Shapes/Views
+
+#### 💸 (35% OFF) [Eager.app](https://eager.app/sale) - Customer Support Help Desk, Knowledge Base, Live Chat, and Notification Feed (🎫 BFSALE2021)
 
 ### Recording
 
-#### 💸 [WonderShare](https://www.wondershare.net/shop/) – Video editor for all creators with a huge drice drop [HERE](https://stacksocial.com/sales/wondershare-democreator-for-mac)
+#### 💸 (30% OFF) [WonderShare](https://www.wondershare.net/shop/) – Video editor for all creators with a huge drice drop [HERE](https://stacksocial.com/sales/wondershare-democreator-for-mac)
 
-#### 💸 [Zoom](https://zoom.us/billing/campaign?coupon=21BLACKFRIDAY30) – Cloud-based video communications app
+#### 💸 (30% OFF) [Zoom](https://zoom.us/billing/campaign?coupon=21BLACKFRIDAY30) – Cloud-based video communications app
 
 ### VPN
 
-#### 💸 [KeepSolid](https://www.keepsolid.com/goals/lifetime-deal) – Personal virtual private network software with a huge drice drop [HERE](https://stacksocial.com/sales/vpn-unlimited-lifetime-subscription)
+#### 💸 (50% OFF) [KeepSolid](https://www.keepsolid.com/goals/lifetime-deal) – Personal virtual private network software with a huge drice drop [HERE](https://stacksocial.com/sales/vpn-unlimited-lifetime-subscription)
 
-#### 💸 [NordVPN](https://nordvpn.com/) - Online VPN service that encrypts your internet traffic
+#### 💸 (86% OFF) [NordVPN](https://nordvpn.com/) - Online VPN service that encrypts your internet traffic
 
-#### 💸 [FastestVPN](https://fastestvpn.com/vpn-deals) - Fastest VPN Service that allows to access blocked & restricted content
+#### 💸 (93% OFF) [FastestVPN](https://fastestvpn.com/vpn-deals) - Fastest VPN Service that allows to access blocked & restricted content
 
 ### Utilities
 
-#### 💸 [DropDMG](https://c-command.com/dropdmg/) - Create Mac disk image (.dmg) files and archives
+#### 💸 (25% OFF) [DropDMG](https://c-command.com/dropdmg/) - Create Mac disk image (.dmg) files and archives
 
-#### 💸 [GetIpsum](https://apps.apple.com/app/getipsum/id1580281319) - Lorem Ipsum generator that sits in the MacOS menu bar
+#### 💸 (25% OFF) [GetIpsum](https://apps.apple.com/app/getipsum/id1580281319) - Lorem Ipsum generator that sits in the MacOS menu bar
 
-#### 💸 [SpamSieve](https://c-command.com/spamsieve/) - Save time by adding powerful spam filtering to the e-mail client on your Mac
+#### 💸 (25% OFF) [SpamSieve](https://c-command.com/spamsieve/) - Save time by adding powerful spam filtering to the e-mail client on your Mac
 
-#### 💸 [ToothFairy](https://c-command.com/toothfairy/) - Connect Bluetooth devices to your Mac with a single click or keypress
+#### 💸 (25% OFF) [ToothFairy](https://c-command.com/toothfairy/) - Connect Bluetooth devices to your Mac with a single click or keypress
 
 ## 🛒 Hardware
 
@@ -81,61 +83,61 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### Programming
 
-#### 💸 [C++ Tutorial for Complete Beginners](https://www.udemy.com/course/free-learn-c-tutorial-beginners/)
+#### 💸 (FREE) [C++ Tutorial for Complete Beginners](https://www.udemy.com/course/free-learn-c-tutorial-beginners/)
 
-#### 💸 [Become an Android Developer from Scratch](https://www.udemy.com/course/become-an-android-developer-from-scratch/)
+#### 💸 (FREE) [Become an Android Developer from Scratch](https://www.udemy.com/course/become-an-android-developer-from-scratch/)
 
-#### 💸 [R Basics - R Programming Language Introduction](https://www.udemy.com/course/r-basics/)
+#### 💸 (FREE) [R Basics - R Programming Language Introduction](https://www.udemy.com/course/r-basics/)
 
-#### 💸 [Java Tutorial for Complete Beginners](https://www.udemy.com/course/java-tutorial/)
+#### 💸 (FREE) [Java Tutorial for Complete Beginners](https://www.udemy.com/course/java-tutorial/)
 
-#### 💸 [Introduction To Python Programming](https://www.udemy.com/course/pythonforbeginnersintro/)
+#### 💸 (FREE) [Introduction To Python Programming](https://www.udemy.com/course/pythonforbeginnersintro/)
 
-#### 💸 [Javascript Essentials](https://www.udemy.com/course/javascript-essentials/)
+#### 💸 (FREE) [Javascript Essentials](https://www.udemy.com/course/javascript-essentials/)
 
-#### 💸 [Git Started with GitHub](https://www.udemy.com/course/git-started-with-github/)
+#### 💸 (FREE) [Git Started with GitHub](https://www.udemy.com/course/git-started-with-github/)
 
-#### 💸 [Practical PHP](https://www.udemy.com/course/code-dynamic-websites/)
+#### 💸 (FREE) [Practical PHP](https://www.udemy.com/course/code-dynamic-websites/)
 
-#### 💸 [Learn Angular 4 from Scratch](https://www.udemy.com/course/learn-angular-from-scratch/)
+#### 💸 (FREE) [Learn Angular 4 from Scratch](https://www.udemy.com/course/learn-angular-from-scratch/)
 
 #### and many more https://udemyfreecourses.org/category/all-development
 
 ### Design
 
-#### 💸 [How To Create A Website using WordPress](https://www.udemy.com/course/how-to-create-a-website-using-wordpress-step-by-step/)
+#### 💸 (FREE) [How To Create A Website using WordPress](https://www.udemy.com/course/how-to-create-a-website-using-wordpress-step-by-step/)
 
-#### 💸 [Professional Logo Design in Adobe Illustrator](https://www.udemy.com/course/professional-logo-design-crash-course/)
+#### 💸 (FREE) [Professional Logo Design in Adobe Illustrator](https://www.udemy.com/course/professional-logo-design-crash-course/)
 
-#### 💸 [How to Design & Prototype in Adobe XD](https://www.udemy.com/course/adobe-xd-experience-design/)
+#### 💸 (FREE) [How to Design & Prototype in Adobe XD](https://www.udemy.com/course/adobe-xd-experience-design/)
 
-#### 💸 [Photoshop for Web Design Beginners](https://www.udemy.com/course/photoshop-for-web-design-beginners/)
+#### 💸 (FREE) [Photoshop for Web Design Beginners](https://www.udemy.com/course/photoshop-for-web-design-beginners/)
 
-#### 💸 [Photoshop Fundamentals](https://www.udemy.com/course/photoshop-fundamentals-in-one-hour/)
+#### 💸 (FREE) [Photoshop Fundamentals](https://www.udemy.com/course/photoshop-fundamentals-in-one-hour/)
 
-#### 💸 [AutoCAD 2D and 3D practice drawings](https://www.udemy.com/course/autocad-2d-and-3d-practice-drawings/)
+#### 💸 (FREE) [AutoCAD 2D and 3D practice drawings](https://www.udemy.com/course/autocad-2d-and-3d-practice-drawings/)
 
-#### 💸 [Art Fundamentals - Building Blocks of Digital Painting](https://www.udemy.com/course/art-fundamentals-in-one-hour/)
+#### 💸 (FREE) [Art Fundamentals - Building Blocks of Digital Painting](https://www.udemy.com/course/art-fundamentals-in-one-hour/)
 
-#### 💸 [Getting Started with Balsamiq Wireframes](https://www.udemy.com/course/getting-started-with-balsamiq-wireframes/)
+#### 💸 (FREE) [Getting Started with Balsamiq Wireframes](https://www.udemy.com/course/getting-started-with-balsamiq-wireframes/)
 
 #### and many more https://udemyfreecourses.org/category/all-design
 
 ### SEO & Marketing
 
-#### 💸 [SEO Training Course by Moz](https://www.udemy.com/course/whiteboard-seo/)
+#### 💸 (FREE) [SEO Training Course by Moz](https://www.udemy.com/course/whiteboard-seo/)
 
-#### 💸 [SEO Tutorial for Beginners](https://www.udemy.com/course/seo-tutorial/)
+#### 💸 (FREE) [SEO Tutorial for Beginners](https://www.udemy.com/course/seo-tutorial/)
 
-#### 💸 [What Is SEO? Learn SEO Basics](https://www.udemy.com/course/what-is-seo/)
+#### 💸 (FREE) [What Is SEO? Learn SEO Basics](https://www.udemy.com/course/what-is-seo/)
 
-#### 💸 [Copywriting Quick Start](https://www.udemy.com/course/copywritingquickstart/)
+#### 💸 (FREE) [Copywriting Quick Start](https://www.udemy.com/course/copywritingquickstart/)
 
-#### 💸 [Copywriting Insights Taught](https://www.udemy.com/course/copywriter/)
+#### 💸 (FREE) [Copywriting Insights Taught](https://www.udemy.com/course/copywriter/)
 
-#### 💸 [Advanced Social Media Marketing](https://www.udemy.com/course/social-media-marketing-plan/)
+#### 💸 (FREE) [Advanced Social Media Marketing](https://www.udemy.com/course/social-media-marketing-plan/)
 
-#### 💸 [Social Media Management](https://www.udemy.com/course/social-media-for-business/)
+#### 💸 (FREE) [Social Media Management](https://www.udemy.com/course/social-media-for-business/)
 
 
 
@@ -143,35 +145,33 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 ### Books
 
-#### 💸 [Python Book Bundle - Pay What You Want](https://www.humblebundle.com/books/python-programming-oreilly-books)
+#### 💸 (PAY WHAT YOOU WANT) [Python Book Bundle](https://www.humblebundle.com/books/python-programming-oreilly-books)
 
-#### 💸 [Hands-On Python](https://www.amazon.com/dp/B09JM2ZCKW)
+#### 💸 (96% OFF) [Hands-On Python](https://www.amazon.com/dp/B09JM2ZCKW)
 
-#### 💸 [Python Advanced Programming Exercises](https://www.amazon.com/dp/B09DSC6FMJ)
+#### 💸 (33% OFF) [eBook Writing Workflow for Developers - 30% off](https://store.miguelcoba.com/l/ebookwriting)
 
-#### 💸 [eBook Writing Workflow for Developers - 30% off](https://store.miguelcoba.com/l/ebookwriting)
-
-#### 💸 [Deploying Elixir - FREE download](https://store.miguelcoba.com/l/deployingelixir)
+#### 💸 (PAY WHAT YOOU WANT) [Deploying Elixir - FREE download](https://store.miguelcoba.com/l/deployingelixir)
 
 ## Paid courses
 
-#### 📓 [Vue School](https://vueschool.io/sales/blackfriday) - Tutorials courses in Vue.js 
+#### 📓 (40% OFF) [Vue School](https://vueschool.io/sales/blackfriday) - Tutorials courses in Vue.js 
 
-#### 📓 [Pluralsight](https://www.pluralsight.com/) - Courses for software developers, IT administrators, and creative professionals
+#### 📓 (40% OFF) [Pluralsight](https://www.pluralsight.com/) - Courses for software developers, IT administrators, and creative professionals
 
-#### 📓 [Tuturials Dojo](https://portal.tutorialsdojo.com/black-friday-sale/) - IT certification exams in different training modes
+#### 📓 (70% OFF) [Tuturials Dojo](https://portal.tutorialsdojo.com/black-friday-sale/) - IT certification exams in different training modes
 
 ## Webdesign
 
-#### 💸 [Iconfinder](https://www.iconfinder.com/discountcode/blackfriday21) - Marketplace for vector and raster icons in SVG and PNG formats
+#### 💸 (70% OFF) [Iconfinder](https://www.iconfinder.com/discountcode/blackfriday21) - Marketplace for vector and raster icons in SVG and PNG formats
 
-#### 💸 [Mockplus](https://www.mockplus.com/buy/black-friday) - Design platform for prototyping, collaboration, and design systems
+#### 💸 (72% OFF) [Mockplus](https://www.mockplus.com/buy/black-friday) - Design platform for prototyping, collaboration, and design systems
 
-#### 💸 [Affinity](https://affinity.serif.com/en-us/) - Photo editing and graphic design software
+#### 💸 (30% OFF) [Affinity](https://affinity.serif.com/en-us/) - Photo editing and graphic design software
 
-#### 💸 [Skylum](https://skylum.com/luminar-ai-b) - Photo editor for Mac & PC
+#### 💸 (60% OFF) [Skylum](https://skylum.com/luminar-ai-b) - Photo editor for Mac & PC
 
-#### 💸 [Placeit](https://placeit.net/) - Mockup templates from your browser
+#### 💸 (60% OFF) [Placeit](https://placeit.net/) - Mockup templates from your browser
 
 
 
@@ -185,10 +185,3 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 
 
-### 📓 [Eager.app](https://eager.app/sale) - Customer Support Help Desk, Knowledge Base, Live Chat, and Notification Feed to help you provide customer support for your apps or services.
-
-#### 💰 35% OFF
-
-#### 🎫 BFSALE2021
-
-#### 🔗 https://eager.app/sale
