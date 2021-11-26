@@ -2,6 +2,8 @@
 # 🔥 Black Friday 2021 🔥
 A list of Back November, Black Friday & Cyber Monday promotions and discounts for web developers, programmers and software engineers
 
+![blackfridaysale](https://user-images.githubusercontent.com/40147294/143610612-17152669-6ea2-41d1-bbe5-996b1e1fafa2.png)
+
 
 ## 🛒 UI Kits
 
