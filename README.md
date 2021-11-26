@@ -60,6 +60,8 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 (25% OFF) [ToothFairy](https://c-command.com/toothfairy/) - Connect Bluetooth devices to your Mac with a single click or keypress
 
+#### 💸 (60% OFF) [ishim AIO Domain tools](https://ish.im/black-friday) - Domain WHOIS, bulk availability check and 1-word name generator
+
 ## 🛒 Hardware
 
 #### 💸 [Amazon Black Friday](https://www.amazon.com/events/earlyblackfriday/)
