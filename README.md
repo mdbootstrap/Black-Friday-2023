@@ -18,3 +18,7 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 (COMING SOON!) [Bootstrap 5 + Material Design 2.0](https://mdbootstrap.com/pro/) – Premium components, templates & plugins for Bootstrap 5, jQuery, Angular, React & Vue
 
+## 💻 User Expereince
+
+#### 💸 [Linkz.ai](https://linkz.ai/blog/the-best-saas-deal-for-black-friday-cyber-monday-2022) – Smart link auto-previews for your website. 50% off on all plans for 6 months
+
