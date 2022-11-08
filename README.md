@@ -20,7 +20,7 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 ## 🛒 Templates
 
-#### 💸 [Bootstrap eCommerce](https://mdbootstrap.com/docs/standard/templates/pro/bootstrap-ecommerce/) – Ready to use html snippets and templates for creating e-commerce projects. Made for web designers and front-end developers
+#### 💸 [Bootstrap eCommerce](https://mdbootstrap.com/docs/standard/templates/pro/bootstrap-ecommerce/) – A powerful html library to develop e-commerce web sites with a huge set of components and templates
 
 #### 💸 [eCommerce Admin](https://mdbootstrap.com/docs/standard/templates/pro/admin-ecommerce/) – E-commerce dashboard template for shopping websites to create backend admin control panel, Bootstrap 5, Sketch, Figma
 
