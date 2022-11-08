@@ -32,6 +32,8 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 [Bootstrap Menu Kit](https://mdbootstrap.com/docs/standard/templates/pro/menu-kit/) – A collection of templates for different Bootstrap 5 menu & submenu configurations
 
+-------------
+
 ## 🛒 Apps
 
 #### 💸 (COMING SOON) [Adobe Creative Colud](https://www.adobe.com/cis_en/products/special-offers/black-friday.html) – Designer tools for desktop and mobile devices
@@ -57,6 +59,7 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 💸 (FREE) [Learn Angular 4 from Scratch](https://www.udemy.com/course/learn-angular-from-scratch/)
 
 #### and many more https://udemyfreecourses.org/category/all-development
+
 
 ### Design
 
