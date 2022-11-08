@@ -18,3 +18,14 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 (COMING SOON!) [Bootstrap 5 + Material Design 2.0](https://mdbootstrap.com/pro/) – Premium components, templates & plugins for Bootstrap 5, jQuery, Angular, React & Vue
 
+## 🛒 Templates
+
+#### 💸 [Bootstrap eCommerce](https://mdbootstrap.com/docs/standard/templates/pro/bootstrap-ecommerce/) – Ready to use html snippets and templates for creating e-commerce projects. Made for web designers and front-end developers
+
+#### 💸 [eCommerce Admin](https://mdbootstrap.com/docs/standard/templates/pro/admin-ecommerce/) – E-commerce dashboard template for shopping websites to create backend admin control panel, Bootstrap 5, Sketch, Figma
+
+#### 💸 [eCommerce UI Kit](https://mdbootstrap.com/docs/standard/templates/pro/uikit-ecommerce/) – A powerful system to design e-commerce web sites with a huge set of components and templates
+
+#### 💸 [Tailwind eCommerce](https://mdbootstrap.com/docs/standard/templates/pro/tailwind-ecommerce/) – Ready to use html snippets and templates for creating e-commerce projects. Made for web designers and front-end developers
+
+#### 💸 [Bootstrap Menu Kit](https://mdbootstrap.com/docs/standard/templates/pro/menu-kit/) – A collection of templates for different Bootstrap 5 menu & submenu configurations
