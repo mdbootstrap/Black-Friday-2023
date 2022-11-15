@@ -4,6 +4,12 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 ![blackfridaysale](https://user-images.githubusercontent.com/40147294/143610612-17152669-6ea2-41d1-bbe5-996b1e1fafa2.png)
 
+## NEWSLETTER 💌
+
+**[Join the newsletter](https://mdbootstrap.com/newsletter/)** to receive best Black Friday offers!
+
+-------------
+
 ## PROMO CONTENT 🎁 Free download!
 
 #### ⬛ [Cards Generator](https://mdbootstrap.com/bf/promo-content/) – generate your own black Friday cards or use clean, minimalist, and clear landing pages prepared to give the best possible exposure to the promoted products during Black Friday
