@@ -29,19 +29,19 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 ## 🛒 Templates
 
 #### 💸 [Bootstrap eCommerce](https://bootstrap-ecommerce.com/) – A powerful html library to develop e-commerce web sites with a huge set of components and templates
-Use code "github" to get it with 100% discount.
+Use code "github" to get it with **100% discount**.
 
 #### 💸 [eCommerce Admin](https://ecommerce-admin.com/) – E-commerce dashboard template for shopping websites to create backend admin control panel, Bootstrap 5, Sketch, Figma
-Use code "github" to get it with 100% discount.
+Use code "github" to get it with **100% discount**.
 
 #### 💸 [eCommerce UI Kit](https://ecommerce-uikit.com/) – A powerful system to design e-commerce web sites with a huge set of components and templates
-Use code "github" to get it with 100% discount.
+Use code "github" to get it with **100% discount**.
 
 #### 💸 [Tailwind eCommerce](https://tailwind-ecommerce.com/) – Ready to use html snippets and templates for creating e-commerce projects. Made for web designers and front-end developers
-Use code "github" to get it with 100% discount.
+Use code "github" to get it with **100% discount**.
 
 #### 💸 [Bootstrap Menu Kit](https://bootstrap-menu.com/) – A collection of templates for different Bootstrap 5 menu & submenu configurations
-Use code "github" to get it with 100% discount.
+Use code "github" to get it with **100% discount**.
 
 -------------
 
