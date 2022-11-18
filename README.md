@@ -108,3 +108,8 @@ Use code "github" to get it with **100% discount**.
 
 #### 💸 (FREE) [Social Media Management](https://www.udemy.com/course/social-media-for-business/)
 
+### Mobile Analytics & Marketing
+
+#### 💰 [Appfigures](https://appfigures.com/) - App Store Optimization Tools, App Intelligence, and Analytics 
+Use code "BF2250E" to get a **50% discount**.
+
