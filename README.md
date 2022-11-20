@@ -10,19 +10,15 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 -------------
 
-## PROMO CONTENT 🎁 Free download!
+## 🎁 UI Kit
 
-#### ⬛ [Cards Generator](https://mdbootstrap.com/bf/promo-content/) – generate your own black Friday cards or use clean, minimalist, and clear landing pages prepared to give the best possible exposure to the promoted products during Black Friday
+#### 💸 [Bootstrap 5 + Material Design 2.0](https://mdbootstrap.com/sale/november) – up to 40% OFF
 
-#### ⬛ [Black Friday Sale Template](https://mdbootstrap.com/snippets/standard/mdbootstrap/3408573) – clean, minimalist, and clear landing page prepared to give the best possible exposure to the promoted products during Black Friday
-
-#### ⬛ [Black Friday Coming Soon Template](https://mdbootstrap.com/snippets/standard/mdbootstrap/3420553) – responsive Coming Soon template created especially to prepare your clients for upcoming Black Friday Sale
-
--------------
-
-## 🛒 UI Kits
-
-#### 💸 (COMING SOON!) [Bootstrap 5 + Material Design 2.0](https://mdbootstrap.com/pro/) – Premium components, templates & plugins for Bootstrap 5, jQuery, Angular, React & Vue
+ - 5000+ premium components
+ - 490+ design blocks
+ - 100+ templates
+ - 25+ plugins 
+ - UI Kits for Bootstrap 5, jQuery, Angular, React & Vue
 
 -------------
 
@@ -107,4 +103,6 @@ Use code "github" to get it with **100% discount**.
 #### 💸 (FREE) [Advanced Social Media Marketing](https://www.udemy.com/course/social-media-marketing-plan/)
 
 #### 💸 (FREE) [Social Media Management](https://www.udemy.com/course/social-media-for-business/)
+
+
 
