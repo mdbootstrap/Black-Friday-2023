@@ -44,6 +44,7 @@ Use code "github" to get it with **100% discount**.
 ## 🛒 Apps
 
 #### 💸 (COMING SOON) [Adobe Creative Colud](https://www.adobe.com/cis_en/products/special-offers/black-friday.html) – Designer tools for desktop and mobile devices
+#### 💸 (50% off) [Trickster](https://www.apparentsoft.com/trickster) - (macOS) Recently modified and used files at your fingertips. Half price.
 
 #### Programming
 
