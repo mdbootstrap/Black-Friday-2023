@@ -43,6 +43,10 @@ Use code "github" to get it with **100% discount**.
 
 ## 🛒 Apps
 
+### Developer Tools
+#### 👩‍🚀 [Proxyman](https://proxyman.io/) – Modern. Native. Web Debugging Proxy for macOS, iOS, and Android. Capture & Inspect HTTP/HTTPS traffic with ease. Fully supports Apple M1 & macOS Ventura.
+Use code "PROXYMAN_BLACK_FRIDAY_2022" to get it with **30% discount**.
+
 #### 💸 (COMING SOON) [Adobe Creative Colud](https://www.adobe.com/cis_en/products/special-offers/black-friday.html) – Designer tools for desktop and mobile devices
 
 #### Programming
