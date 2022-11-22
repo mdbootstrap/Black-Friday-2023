@@ -43,6 +43,10 @@ Use code "github" to get it with **100% discount**.
 
 ## 🛒 Apps
 
+### Productivity
+#### 💰 [Timelog](https://timelog.link) – Time and goal tracking app for Android and iOS
+Use code "BLACKFRIDAY22" to get a **30% discount** off Timelog Plus (lifetime).
+
 #### 💸 (COMING SOON) [Adobe Creative Colud](https://www.adobe.com/cis_en/products/special-offers/black-friday.html) – Designer tools for desktop and mobile devices
 
 #### Programming
