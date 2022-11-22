@@ -44,6 +44,7 @@ Use code "github" to get it with **100% discount**.
 ## 🛒 Apps
 
 #### 💸 (COMING SOON) [Adobe Creative Colud](https://www.adobe.com/cis_en/products/special-offers/black-friday.html) – Designer tools for desktop and mobile devices
+#### 💸 (50% off) [Tower](https://www.git-tower.com/) - (macOS and Windows) Powerful Git client.
 
 #### Programming
 
