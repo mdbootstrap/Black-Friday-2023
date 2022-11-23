@@ -43,6 +43,15 @@ Use code "github" to get it with **30% discount**.
 
 ## 🛒 Apps
 
+### 📓 [Security For Everyone](https://securityforeveryone.com/products/continuous-security?utm_source=github&utm_medium=readme&utm_campaign=blackfriday) - Security For Everyone - Continuous Security Scanner & Unlimited Manual Scan.
+
+#### 💰 50% OFF
+
+#### 🎫 BLACKFRIDAY
+
+#### 🔗 https://securityforeveryone.com/blog/black-friday-discount-and-2022-statistics
+
+
 #### 💸 (COMING SOON) [Adobe Creative Colud](https://www.adobe.com/cis_en/products/special-offers/black-friday.html) – Designer tools for desktop and mobile devices
 
 #### Programming
