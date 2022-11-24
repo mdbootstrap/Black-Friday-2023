@@ -110,6 +110,7 @@ Use code "github" to get it with **30% discount**.
 
 #### 💸 [Samsung Black Friday](https://www.samsung.com/us/shop/all-deals/)
 
+#### 💸 [BusKill Black Friday](https://www.buskill.in/bitcoin-black-friday-2022/)
 
 ## 🛒 Tutorials, courses, learning
 
