@@ -19,6 +19,9 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
  - 100+ templates
  - 25+ plugins 
  - UI Kits for Bootstrap 5, jQuery, Angular, React & Vue
+ 
+ [![Black Friday deals for developers](https://mdbootstrap.com/img/Marketing/campaigns/blackfriday2022/black-friday.png)](https://mdbootstrap.com/sale/friday/)
+ 
 
 -------------
 
