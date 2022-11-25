@@ -195,6 +195,8 @@ Use code "github" to get it with **30% discount**.
 
 #### 📓 (70% OFF) [Tuturials Dojo](https://portal.tutorialsdojo.com/black-friday-sale/) - IT certification exams in different training modes
 
+#### 📓 (65% OFF) [Android Hacking](https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pentesting/?couponCode=BLACKFRIDAY) - Hacking Android Applications for Bug Bounty and Pentesting
+
 ## Webdesign
 
 #### 💸 (70% OFF) [Iconfinder](https://www.iconfinder.com/discountcode/blackfriday21) - Marketplace for vector and raster icons in SVG and PNG formats
