@@ -61,7 +61,6 @@ Use code "github" to get it with **30% discount**.
  -  WordPress support
 
  -  Git repository, FTP & Jenkins
-
  
 ## 🛒 Apps
 
@@ -72,6 +71,8 @@ Use code "github" to get it with **30% discount**.
 #### 💰 (33% OFF) [SVG Shaper for SwiftUI](https://apps.apple.com/us/app/svg-shaper-for-swiftui/id1566140414) – Convert simple SVG files to SwiftUI Shapes/Views
 
 #### 💸 (35% OFF) [Eager.app](https://eager.app/sale) - Customer Support Help Desk, Knowledge Base, Live Chat, and Notification Feed
+
+#### 💸 (40% OFF) [BoldDesk](https://www.bolddesk.com/black-friday) – Cloud based Modern ticketing system and knowledge base software
 
 ### Recording
 
