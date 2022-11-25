@@ -68,6 +68,8 @@ Use code "github" to get it with **100% discount** - but **watch out**, the proj
 
 #### 💸 (40% OFF) [Adobe Creative Colud](https://www.adobe.com/) – Designer tools for desktop and mobile devices
 
+#### 💸 (40% OFF) [BoldDesk](https://www.bolddesk.com/black-friday) – Cloud based Modern ticketing system and knowledge base software
+
 #### 💸 (25% OFF) [EagleFiler](https://c-command.com/eaglefiler/) - Organize files on your Mac, archive e-mails, save Web pages, search everything
 
 #### 💰 (33% OFF) [SVG Shaper for SwiftUI](https://apps.apple.com/us/app/svg-shaper-for-swiftui/id1566140414) – Convert simple SVG files to SwiftUI Shapes/Views
@@ -99,6 +101,8 @@ Use code "github" to get it with **100% discount** - but **watch out**, the proj
 #### 💸 (25% OFF) [ToothFairy](https://c-command.com/toothfairy/) - Connect Bluetooth devices to your Mac with a single click or keypress
 
 ## 🛒 Hardware
+
+#### 💸 [BusKill Black Friday](https://www.buskill.in/bitcoin-black-friday-2022/)
 
 #### 💸 [Amazon Black Friday](https://www.amazon.com/events/earlyblackfriday/)
 
@@ -138,6 +142,8 @@ Use code "github" to get it with **100% discount** - but **watch out**, the proj
 #### 💸 (FREE) [Practical PHP](https://www.udemy.com/course/code-dynamic-websites/)
 
 #### 💸 (FREE) [Learn Angular 4 from Scratch](https://www.udemy.com/course/learn-angular-from-scratch/)
+
+#### 📓 (65% OFF) [Android Hacking](https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pentesting/?couponCode=BLACKFRIDAY) - Hacking Android Applications for Bug Bounty and Pentesting
 
 #### and many more https://udemyfreecourses.org/category/all-development
 
