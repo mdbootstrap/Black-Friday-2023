@@ -76,6 +76,10 @@ Use code "github" to get it with **100% discount** - but **watch out**, the proj
 
 #### 💸 (35% OFF) [Eager.app](https://eager.app/sale) - Customer Support Help Desk, Knowledge Base, Live Chat, and Notification Feed
 
+#### 💰 [Tower](https://saas.blackfriday/tower) - Tower Git Client: The most powerful Git client for Mac and Windows
+
+Check out [saas.blackfriday](https://saas.blackfriday/) for discounts on marketing, sales, development, SEO, and CRM software that you won't find anywhere else.
+
 ### Recording
 
 #### 💸 (30% OFF) [WonderShare](https://www.wondershare.net/shop/) – Video editor for all creators with a huge drice drop [HERE](https://stacksocial.com/sales/wondershare-democreator-for-mac)
