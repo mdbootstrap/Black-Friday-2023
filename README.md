@@ -195,6 +195,8 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 ## Games
 
+#### 💸 [Steam Autumn Sale](https://store.steampowered.com) Starts on the 21 of November
+
 #### 💸 [GOG Pre-Black Friday Sale](https://www.gog.com/news/weekly_sale_a_black_friday_warmup_with_games_up_to_90_off)
 
 #### 💸 [Gamesradar Black Friday deals](https://www.gamesradar.com/black-friday-gaming-deals-2021/)
