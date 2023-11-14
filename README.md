@@ -10,7 +10,7 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 -------------
 
-## 🎁 Top Bootstrap UI Kits
+## 🎁 Top Bootstrap UI Kit
 
 #### 💸 [Bootstrap 5 + Material Design 2.0](https://mdbootstrap.com/sale/november/standard/) – up to 97% OFF
 
@@ -20,7 +20,7 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
  - 100+ plugins 
  - UI Kits for Bootstrap 5, jQuery, Angular, React & Vue
  
- [![BlackWeekMDBBlack medium](https://github.com/mdbootstrap/Black-Friday-2023/assets/143814532/6ba4be83-95c6-4b29-94bf-1fab79634e10)](https://mdbootstrap.com/sale/november/standard/)
+ [![BlackWeekMDBBlack medium](https://github-production-user-asset-6210df.s3.amazonaws.com/143814532/282777253-6ba4be83-95c6-4b29-94bf-1fab79634e10.png)](https://mdbootstrap.com/sale/november/standard/)
 
  
 
@@ -45,6 +45,8 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 (75% OFF) [BlueHost](https://www.bluehost.com/) – Affordable website creation and hosting
 
+#### 💸 (30% OFF for the first year) [Quick Elements](https://quickelements.com/) – Website Builder & Hosting. Code: GHCM30 = 30% off. Only for the first year, but still an interesting proposition
+
 #### ⭐ ($19) [MDBGO](https://mdbgo.com/) – Free alternative to paid hosting tools
 
  -  Free hosting for your apps & databases
@@ -62,39 +64,21 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
  
 ## 🛒 Apps
 
-#### 💸 (40% OFF) [Adobe Creative Colud](https://www.adobe.com/) – Designer tools for desktop and mobile devices
+#### 💸 (25% OFF) [Adobe Creative Colud](https://www.adobe.com/) – Designer tools for desktop and mobile devices
 
-#### 💸 (40% OFF) [BoldDesk](https://www.bolddesk.com/black-friday) – Cloud based Modern ticketing system and knowledge base software
-
-#### 💸 (25% OFF) [EagleFiler](https://c-command.com/eaglefiler/) - Organize files on your Mac, archive e-mails, save Web pages, search everything
-
-#### 💰 (33% OFF) [SVG Shaper for SwiftUI](https://apps.apple.com/us/app/svg-shaper-for-swiftui/id1566140414) – Convert simple SVG files to SwiftUI Shapes/Views
-
-#### 💸 (35% OFF) [Eager.app](https://eager.app/sale) - Customer Support Help Desk, Knowledge Base, Live Chat, and Notification Feed
-
-### Recording
-
-#### 💸 (30% OFF) [WonderShare](https://www.wondershare.net/shop/) – Video editor for all creators with a huge drice drop [HERE](https://stacksocial.com/sales/wondershare-democreator-for-mac)
-
-#### 💸 (30% OFF) [Zoom](https://zoom.us/billing/campaign?coupon=21BLACKFRIDAY30) – Cloud-based video communications app
+#### 💸 (50% OFF) [BoldDesk](https://www.bolddesk.com/black-friday) – Cloud based Modern ticketing system and knowledge base software. Code: BLACKFRIDAY50 = 50% off
 
 ### VPN
 
-#### 💸 (50% OFF) [KeepSolid](https://www.keepsolid.com/goals/lifetime-deal) – Personal virtual private network software with a huge drice drop [HERE](https://stacksocial.com/sales/vpn-unlimited-lifetime-subscription)
-
-#### 💸 (86% OFF) [NordVPN](https://nordvpn.com/) - Online VPN service that encrypts your internet traffic
+#### 💸 (69% OFF) [NordVPN](https://nordvpn.com/) - Online VPN service that encrypts your internet traffic
 
 #### 💸 (93% OFF) [FastestVPN](https://fastestvpn.com/vpn-deals) - Fastest VPN Service that allows to access blocked & restricted content
 
 ### Utilities
 
-#### 💸 (25% OFF) [DropDMG](https://c-command.com/dropdmg/) - Create Mac disk image (.dmg) files and archives
+#### 💸 (50% OFF) [Vocala](https://vocala.app/) - Nifty tool for learning & memorizing new words. Code: BLACKFRIDAY2023 = 50% off
 
-#### 💸 (25% OFF) [GetIpsum](https://apps.apple.com/app/getipsum/id1580281319) - Lorem Ipsum generator that sits in the MacOS menu bar
-
-#### 💸 (25% OFF) [SpamSieve](https://c-command.com/spamsieve/) - Save time by adding powerful spam filtering to the e-mail client on your Mac
-
-#### 💸 (25% OFF) [ToothFairy](https://c-command.com/toothfairy/) - Connect Bluetooth devices to your Mac with a single click or keypress
+#### 💸 (50% OFF) [Statused](https://statused.com) - Add your App Store & Google Play API keys and choose which apps to track and Statused will send info straight to your team's slack. Code: BLKFRD-AWESOME = 50% off for the first year
 
 ## 🛒 Hardware
 
