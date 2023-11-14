@@ -12,7 +12,7 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 ## 🎁 Top Bootstrap UI Kits
 
-#### 💸 [Bootstrap 5 + Material Design 2.0](https://mdbootstrap.com/sale/friday/) – up to 86% OFF
+#### 💸 [Bootstrap 5 + Material Design 2.0](https://mdbootstrap.com/sale/november/standard/) – up to 97% OFF
 
  - 20,000+ premium components
  - 800+ design blocks
@@ -20,7 +20,8 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
  - 100+ plugins 
  - UI Kits for Bootstrap 5, jQuery, Angular, React & Vue
  
- [![Black Friday deals for developers](https://mdbootstrap.com/img/Marketing/campaigns/blackfriday2022/black-friday.png)](https://mdbootstrap.com/sale/friday/)
+ [![Black Friday deals for developers](https://github.com/mdbootstrap/Black-Friday-2023/assets/143814532/1b2aafc7-9a1e-4d18-852e-43e7ec6a57d7)
+](https://mdbootstrap.com/sale/november/standard/)
  
 
 -------------
