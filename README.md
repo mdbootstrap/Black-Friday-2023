@@ -21,6 +21,7 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
  - UI Kits for Bootstrap 5, jQuery, Angular, React & Vue
  
  [![BlackWeekMDBBlack medium](https://github.com/mdbootstrap/Black-Friday-2023/assets/143814532/6ba4be83-95c6-4b29-94bf-1fab79634e10)](https://mdbootstrap.com/sale/november/standard/)
+
  
 
 -------------
