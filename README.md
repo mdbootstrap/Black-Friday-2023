@@ -82,10 +82,6 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 ## 🛒 Hardware
 
-#### 💸 [BusKill Black Friday](https://www.buskill.in/bitcoin-black-friday-2022/)
-
-#### 💸 [Amazon Black Friday](https://www.amazon.com/events/earlyblackfriday/)
-
 #### 💸 [Walmart Black Friday](https://www.walmart.com/shop/deals/)
 
 #### 💸 [BestBuy Black Friday](https://www.bestbuy.com/site/electronics/black-friday/pcmcat225600050002.c)
@@ -93,8 +89,6 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 💸 [Dell Black Friday](https://deals.dell.com/en-us)
 
 #### 💸 [Microsoft Black Friday](https://www.microsoft.com/en-us/)
-
-#### 💸 [Apple Black Friday](https://www.apple.com/shop/gifts/shopping-event)
 
 #### 💸 [Samsung Black Friday](https://www.samsung.com/us/shop/all-deals/)
 
