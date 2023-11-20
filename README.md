@@ -10,7 +10,26 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 -------------
 
-## 🎁 Top Bootstrap UI Kit
+## Table of Contents
+1. [Top Bootstrap UI Kit](#top-bootstrap-ui-kit)
+2. [Templates, Libraries & UI Kits](#templates-libraries--ui-kits)
+3. [Hosting](#hosting)
+4. [Apps](#apps)
+   - [VPN](#vpn)
+   - [Utilities](#utilities)
+5. [Hardware](#hardware)
+6. [Tutorials, Courses, Learning](#tutorials-courses-learning)
+   - [Programming](#programming)
+   - [Design](#design)
+   - [SEO & Marketing](#seo--marketing)
+   - [Books](#books)
+7. [Paid Courses](#paid-courses)
+8. [Webdesign](#webdesign)
+9. [Games](#games)
+
+-------------
+
+## 🎁Top Bootstrap UI Kit
 
 #### 💸 [Bootstrap 5 + Material Design 2.0](https://mdbootstrap.com/sale/november/standard/) – up to 97% OFF
 
@@ -23,10 +42,9 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
  [![BlackWeekMDBBlack medium](https://github-production-user-asset-6210df.s3.amazonaws.com/143814532/282777253-6ba4be83-95c6-4b29-94bf-1fab79634e10.png)](https://mdbootstrap.com/sale/november/standard/)
 
  
-
 -------------
 
-## 🛒 Templates, Libraries & UI Kits
+## 🛒Templates, Libraries & UI Kits
 
 #### 💸 [Livewire Demos](https://livewiredemos.com/) – Reusable Component Library for Laravel Livewire. Code: BLACKFRIDAY_2023 = 40% OFF
 
@@ -41,7 +59,7 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 -------------
 
 
-## 🛒 Hosting
+## 🛒Hosting
 
 #### 💸 (75% OFF) [BlueHost](https://www.bluehost.com/) – Affordable website creation and hosting
 
@@ -61,8 +79,31 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
  -  Git repository, FTP & Jenkins
 
+-------------
  
+
 ## 🛒 Apps
+
+#### 💸 (40% OFF) [Adobe Creative Colud](https://www.adobe.com/) – Designer tools for desktop and mobile devices
+
+#### 💸 (40% OFF) [BoldDesk](https://www.bolddesk.com/black-friday) – Cloud based Modern ticketing system and knowledge base software
+
+#### 💸 (25% OFF) [EagleFiler](https://c-command.com/eaglefiler/) - Organize files on your Mac, archive e-mails, save Web pages, search everything
+
+#### 💰 (33% OFF) [SVG Shaper for SwiftUI](https://apps.apple.com/us/app/svg-shaper-for-swiftui/id1566140414) – Convert simple SVG files to SwiftUI Shapes/Views
+
+#### 💸 (35% OFF) [Eager.app](https://eager.app/sale) - Customer Support Help Desk, Knowledge Base, Live Chat, and Notification Feed
+
+#### 💰 [Tower](https://saas.blackfriday/tower) - Tower Git Client: The most powerful Git client for Mac and Windows
+
+#### 💸 [saas.blackfriday](https://saas.blackfriday/) for discounts on marketing, sales, development, SEO, and CRM software that you won't find anywhere else.
+
+### Recording
+
+-------------
+
+## 🛒Apps
+
 
 #### 💸 (25% OFF) [Adobe Creative Colud](https://www.adobe.com/) – Designer tools for desktop and mobile devices
 
@@ -80,7 +121,12 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 (50% OFF) [Statused](https://statused.com) - Add your App Store & Google Play API keys and choose which apps to track and Statused will send info straight to your team's slack. Code: BLKFRD-AWESOME = 50% off for the first year
 
-## 🛒 Hardware
+#### 💸 (50% OFF) [Wins](https://wins.cool) - A New Mac Window Manager. Dock Window Previewer. Bring System-level Arrange Window features to Mac. Code: BLACKFRIDAY_2023 = 50% off for lifetime
+
+-------------
+
+## 🛒Hardware
+
 
 #### 💸 [Walmart Black Friday](https://www.walmart.com/shop/deals/)
 
@@ -92,8 +138,9 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 [Samsung Black Friday](https://www.samsung.com/us/shop/all-deals/)
 
+-------------
 
-## 🛒 Tutorials, courses, learning
+## 🛒Tutorials, courses, learning
 
 ### Udemy Free courses (https://udemyfreecourses.org/) 
 
@@ -117,7 +164,7 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 (FREE) [Learn Angular 4 from Scratch](https://www.udemy.com/course/learn-angular-from-scratch/)
 
-#### 📓 (65% OFF) [Android Hacking](https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pentesting/?couponCode=BLACKFRIDAY) - Hacking Android Applications for Bug Bounty and Pentesting
+#### 📓 (84% OFF) [Android Hacking](https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pentesting/?couponCode=BLACKFRIDAY) - Hacking Android Applications for Bug Bounty and Pentesting
 
 #### and many more https://udemyfreecourses.org/category/all-development
 
@@ -171,6 +218,8 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 (PAY WHAT YOOU WANT) [Deploying Elixir - FREE download](https://store.miguelcoba.com/l/deployingelixir)
 
+-------------
+
 ## Paid courses
 
 #### 📓 (40% OFF) [Vue School](https://vueschool.io/sales/blackfriday) - Tutorials courses in Vue.js 
@@ -178,6 +227,8 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 📓 (40% OFF) [Pluralsight](https://www.pluralsight.com/) - Courses for software developers, IT administrators, and creative professionals
 
 #### 📓 (70% OFF) [Tuturials Dojo](https://portal.tutorialsdojo.com/black-friday-sale/) - IT certification exams in different training modes
+
+-------------
 
 ## Webdesign
 
@@ -191,7 +242,7 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 (60% OFF) [Placeit](https://placeit.net/) - Mockup templates from your browser
 
-
+-------------
 
 ## Games
 
