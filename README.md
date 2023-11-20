@@ -164,7 +164,7 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 (FREE) [Learn Angular 4 from Scratch](https://www.udemy.com/course/learn-angular-from-scratch/)
 
-#### 📓 (65% OFF) [Android Hacking](https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pentesting/?couponCode=BLACKFRIDAY) - Hacking Android Applications for Bug Bounty and Pentesting
+#### 📓 (84% OFF) [Android Hacking](https://www.udemy.com/course/hacking-android-applications-for-bug-bounty-and-pentesting/?couponCode=BLACKFRIDAY) - Hacking Android Applications for Bug Bounty and Pentesting
 
 #### and many more https://udemyfreecourses.org/category/all-development
 
