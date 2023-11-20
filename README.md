@@ -1,5 +1,5 @@
 
-# 🖤 Black Friday 2022 🖤
+# 🖤 _Black Friday 2023_ 🖤
 A list of Back November, Black Friday & Cyber Monday promotions and discounts for web developers, programmers and software engineers
 
 ![blackfridaysale](https://user-images.githubusercontent.com/40147294/143610612-17152669-6ea2-41d1-bbe5-996b1e1fafa2.png)
@@ -10,9 +10,28 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 -------------
 
-## 🎁 Top Bootstrap UI Kits
+## Table of Contents
+1. [Top Bootstrap UI Kit](#top-bootstrap-ui-kit)
+2. [Templates, Libraries & UI Kits](#templates-libraries--ui-kits)
+3. [Hosting](#hosting)
+4. [Apps](#apps)
+   - [VPN](#vpn)
+   - [Utilities](#utilities)
+5. [Hardware](#hardware)
+6. [Tutorials, Courses, Learning](#tutorials-courses-learning)
+   - [Programming](#programming)
+   - [Design](#design)
+   - [SEO & Marketing](#seo--marketing)
+   - [Books](#books)
+7. [Paid Courses](#paid-courses)
+8. [Webdesign](#webdesign)
+9. [Games](#games)
 
-#### 💸 [Bootstrap 5 + Material Design 2.0](https://mdbootstrap.com/sale/friday/) – up to 86% OFF
+-------------
+
+## 🎁Top Bootstrap UI Kit
+
+#### 💸 [Bootstrap 5 + Material Design 2.0](https://mdbootstrap.com/sale/november/standard/) – up to 97% OFF
 
  - 20,000+ premium components
  - 800+ design blocks
@@ -20,34 +39,31 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
  - 100+ plugins 
  - UI Kits for Bootstrap 5, jQuery, Angular, React & Vue
  
- [![Black Friday deals for developers](https://mdbootstrap.com/img/Marketing/campaigns/blackfriday2022/black-friday.png)](https://mdbootstrap.com/sale/friday/)
+ [![BlackWeekMDBBlack medium](https://github-production-user-asset-6210df.s3.amazonaws.com/143814532/282777253-6ba4be83-95c6-4b29-94bf-1fab79634e10.png)](https://mdbootstrap.com/sale/november/standard/)
+
  
-
 -------------
 
-## 🛒 Templates
+## 🛒Templates, Libraries & UI Kits
 
-#### 💸 [Bootstrap eCommerce](https://bootstrap-ecommerce.com/) – A powerful html library to develop e-commerce web sites with a huge set of components and templates
-Use code "github" to get it with **100% discount** - but **watch out**, the project is not maintained anymore and is overall buggy. I would recommend you to use [MDbootstrap](https://mdbootstrap.com/) instead.
+#### 💸 [Livewire Demos](https://livewiredemos.com/) – Reusable Component Library for Laravel Livewire. Code: BLACKFRIDAY_2023 = 40% OFF
 
-#### 💸 [eCommerce Admin](https://ecommerce-admin.com/) – E-commerce dashboard template for shopping websites to create backend admin control panel, Bootstrap 5, Sketch, Figma
-Use code "github" to get it with **100% discount** - but **watch out**, the project is not maintained anymore and is overall buggy. I would recommend you to use [MDbootstrap](https://mdbootstrap.com/) instead.
+#### 💸 [Wpmet](https://wpmet.com/) – Company behind many well known WordPress products: WP Social, ElementsKit, ShopEngine, and MetForm. 40% Black Friday discount on many products inluding premium plugins. Overall a very good deal.
 
-#### 💸 [eCommerce UI Kit](https://ecommerce-uikit.com/) – A powerful system to design e-commerce web sites with a huge set of components and templates
-Use code "github" to get it with **100% discount** - but **watch out**, the project is not maintained anymore and is overall buggy. I would recommend you to use [MDbootstrap](https://mdbootstrap.com/) instead.
+#### 💸 [Crocoblock](https://crocoblock.com/?utm_source=twf-nikhila&utm_medium=referral&utm_campaign=black-friday-2023) – Rather extensive collection of  JetPlugins for WordPress users. Code: bfcroco2023 = 40% off
 
-#### 💸 [Tailwind eCommerce](https://tailwind-ecommerce.com/) – Ready to use html snippets and templates for creating e-commerce projects. Made for web designers and front-end developers
-Use code "github" to get it with **100% discount** - but **watch out**, the project is not maintained anymore and is overall buggy. I would recommend you to use [MDbootstrap](https://mdbootstrap.com/) instead.
+#### 💸 [MHThemes](https://mhthemes.com/themes/?) – Another WordPress goodie: This time a great collection of Themes for WordPress. Code BLACKFRIDAY23 = 40% off
 
-#### 💸 [Bootstrap Menu Kit](https://bootstrap-menu.com/) – A collection of templates for different Bootstrap 5 menu & submenu configurations
-Use code "github" to get it with **100% discount** - but **watch out**, the project is not maintained anymore and is overall buggy. I would recommend you to use [MDbootstrap](https://mdbootstrap.com/) instead.
+#### 💸 [BoilerCode](https://www.boilercode.co?ref=mdbootstrap) – Catalog of SaaS boilerplates to help you ship your next product super fast. Currently, it has boilerplates for NextJs SaaS, React, and Chrome Extension. Code: 50FRIDAY = 50% off
 
 -------------
 
 
-## 🛒 Hosting
+## 🛒Hosting
 
 #### 💸 (75% OFF) [BlueHost](https://www.bluehost.com/) – Affordable website creation and hosting
+
+#### 💸 (30% OFF for the first year) [Quick Elements](https://quickelements.com/) – Website Builder & Hosting. Code: GHCM30 = 30% off. Only for the first year, but still an interesting proposition
 
 #### ⭐ ($19) [MDBGO](https://mdbgo.com/) – Free alternative to paid hosting tools
 
@@ -63,7 +79,9 @@ Use code "github" to get it with **100% discount** - but **watch out**, the proj
 
  -  Git repository, FTP & Jenkins
 
+-------------
  
+
 ## 🛒 Apps
 
 #### 💸 (40% OFF) [Adobe Creative Colud](https://www.adobe.com/) – Designer tools for desktop and mobile devices
@@ -78,37 +96,37 @@ Use code "github" to get it with **100% discount** - but **watch out**, the proj
 
 #### 💰 [Tower](https://saas.blackfriday/tower) - Tower Git Client: The most powerful Git client for Mac and Windows
 
-Check out [saas.blackfriday](https://saas.blackfriday/) for discounts on marketing, sales, development, SEO, and CRM software that you won't find anywhere else.
+#### 💸 [saas.blackfriday](https://saas.blackfriday/) for discounts on marketing, sales, development, SEO, and CRM software that you won't find anywhere else.
 
 ### Recording
 
-#### 💸 (30% OFF) [WonderShare](https://www.wondershare.net/shop/) – Video editor for all creators with a huge drice drop [HERE](https://stacksocial.com/sales/wondershare-democreator-for-mac)
+-------------
 
-#### 💸 (30% OFF) [Zoom](https://zoom.us/billing/campaign?coupon=21BLACKFRIDAY30) – Cloud-based video communications app
+## 🛒Apps
+
+
+#### 💸 (25% OFF) [Adobe Creative Colud](https://www.adobe.com/) – Designer tools for desktop and mobile devices
+
+#### 💸 (50% OFF) [BoldDesk](https://www.bolddesk.com/black-friday) – Cloud based Modern ticketing system and knowledge base software. Code: BLACKFRIDAY50 = 50% off
 
 ### VPN
 
-#### 💸 (50% OFF) [KeepSolid](https://www.keepsolid.com/goals/lifetime-deal) – Personal virtual private network software with a huge drice drop [HERE](https://stacksocial.com/sales/vpn-unlimited-lifetime-subscription)
-
-#### 💸 (86% OFF) [NordVPN](https://nordvpn.com/) - Online VPN service that encrypts your internet traffic
+#### 💸 (69% OFF) [NordVPN](https://nordvpn.com/) - Online VPN service that encrypts your internet traffic
 
 #### 💸 (93% OFF) [FastestVPN](https://fastestvpn.com/vpn-deals) - Fastest VPN Service that allows to access blocked & restricted content
 
 ### Utilities
 
-#### 💸 (25% OFF) [DropDMG](https://c-command.com/dropdmg/) - Create Mac disk image (.dmg) files and archives
+#### 💸 (50% OFF) [Vocala](https://vocala.app/) - Nifty tool for learning & memorizing new words. Code: BLACKFRIDAY2023 = 50% off
 
-#### 💸 (25% OFF) [GetIpsum](https://apps.apple.com/app/getipsum/id1580281319) - Lorem Ipsum generator that sits in the MacOS menu bar
+#### 💸 (50% OFF) [Statused](https://statused.com) - Add your App Store & Google Play API keys and choose which apps to track and Statused will send info straight to your team's slack. Code: BLKFRD-AWESOME = 50% off for the first year
 
-#### 💸 (25% OFF) [SpamSieve](https://c-command.com/spamsieve/) - Save time by adding powerful spam filtering to the e-mail client on your Mac
+#### 💸 (50% OFF) [Wins](https://wins.cool) - A New Mac Window Manager. Dock Window Previewer. Bring System-level Arrange Window features to Mac. Code: BLACKFRIDAY_2023 = 50% off for lifetime
 
-#### 💸 (25% OFF) [ToothFairy](https://c-command.com/toothfairy/) - Connect Bluetooth devices to your Mac with a single click or keypress
+-------------
 
-## 🛒 Hardware
+## 🛒Hardware
 
-#### 💸 [BusKill Black Friday](https://www.buskill.in/bitcoin-black-friday-2022/)
-
-#### 💸 [Amazon Black Friday](https://www.amazon.com/events/earlyblackfriday/)
 
 #### 💸 [Walmart Black Friday](https://www.walmart.com/shop/deals/)
 
@@ -118,12 +136,11 @@ Check out [saas.blackfriday](https://saas.blackfriday/) for discounts on marketi
 
 #### 💸 [Microsoft Black Friday](https://www.microsoft.com/en-us/)
 
-#### 💸 [Apple Black Friday](https://www.apple.com/shop/gifts/shopping-event)
-
 #### 💸 [Samsung Black Friday](https://www.samsung.com/us/shop/all-deals/)
 
+-------------
 
-## 🛒 Tutorials, courses, learning
+## 🛒Tutorials, courses, learning
 
 ### Udemy Free courses (https://udemyfreecourses.org/) 
 
@@ -201,6 +218,8 @@ Check out [saas.blackfriday](https://saas.blackfriday/) for discounts on marketi
 
 #### 💸 (PAY WHAT YOOU WANT) [Deploying Elixir - FREE download](https://store.miguelcoba.com/l/deployingelixir)
 
+-------------
+
 ## Paid courses
 
 #### 📓 (40% OFF) [Vue School](https://vueschool.io/sales/blackfriday) - Tutorials courses in Vue.js 
@@ -208,6 +227,8 @@ Check out [saas.blackfriday](https://saas.blackfriday/) for discounts on marketi
 #### 📓 (40% OFF) [Pluralsight](https://www.pluralsight.com/) - Courses for software developers, IT administrators, and creative professionals
 
 #### 📓 (70% OFF) [Tuturials Dojo](https://portal.tutorialsdojo.com/black-friday-sale/) - IT certification exams in different training modes
+
+-------------
 
 ## Webdesign
 
@@ -221,9 +242,11 @@ Check out [saas.blackfriday](https://saas.blackfriday/) for discounts on marketi
 
 #### 💸 (60% OFF) [Placeit](https://placeit.net/) - Mockup templates from your browser
 
-
+-------------
 
 ## Games
+
+#### 💸 [Steam Autumn Sale](https://store.steampowered.com) Starts on the 21 of November
 
 #### 💸 [GOG Pre-Black Friday Sale](https://www.gog.com/news/weekly_sale_a_black_friday_warmup_with_games_up_to_90_off)
 
