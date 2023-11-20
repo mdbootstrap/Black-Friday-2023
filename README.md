@@ -53,7 +53,7 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 [MHThemes](https://mhthemes.com/themes/?) – Another WordPress goodie: This time a great collection of Themes for WordPress. Code BLACKFRIDAY23 = 40% off
 
-
+#### 💸 [BoilerCode](https://www.boilercode.co?ref=mdbootstrap) – Catalog of SaaS boilerplates to help you ship your next product super fast. Currently, it has boilerplates for NextJs SaaS, React, and Chrome Extension. Code: 50FRIDAY = 50% off
 
 -------------
 
