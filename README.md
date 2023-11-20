@@ -81,7 +81,29 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 -------------
  
+
+## 🛒 Apps
+
+#### 💸 (40% OFF) [Adobe Creative Colud](https://www.adobe.com/) – Designer tools for desktop and mobile devices
+
+#### 💸 (40% OFF) [BoldDesk](https://www.bolddesk.com/black-friday) – Cloud based Modern ticketing system and knowledge base software
+
+#### 💸 (25% OFF) [EagleFiler](https://c-command.com/eaglefiler/) - Organize files on your Mac, archive e-mails, save Web pages, search everything
+
+#### 💰 (33% OFF) [SVG Shaper for SwiftUI](https://apps.apple.com/us/app/svg-shaper-for-swiftui/id1566140414) – Convert simple SVG files to SwiftUI Shapes/Views
+
+#### 💸 (35% OFF) [Eager.app](https://eager.app/sale) - Customer Support Help Desk, Knowledge Base, Live Chat, and Notification Feed
+
+#### 💰 [Tower](https://saas.blackfriday/tower) - Tower Git Client: The most powerful Git client for Mac and Windows
+
+#### 💸 [saas.blackfriday](https://saas.blackfriday/) for discounts on marketing, sales, development, SEO, and CRM software that you won't find anywhere else.
+
+### Recording
+
+-------------
+
 ## 🛒Apps
+
 
 #### 💸 (25% OFF) [Adobe Creative Colud](https://www.adobe.com/) – Designer tools for desktop and mobile devices
 
