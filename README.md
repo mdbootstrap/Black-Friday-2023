@@ -27,6 +27,8 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 8. [Webdesign](#webdesign)
 9. [Games](#games)
 
+-------------
+
 ## 🎁Top Bootstrap UI Kit
 
 #### 💸 [Bootstrap 5 + Material Design 2.0](https://mdbootstrap.com/sale/november/standard/) – up to 97% OFF
@@ -40,7 +42,6 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
  [![BlackWeekMDBBlack medium](https://github-production-user-asset-6210df.s3.amazonaws.com/143814532/282777253-6ba4be83-95c6-4b29-94bf-1fab79634e10.png)](https://mdbootstrap.com/sale/november/standard/)
 
  
-
 -------------
 
 ## 🛒Templates, Libraries & UI Kits
@@ -78,6 +79,7 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
  -  Git repository, FTP & Jenkins
 
+-------------
  
 ## 🛒Apps
 
@@ -109,6 +111,7 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 [Samsung Black Friday](https://www.samsung.com/us/shop/all-deals/)
 
+-------------
 
 ## 🛒Tutorials, courses, learning
 
@@ -188,6 +191,8 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 (PAY WHAT YOOU WANT) [Deploying Elixir - FREE download](https://store.miguelcoba.com/l/deployingelixir)
 
+-------------
+
 ## Paid courses
 
 #### 📓 (40% OFF) [Vue School](https://vueschool.io/sales/blackfriday) - Tutorials courses in Vue.js 
@@ -195,6 +200,8 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 📓 (40% OFF) [Pluralsight](https://www.pluralsight.com/) - Courses for software developers, IT administrators, and creative professionals
 
 #### 📓 (70% OFF) [Tuturials Dojo](https://portal.tutorialsdojo.com/black-friday-sale/) - IT certification exams in different training modes
+
+-------------
 
 ## Webdesign
 
@@ -208,7 +215,7 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 (60% OFF) [Placeit](https://placeit.net/) - Mockup templates from your browser
 
-
+-------------
 
 ## Games
 
