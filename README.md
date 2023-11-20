@@ -80,6 +80,9 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 (50% OFF) [Statused](https://statused.com) - Add your App Store & Google Play API keys and choose which apps to track and Statused will send info straight to your team's slack. Code: BLKFRD-AWESOME = 50% off for the first year
 
+#### 💸 (50% OFF) [Wins](https://wins.cool) - A New Mac Window Manager. Dock Window Previewer. Bring System-level Arrange Window features to Mac. Code: BLACKFRIDAY_2023 = 50% off for lifetime
+
+
 ## 🛒 Hardware
 
 #### 💸 [Walmart Black Friday](https://www.walmart.com/shop/deals/)
