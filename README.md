@@ -10,7 +10,26 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 -------------
 
-## 🎁 Top Bootstrap UI Kit
+## Table of Contents
+1. [Top Bootstrap UI Kit](#top-bootstrap-ui-kit)
+2. [Templates, Libraries & UI Kits](#templates-libraries--ui-kits)
+3. [Hosting](#hosting)
+4. [Apps](#apps)
+   - [VPN](#vpn)
+   - [Utilities](#utilities)
+5. [Hardware](#hardware)
+6. [Tutorials, Courses, Learning](#tutorials-courses-learning)
+   - [Programming](#programming)
+   - [Design](#design)
+   - [SEO & Marketing](#seo--marketing)
+   - [Books](#books)
+7. [Paid Courses](#paid-courses)
+8. [Webdesign](#webdesign)
+9. [Games](#games)
+
+-------------
+
+## 🎁Top Bootstrap UI Kit
 
 #### 💸 [Bootstrap 5 + Material Design 2.0](https://mdbootstrap.com/sale/november/standard/) – up to 97% OFF
 
@@ -23,10 +42,9 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
  [![BlackWeekMDBBlack medium](https://github-production-user-asset-6210df.s3.amazonaws.com/143814532/282777253-6ba4be83-95c6-4b29-94bf-1fab79634e10.png)](https://mdbootstrap.com/sale/november/standard/)
 
  
-
 -------------
 
-## 🛒 Templates, Libraries & UI Kits
+## 🛒Templates, Libraries & UI Kits
 
 #### 💸 [Livewire Demos](https://livewiredemos.com/) – Reusable Component Library for Laravel Livewire. Code: BLACKFRIDAY_2023 = 40% OFF
 
@@ -36,12 +54,12 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 [MHThemes](https://mhthemes.com/themes/?) – Another WordPress goodie: This time a great collection of Themes for WordPress. Code BLACKFRIDAY23 = 40% off
 
-
+#### 💸 [BoilerCode](https://www.boilercode.co?ref=mdbootstrap) – Catalog of SaaS boilerplates to help you ship your next product super fast. Currently, it has boilerplates for NextJs SaaS, React, and Chrome Extension. Code: 50FRIDAY = 50% off
 
 -------------
 
 
-## 🛒 Hosting
+## 🛒Hosting
 
 #### 💸 (75% OFF) [BlueHost](https://www.bluehost.com/) – Affordable website creation and hosting
 
@@ -61,8 +79,9 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
  -  Git repository, FTP & Jenkins
 
+-------------
  
-## 🛒 Apps
+## 🛒Apps
 
 #### 💸 (25% OFF) [Adobe Creative Colud](https://www.adobe.com/) – Designer tools for desktop and mobile devices
 
@@ -82,8 +101,10 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 (50% OFF) [Wins](https://wins.cool) - A New Mac Window Manager. Dock Window Previewer. Bring System-level Arrange Window features to Mac. Code: BLACKFRIDAY_2023 = 50% off for lifetime
 
+-------------
 
-## 🛒 Hardware
+## 🛒Hardware
+
 
 #### 💸 [Walmart Black Friday](https://www.walmart.com/shop/deals/)
 
@@ -95,8 +116,9 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 [Samsung Black Friday](https://www.samsung.com/us/shop/all-deals/)
 
+-------------
 
-## 🛒 Tutorials, courses, learning
+## 🛒Tutorials, courses, learning
 
 ### Udemy Free courses (https://udemyfreecourses.org/) 
 
@@ -174,6 +196,8 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 (PAY WHAT YOOU WANT) [Deploying Elixir - FREE download](https://store.miguelcoba.com/l/deployingelixir)
 
+-------------
+
 ## Paid courses
 
 #### 📓 (40% OFF) [Vue School](https://vueschool.io/sales/blackfriday) - Tutorials courses in Vue.js 
@@ -181,6 +205,8 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 📓 (40% OFF) [Pluralsight](https://www.pluralsight.com/) - Courses for software developers, IT administrators, and creative professionals
 
 #### 📓 (70% OFF) [Tuturials Dojo](https://portal.tutorialsdojo.com/black-friday-sale/) - IT certification exams in different training modes
+
+-------------
 
 ## Webdesign
 
@@ -194,7 +220,7 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 (60% OFF) [Placeit](https://placeit.net/) - Mockup templates from your browser
 
-
+-------------
 
 ## Games
 
