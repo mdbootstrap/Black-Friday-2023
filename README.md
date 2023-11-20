@@ -10,7 +10,24 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 -------------
 
-## 🎁 Top Bootstrap UI Kit
+## Table of Contents
+1. [Top Bootstrap UI Kit](#top-bootstrap-ui-kit)
+2. [Templates, Libraries & UI Kits](#templates-libraries--ui-kits)
+3. [Hosting](#hosting)
+4. [Apps](#apps)
+   - [VPN](#vpn)
+   - [Utilities](#utilities)
+5. [Hardware](#hardware)
+6. [Tutorials, Courses, Learning](#tutorials-courses-learning)
+   - [Programming](#programming)
+   - [Design](#design)
+   - [SEO & Marketing](#seo--marketing)
+   - [Books](#books)
+7. [Paid Courses](#paid-courses)
+8. [Webdesign](#webdesign)
+9. [Games](#games)
+
+## 🎁Top Bootstrap UI Kit
 
 #### 💸 [Bootstrap 5 + Material Design 2.0](https://mdbootstrap.com/sale/november/standard/) – up to 97% OFF
 
@@ -26,7 +43,7 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 -------------
 
-## 🛒 Templates, Libraries & UI Kits
+## 🛒Templates, Libraries & UI Kits
 
 #### 💸 [Livewire Demos](https://livewiredemos.com/) – Reusable Component Library for Laravel Livewire. Code: BLACKFRIDAY_2023 = 40% OFF
 
@@ -41,7 +58,7 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 -------------
 
 
-## 🛒 Hosting
+## 🛒Hosting
 
 #### 💸 (75% OFF) [BlueHost](https://www.bluehost.com/) – Affordable website creation and hosting
 
@@ -62,7 +79,7 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
  -  Git repository, FTP & Jenkins
 
  
-## 🛒 Apps
+## 🛒Apps
 
 #### 💸 (25% OFF) [Adobe Creative Colud](https://www.adobe.com/) – Designer tools for desktop and mobile devices
 
@@ -80,7 +97,7 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 (50% OFF) [Statused](https://statused.com) - Add your App Store & Google Play API keys and choose which apps to track and Statused will send info straight to your team's slack. Code: BLKFRD-AWESOME = 50% off for the first year
 
-## 🛒 Hardware
+## 🛒Hardware
 
 #### 💸 [Walmart Black Friday](https://www.walmart.com/shop/deals/)
 
@@ -93,7 +110,7 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 💸 [Samsung Black Friday](https://www.samsung.com/us/shop/all-deals/)
 
 
-## 🛒 Tutorials, courses, learning
+## 🛒Tutorials, courses, learning
 
 ### Udemy Free courses (https://udemyfreecourses.org/) 
 
