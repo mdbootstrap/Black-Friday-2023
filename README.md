@@ -84,6 +84,8 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 ## 🛒 Apps
 
+#### 💸 (Lifetime license) [Exploit Pack](https://www.exploitpack.com/) – Advanced exploitation framework with 0days and 39.000+ exploits
+
 #### 💸 (40% OFF) [Adobe Creative Colud](https://www.adobe.com/) – Designer tools for desktop and mobile devices
 
 #### 💸 (40% OFF) [BoldDesk](https://www.bolddesk.com/black-friday) – Cloud based Modern ticketing system and knowledge base software
