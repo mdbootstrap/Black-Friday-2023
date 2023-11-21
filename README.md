@@ -90,7 +90,7 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 (40% OFF) [BoldDesk](https://www.bolddesk.com/black-friday) – Cloud based Modern ticketing system and knowledge base software
 
-#### 💸 (25% OFF) [EagleFiler](https://c-command.com/eaglefiler/) - Organize files on your Mac, archive e-mails, save Web pages, search everything
+#### 💰 (25% OFF) [EagleFiler](https://c-command.com/store/sale) - Organize files on your Mac, archive e-mails, save Web pages, search everything
 
 #### 💰 (33% OFF) [SVG Shaper for SwiftUI](https://apps.apple.com/us/app/svg-shaper-for-swiftui/id1566140414) – Convert simple SVG files to SwiftUI Shapes/Views
 
@@ -119,9 +119,13 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 ### Utilities
 
-#### 💸 (50% OFF) [Vocala](https://vocala.app/) - Nifty tool for learning & memorizing new words. Code: BLACKFRIDAY2023 = 50% off
+#### 💰 (25% OFF) [DropDMG](https://c-command.com/store/sale) - Create a professional Mac disk images
+
+#### 💰 (25% OFF) [SpamSieve](https://c-command.com/store/sale) - Add powerful spam filtering to the e-mail client on your Mac
 
 #### 💸 (50% OFF) [Statused](https://statused.com) - Add your App Store & Google Play API keys and choose which apps to track and Statused will send info straight to your team's slack. Code: BLKFRD-AWESOME = 50% off for the first year
+
+#### 💸 (50% OFF) [Vocala](https://vocala.app/) - Nifty tool for learning & memorizing new words. Code: BLACKFRIDAY2023 = 50% off
 
 #### 💸 (50% OFF) [Wins](https://wins.cool) - A New Mac Window Manager. Dock Window Previewer. Bring System-level Arrange Window features to Mac. Code: BLACKFRIDAY_2023 = 50% off for lifetime
 
