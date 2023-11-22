@@ -89,6 +89,10 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 ## 🛒 Apps
 
+#### 💰 (35% OFF) [Spaces macOS](https://spacesformac.xyz) - Declutter & organize your workspace on macOS in one single click 🎊
+
+#### 💰 (40% OFF) [Zen Mode macOS](https://zenmode.app) - Avoid those awkward moments in public places or in presentation meetings in 1-click
+
 #### 💸 (Lifetime license) [Exploit Pack](https://www.exploitpack.com/) – Advanced exploitation framework with 0days and 39.000+ exploits
 
 #### 💸 (40% OFF) [Adobe Creative Colud](https://www.adobe.com/) – Designer tools for desktop and mobile devices
@@ -162,6 +166,12 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 💸 (40% OFF) [GetGenie AI](https://getgenie.ai) - WordPress AI tool for SEO-optimised content & copywriting. It has 30+ ready-made templates and amazing use cases like SEO Keyword Analysis, SERP Competitor Analysis, On Page Optimization, Meta Description, Content Scoring, Blog Outline Creator, Blog Title Writer, Blog Article Assistant, Product Descriptions, Sales Copywriter, and many more. Enjoy up to 40% discount on GetGenie AI this Black Friday and increase your efficiency in writing SEO-optimized content on your WordPress website.
 
 #### 💸 (30% OFF) [ChatHub](https://chathub.gg) - All-in-one AI chatbot client. It allows you to chat with ChatGPT, Bing, Bard, Claude and more chatbots simultaneously. No monthly fee, buy once, use forever. Code: BLACKFRIDAY2023 = 30% OFF.
+
+#### 💰 (40% OFF) [Writers brew](https://writersbrew.app) - An AI assistant app perfect for everyday writing that turns your rough notes into finished drafts
+WRITE. IMPROVE. REPLY. SUMMARIZE. TRANSLATE. | 40% OFF
+
+#### 💸 (50% OFF) [Audio Writer iOS](https://audiowriter.app/) - No more "ums" or "ahs" in your transcripts.
+Get a clean, error-free transcript with improved grammar & punctuation. | 50% OFF
 
 -------------
 
