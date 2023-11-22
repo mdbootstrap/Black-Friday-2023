@@ -117,14 +117,6 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💰 (40% OFF) [Stage View](https://noteifyapp.com/stage-view/) - Stage View for macOS Ventura Stage Manager. [GET 40% OFF](http://sites.fastspring.com/noteifyapp/product/stageview?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023)
 
-
-### Recording
-
--------------
-
-## 🛒Apps
-
-
 #### 💸 (25% OFF) [Adobe Creative Colud](https://www.adobe.com/) – Designer tools for desktop and mobile devices
 
 #### 💸 (50% OFF) [BoldDesk](https://www.bolddesk.com/black-friday) – Cloud based Modern ticketing system and knowledge base software. Code: BLACKFRIDAY50 = 50% off
