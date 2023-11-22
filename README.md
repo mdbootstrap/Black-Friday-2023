@@ -59,6 +59,8 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 [Shipixen](https://shipixen.com?ref=black_friday_deals_by_maciejZimoch) - Make customized Next.js boilerplates & deploy to Vercel with a click. 50% on yearly plans with Discount code **`BF2023`** (Valid till 26th Nov)
 
+#### 💸 [Tailkit](https://tailkit.com?ref=black_friday_deals_by_maciejZimoch) - Carefully crafted, easy to customize, fully responsive UI Components, Templates and Tools for your Tailwind CSS based projects. 40% OFF on all licenses with discount code **`BLACKFRIDAY2023`**
+
 -------------
 
 
