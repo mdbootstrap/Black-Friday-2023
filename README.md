@@ -99,7 +99,7 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 (35% OFF) [Eager.app](https://eager.app/sale) - Customer Support Help Desk, Knowledge Base, Live Chat, and Notification Feed
 
-#### 💰 [Tower](https://saas.blackfriday/tower) - Tower Git Client: The most powerful Git client for Mac and Windows
+#### 💰 (50% OFF) [Tower](https://saas.blackfriday/tower) - Tower Git Client: The most powerful Git client for Mac and Windows
 
 #### 💸 [saas.blackfriday](https://saas.blackfriday/) for discounts on marketing, sales, development, SEO, and CRM software that you won't find anywhere else.
 
@@ -147,7 +147,6 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 (50% OFF) [Wins](https://wins.cool) - A New Mac Window Manager. Dock Window Previewer. Bring System-level Arrange Window features to Mac. Code: BLACKFRIDAY_2023 = 50% off for lifetime
 
-
 #### 💸 (50% OFF) [HabitLoop](https://apps.apple.com/us/app/habit-tracker-habitloop/id6471393755?ref=black_friday_deals_by_MaciejZimoch) - Intuitive Habit tracker with interactive widgets. 50% OFF on HabitLoop Pro (Lifetime) - Valid till 28th Nov
 
 #### 💸 (50% OFF) [ChatDox AI](https://www.chatdox.com/?ref=black_friday_deals_by_MaciejZimoch) - Your Personal AI Assistant. Give instructions to your AI personal assistant. Add multiple data sources, audios, videos, recordings, websites & multiple documents and chat with them in multi language. Flat 50% Off this Black Friday, Coupon Code: **`BF50`** (Valid till 30th Nov)
@@ -156,7 +155,17 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 ### AI
 
-#### 💸 (55% OFF) [MindMac](https://mindmac.app/) - Privacy-first & feature-rich native ChatGPT client for macOS to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter all in one place, designed for maximum productivity. Use code BLACKFRIDAY to get 55% OFF.
+#### 💸 (55% OFF) [MindMac](https://mindmac.app/) - Privacy-first & feature-rich native ChatGPT client for macOS to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter all in one place, designed for maximum productivity. Code: BLACKFRIDAY = 55% OFF.
+
+#### 💸 (40% OFF) [TypingMind](https://www.typingmind.com) - Advanced UI for ChatGPT/GPT-4/Claude. No monthly fee, no usage limit. Use your own API key. Advanced features: chat folders, search, export, prompt library, AI characters, Text-to-speech, Web Search, Plugins. Code: BLACKFRIDAY2023 = 40% OFF.
+
+#### 💸 (50% OFF) [QR Diffusion](https://qrdiffusion.com) - All-in-one AI chatbot client. It allows you to chat with ChatGPT, Bing, Bard, Claude and more chatbots simultaneously. No monthly fee, buy once, use forever. Code: BFCM2023 = 50% OFF.
+
+#### 💸 (50% OFF) [Localy](https://localy.ai) - Unlock the power of simple, user-friendly AI to generate effective content and images. Create easily & plagiarism-free content for emails, blogs, and websites 10X faster.
+
+#### 💸 (40% OFF) [GetGenie AI](https://getgenie.ai) - WordPress AI tool for SEO-optimised content & copywriting. It has 30+ ready-made templates and amazing use cases like SEO Keyword Analysis, SERP Competitor Analysis, On Page Optimization, Meta Description, Content Scoring, Blog Outline Creator, Blog Title Writer, Blog Article Assistant, Product Descriptions, Sales Copywriter, and many more. Enjoy up to 40% discount on GetGenie AI this Black Friday and increase your efficiency in writing SEO-optimized content on your WordPress website.
+
+#### 💸 (30% OFF) [ChatHub](https://chathub.gg) - All-in-one AI chatbot client. It allows you to chat with ChatGPT, Bing, Bard, Claude and more chatbots simultaneously. No monthly fee, buy once, use forever. Code: BLACKFRIDAY2023 = 30% OFF.
 
 -------------
 
