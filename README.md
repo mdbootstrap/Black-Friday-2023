@@ -17,6 +17,7 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 4. [Apps](#apps)
    - [VPN](#vpn)
    - [Utilities](#utilities)
+   - [AI](#ai)
 5. [Hardware](#hardware)
 6. [Tutorials, Courses, Learning](#tutorials-courses-learning)
    - [Programming](#programming)
@@ -129,6 +130,9 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 (50% OFF) [Wins](https://wins.cool) - A New Mac Window Manager. Dock Window Previewer. Bring System-level Arrange Window features to Mac. Code: BLACKFRIDAY_2023 = 50% off for lifetime
 
+### AI
+
+#### 💸 (55% OFF) [MindMac](https://mindmac.app/) - Privacy-first & feature-rich native ChatGPT client for macOS to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter all in one place, designed for maximum productivity. Use code BLACKFRIDAY to get 55% OFF.
 -------------
 
 ## 🛒Hardware
