@@ -107,6 +107,8 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💰 (50% OFF) [Tower](https://saas.blackfriday/tower) - Tower Git Client: The most powerful Git client for Mac and Windows
 
+#### 💰 (20% OFF) [Pixen](https://pixenapp.com) - Pixel art and animation editor for Mac and iOS
+
 #### 💸 [saas.blackfriday](https://saas.blackfriday/) for discounts on marketing, sales, development, SEO, and CRM software that you won't find anywhere else.
 
 #### 💰 (40% OFF) [DockView](https://noteifyapp.com/dockview/) - DockView: Enhance your Mac experience with live window previews in the Dock for easy application management. [GET 40% OFF](https://sites.fastspring.com/noteifyapp/product/buydockview?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023)
@@ -138,6 +140,12 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 💰 (25% OFF) [DropDMG](https://c-command.com/store/sale) - Create a professional Mac disk images
 
 #### 💰 (25% OFF) [SpamSieve](https://c-command.com/store/sale) - Add powerful spam filtering to the e-mail client on your Mac
+
+#### 💰 (20% OFF) [Xformat](https://furnacecreek.org/xformat) - Clang Format app and extension for Xcode
+
+#### 💰 (20% OFF) [Xloc](https://furnacecreek.org/xloc) - Count lines of code on Mac
+
+#### 💰 (20% OFF) [WebMap](https://furnacecreek.org/webmap) - Sitemap generator for Mac
 
 #### 💸 (50% OFF) [Statused](https://statused.com) - Add your App Store & Google Play API keys and choose which apps to track and Statused will send info straight to your team's slack. Code: BLKFRD-AWESOME = 50% off for the first year
 
