@@ -59,6 +59,8 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 [Shipixen](https://shipixen.com?ref=black_friday_deals_by_maciejZimoch) - Make customized Next.js boilerplates & deploy to Vercel with a click. 50% on yearly plans with Discount code **`BF2023`** (Valid till 26th Nov)
 
+#### 💸 [Tailkit](https://tailkit.com?ref=black_friday_deals_by_maciejZimoch) - Carefully crafted, easy to customize, fully responsive UI Components, Templates and Tools for your Tailwind CSS based projects. 40% OFF on all licenses with discount code **`BLACKFRIDAY2023`**
+
 -------------
 
 
@@ -87,6 +89,10 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 ## 🛒 Apps
 
+#### 💰 (35% OFF) [Spaces macOS](https://spacesformac.xyz) - Declutter & organize your workspace on macOS in one single click 🎊
+
+#### 💰 (40% OFF) [Zen Mode macOS](https://zenmode.app) - Avoid those awkward moments in public places or in presentation meetings in 1-click
+
 #### 💸 (Lifetime license) [Exploit Pack](https://www.exploitpack.com/) – Advanced exploitation framework with 0days and 39.000+ exploits
 
 #### 💸 (40% OFF) [Adobe Creative Colud](https://www.adobe.com/) – Designer tools for desktop and mobile devices
@@ -99,16 +105,23 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 (35% OFF) [Eager.app](https://eager.app/sale) - Customer Support Help Desk, Knowledge Base, Live Chat, and Notification Feed
 
-#### 💰 [Tower](https://saas.blackfriday/tower) - Tower Git Client: The most powerful Git client for Mac and Windows
+#### 💰 (50% OFF) [Tower](https://saas.blackfriday/tower) - Tower Git Client: The most powerful Git client for Mac and Windows
 
 #### 💸 [saas.blackfriday](https://saas.blackfriday/) for discounts on marketing, sales, development, SEO, and CRM software that you won't find anywhere else.
 
-### Recording
+#### 💰 (40% OFF) [DockView](https://noteifyapp.com/dockview/) - DockView: Enhance your Mac experience with live window previews in the Dock for easy application management. [GET 40% OFF](https://sites.fastspring.com/noteifyapp/product/buydockview?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023)
 
--------------
+#### 💰 (40% OFF) [ActiveDock](https://noteifyapp.com/activedock/) - ActiveDock 2: Customizable Dock for Mac. [GET 40% OFF](https://sites.fastspring.com/noteifyapp/product/activedock2?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023)
 
-## 🛒Apps
+#### 💰 (40% OFF) [Plus AI](https://noteifyapp.com/plus-ai/) - Plus AI: Your AI text assistant. [GET 40% OFF](https://sites.fastspring.com/noteifyapp/product/plusai?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023)
 
+#### 💰 (40% OFF) [Command-Tab Plus](https://noteifyapp.com/command-tab-plus/) - Keyboard-centric application and window switcher for your Mac. [GET 40% OFF](https://sites.fastspring.com/noteifyapp/product/commandtabplus2?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023)
+
+#### 💰 (40% OFF) [Tab Finder](https://noteifyapp.com/tab-finder/) -  A list of all your open tabs across all browser windows in one place. [GET 40% OFF](https://sites.fastspring.com/noteifyapp/product/tabfinder?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023)
+
+#### 💰 (40% OFF) [Quick Exposé](https://noteifyapp.com/quick-expose/) - Enhancing macOS Navigation Using Mission Control. [GET 40% OFF](https://sites.fastspring.com/noteifyapp/product/quickexpose?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023)
+
+#### 💰 (40% OFF) [Stage View](https://noteifyapp.com/stage-view/) - Stage View for macOS Ventura Stage Manager. [GET 40% OFF](http://sites.fastspring.com/noteifyapp/product/stageview?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023)
 
 #### 💸 (25% OFF) [Adobe Creative Colud](https://www.adobe.com/) – Designer tools for desktop and mobile devices
 
@@ -132,16 +145,33 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 (50% OFF) [Wins](https://wins.cool) - A New Mac Window Manager. Dock Window Previewer. Bring System-level Arrange Window features to Mac. Code: BLACKFRIDAY_2023 = 50% off for lifetime
 
-
 #### 💸 (50% OFF) [HabitLoop](https://apps.apple.com/us/app/habit-tracker-habitloop/id6471393755?ref=black_friday_deals_by_MaciejZimoch) - Intuitive Habit tracker with interactive widgets. 50% OFF on HabitLoop Pro (Lifetime) - Valid till 28th Nov
 
 #### 💸 (50% OFF) [ChatDox AI](https://www.chatdox.com/?ref=black_friday_deals_by_MaciejZimoch) - Your Personal AI Assistant. Give instructions to your AI personal assistant. Add multiple data sources, audios, videos, recordings, websites & multiple documents and chat with them in multi language. Flat 50% Off this Black Friday, Coupon Code: **`BF50`** (Valid till 30th Nov)
+
+#### 💸 (50% OFF) [Itemlist - Home Inventory App](https://getitemlist.app) - Track and organize your items, never forget where you put something again, and be prepared for home contents insurance - 50% off Lifetime PRO
 
 -------------
 
 ### AI
 
-#### 💸 (55% OFF) [MindMac](https://mindmac.app/) - Privacy-first & feature-rich native ChatGPT client for macOS to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter all in one place, designed for maximum productivity. Use code BLACKFRIDAY to get 55% OFF.
+#### 💸 (55% OFF) [MindMac](https://mindmac.app/) - Privacy-first & feature-rich native ChatGPT client for macOS to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter all in one place, designed for maximum productivity. Code: BLACKFRIDAY = 55% OFF.
+
+#### 💸 (40% OFF) [TypingMind](https://www.typingmind.com) - Advanced UI for ChatGPT/GPT-4/Claude. No monthly fee, no usage limit. Use your own API key. Advanced features: chat folders, search, export, prompt library, AI characters, Text-to-speech, Web Search, Plugins. Code: BLACKFRIDAY2023 = 40% OFF.
+
+#### 💸 (50% OFF) [QR Diffusion](https://qrdiffusion.com) - All-in-one AI chatbot client. It allows you to chat with ChatGPT, Bing, Bard, Claude and more chatbots simultaneously. No monthly fee, buy once, use forever. Code: BFCM2023 = 50% OFF.
+
+#### 💸 (50% OFF) [Localy](https://localy.ai) - Unlock the power of simple, user-friendly AI to generate effective content and images. Create easily & plagiarism-free content for emails, blogs, and websites 10X faster.
+
+#### 💸 (40% OFF) [GetGenie AI](https://getgenie.ai) - WordPress AI tool for SEO-optimised content & copywriting. It has 30+ ready-made templates and amazing use cases like SEO Keyword Analysis, SERP Competitor Analysis, On Page Optimization, Meta Description, Content Scoring, Blog Outline Creator, Blog Title Writer, Blog Article Assistant, Product Descriptions, Sales Copywriter, and many more. Enjoy up to 40% discount on GetGenie AI this Black Friday and increase your efficiency in writing SEO-optimized content on your WordPress website.
+
+#### 💸 (30% OFF) [ChatHub](https://chathub.gg) - All-in-one AI chatbot client. It allows you to chat with ChatGPT, Bing, Bard, Claude and more chatbots simultaneously. No monthly fee, buy once, use forever. Code: BLACKFRIDAY2023 = 30% OFF.
+
+#### 💰 (40% OFF) [Writers brew](https://writersbrew.app) - An AI assistant app perfect for everyday writing that turns your rough notes into finished drafts
+WRITE. IMPROVE. REPLY. SUMMARIZE. TRANSLATE. | 40% OFF
+
+#### 💸 (50% OFF) [Audio Writer iOS](https://audiowriter.app/) - No more "ums" or "ahs" in your transcripts.
+Get a clean, error-free transcript with improved grammar & punctuation. | 50% OFF
 
 -------------
 
