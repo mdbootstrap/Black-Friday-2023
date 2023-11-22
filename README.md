@@ -57,6 +57,8 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 [BoilerCode](https://www.boilercode.co?ref=mdbootstrap) – Catalog of SaaS boilerplates to help you ship your next product super fast. Currently, it has boilerplates for NextJs SaaS, React, and Chrome Extension. Code: 50FRIDAY = 50% off
 
+#### 💸 [Shipixen](https://shipixen.com?ref=black_friday_deals_by_maciejZimoch) - Make customized Next.js boilerplates & deploy to Vercel with a click. 50% on yearly plans with Discount code **`BF2023`** (Valid till 26th Nov)
+
 -------------
 
 
@@ -130,9 +132,17 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 (50% OFF) [Wins](https://wins.cool) - A New Mac Window Manager. Dock Window Previewer. Bring System-level Arrange Window features to Mac. Code: BLACKFRIDAY_2023 = 50% off for lifetime
 
+
+#### 💸 (50% OFF) [HabitLoop](https://apps.apple.com/us/app/habit-tracker-habitloop/id6471393755?ref=black_friday_deals_by_MaciejZimoch) - Intuitive Habit tracker with interactive widgets. 50% OFF on HabitLoop Pro (Lifetime) - Valid till 28th Nov
+
+#### 💸 (50% OFF) [ChatDox AI](https://www.chatdox.com/?ref=black_friday_deals_by_MaciejZimoch) - Your Personal AI Assistant. Give instructions to your AI personal assistant. Add multiple data sources, audios, videos, recordings, websites & multiple documents and chat with them in multi language. Flat 50% Off this Black Friday, Coupon Code: **`BF50`** (Valid till 30th Nov)
+
+-------------
+
 ### AI
 
 #### 💸 (55% OFF) [MindMac](https://mindmac.app/) - Privacy-first & feature-rich native ChatGPT client for macOS to use OpenAI, Azure OpenAI, Anthropic Claude, OpenRouter all in one place, designed for maximum productivity. Use code BLACKFRIDAY to get 55% OFF.
+
 -------------
 
 ## 🛒Hardware
