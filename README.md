@@ -61,6 +61,8 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 [Tailkit](https://tailkit.com?ref=black_friday_deals_by_maciejZimoch) - Carefully crafted, easy to customize, fully responsive UI Components, Templates and Tools for your Tailwind CSS based projects. 40% OFF on all licenses with discount code **`BLACKFRIDAY2023`**
 
+#### 💸 (75% OFF) [UiWidgets](https://www.uiwidgets.store/?ref=black_friday_deals_by_MaciejZimoch) - Effortlessly build, customize, and publish high-converting pages in minutes, complete with boilerplate codes for seamless backend integration. 75% off auto-applied on all packages (Valid till 31st Dec, 2023)
+
 -------------
 
 
@@ -172,6 +174,8 @@ WRITE. IMPROVE. REPLY. SUMMARIZE. TRANSLATE. | 40% OFF
 
 #### 💸 (50% OFF) [Audio Writer iOS](https://audiowriter.app/) - No more "ums" or "ahs" in your transcripts.
 Get a clean, error-free transcript with improved grammar & punctuation. | 50% OFF
+
+#### 💰 (20% OFF) [Elephas](https://elephas.app/?ref=black_friday_deals_by_MaciejZimoch) - Personal AI assistant for the Mac, iPhone and iPad - Your AI Powered Second Brain. 20% off on the lifetime deal for all plans - Standard, Pro and Pro Plus. Code: **`BFCM23`** (Valid till 27th Nov, 2023)
 
 -------------
 
