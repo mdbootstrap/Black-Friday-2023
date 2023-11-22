@@ -103,6 +103,21 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 [saas.blackfriday](https://saas.blackfriday/) for discounts on marketing, sales, development, SEO, and CRM software that you won't find anywhere else.
 
+#### 💰 (40% OFF) [DockView](https://noteifyapp.com/dockview/) - DockView: Enhance your Mac experience with live window previews in the Dock for easy application management. [GET 40% OFF](https://sites.fastspring.com/noteifyapp/product/buydockview?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023)
+
+#### 💰 (40% OFF) [ActiveDock](https://noteifyapp.com/activedock/) - ActiveDock 2: Customizable Dock for Mac. [GET 40% OFF](https://sites.fastspring.com/noteifyapp/product/activedock2?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023)
+
+#### 💰 (40% OFF) [Plus AI](https://noteifyapp.com/plus-ai/) - Plus AI: Your AI text assistant. [GET 40% OFF](https://sites.fastspring.com/noteifyapp/product/plusai?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023)
+
+#### 💰 (40% OFF) [Command-Tab Plus](https://noteifyapp.com/command-tab-plus/) - Keyboard-centric application and window switcher for your Mac. [GET 40% OFF](https://sites.fastspring.com/noteifyapp/product/commandtabplus2?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023)
+
+#### 💰 (40% OFF) [Tab Finder](https://noteifyapp.com/tab-finder/) -  A list of all your open tabs across all browser windows in one place. [GET 40% OFF](https://sites.fastspring.com/noteifyapp/product/tabfinder?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023)
+
+#### 💰 (40% OFF) [Quick Exposé](https://noteifyapp.com/quick-expose/) - Enhancing macOS Navigation Using Mission Control. [GET 40% OFF](https://sites.fastspring.com/noteifyapp/product/quickexpose?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023)
+
+#### 💰 (40% OFF) [Stage View](https://noteifyapp.com/stage-view/) - Stage View for macOS Ventura Stage Manager. [GET 40% OFF](http://sites.fastspring.com/noteifyapp/product/stageview?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023)
+
+
 ### Recording
 
 -------------
