@@ -189,6 +189,8 @@ Get a clean, error-free transcript with improved grammar & punctuation. | 50% OF
 
 #### 💰 (20% OFF) [Elephas](https://elephas.app/?ref=black_friday_deals_by_MaciejZimoch) - Personal AI assistant for the Mac, iPhone and iPad - Your AI Powered Second Brain. 20% off on the lifetime deal for all plans - Standard, Pro and Pro Plus. Code: **`BFCM23`** (Valid till 27th Nov, 2023)
 
+#### 💰 (50% OFF) [PDFPeer](https://pdfpeer.com) - Turn your PDF to AI with PDFPeer! From study materials to bank statements, PDFPeer makes it easy to chat with your documents. Get 50% OFF with promo code **BF50**. 
+
 -------------
 
 ## 🛒Hardware
