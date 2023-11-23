@@ -151,6 +151,8 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 (50% OFF) [Itemlist - Home Inventory App](https://getitemlist.app) - Track and organize your items, never forget where you put something again, and be prepared for home contents insurance - 50% off Lifetime PRO
 
+#### 💸 (50% off) [Trickster](https://www.apparentsoft.com/trickster) - (macOS) Recently used and edited files at your fingertips. 50% off.
+
 -------------
 
 ### AI
