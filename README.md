@@ -109,6 +109,8 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💰 (50% OFF) [Tower](https://saas.blackfriday/tower) - Tower Git Client: The most powerful Git client for Mac and Windows
 
+#### 💰 (20% OFF) [Pixen](https://pixenapp.com) - Pixel art and animation editor for Mac and iOS
+
 #### 💸 [saas.blackfriday](https://saas.blackfriday/) for discounts on marketing, sales, development, SEO, and CRM software that you won't find anywhere else.
 
 #### 💰 (40% OFF) [DockView](https://noteifyapp.com/dockview/) - DockView: Enhance your Mac experience with live window previews in the Dock for easy application management. [GET 40% OFF](https://sites.fastspring.com/noteifyapp/product/buydockview?option=show_contents&coupon=MACPLUSBLACKFRIDAY2023)
@@ -129,6 +131,8 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 (50% OFF) [BoldDesk](https://www.bolddesk.com/black-friday) – Cloud based Modern ticketing system and knowledge base software. Code: BLACKFRIDAY50 = 50% off
 
+#### 💸 (30% OFF) [Proxyman](https://proxyman.io/) - Debug HTTP/HTTPS Faster with Proxyman. Essential tools for iOS developers. Code: PROXYMAN_BLACKFRIDAY_2023 for 30% off
+
 ### VPN
 
 #### 💸 (69% OFF) [NordVPN](https://nordvpn.com/) - Online VPN service that encrypts your internet traffic
@@ -141,6 +145,12 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💰 (25% OFF) [SpamSieve](https://c-command.com/store/sale) - Add powerful spam filtering to the e-mail client on your Mac
 
+#### 💰 (20% OFF) [Xformat](https://furnacecreek.org/xformat) - Clang Format app and extension for Xcode
+
+#### 💰 (20% OFF) [Xloc](https://furnacecreek.org/xloc) - Count lines of code on Mac
+
+#### 💰 (20% OFF) [WebMap](https://furnacecreek.org/webmap) - Sitemap generator for Mac
+
 #### 💸 (50% OFF) [Statused](https://statused.com) - Add your App Store & Google Play API keys and choose which apps to track and Statused will send info straight to your team's slack. Code: BLKFRD-AWESOME = 50% off for the first year
 
 #### 💸 (50% OFF) [Vocala](https://vocala.app/) - Nifty tool for learning & memorizing new words. Code: BLACKFRIDAY2023 = 50% off
@@ -152,6 +162,8 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 #### 💸 (50% OFF) [ChatDox AI](https://www.chatdox.com/?ref=black_friday_deals_by_MaciejZimoch) - Your Personal AI Assistant. Give instructions to your AI personal assistant. Add multiple data sources, audios, videos, recordings, websites & multiple documents and chat with them in multi language. Flat 50% Off this Black Friday, Coupon Code: **`BF50`** (Valid till 30th Nov)
 
 #### 💸 (50% OFF) [Itemlist - Home Inventory App](https://getitemlist.app) - Track and organize your items, never forget where you put something again, and be prepared for home contents insurance - 50% off Lifetime PRO
+
+#### 💸 (50% off) [Trickster](https://www.apparentsoft.com/trickster) - (macOS) Recently used and edited files at your fingertips. 50% off.
 
 -------------
 
