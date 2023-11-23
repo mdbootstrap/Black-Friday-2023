@@ -127,6 +127,8 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 #### 💸 (50% OFF) [BoldDesk](https://www.bolddesk.com/black-friday) – Cloud based Modern ticketing system and knowledge base software. Code: BLACKFRIDAY50 = 50% off
 
+#### 💸 (30% OFF) [Proxyman](https://proxyman.io/) - Debug HTTP/HTTPS Faster with Proxyman. Essential tools for iOS developers. Code: PROXYMAN_BLACKFRIDAY_2023 for 30% off
+
 ### VPN
 
 #### 💸 (69% OFF) [NordVPN](https://nordvpn.com/) - Online VPN service that encrypts your internet traffic
