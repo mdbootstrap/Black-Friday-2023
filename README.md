@@ -285,6 +285,10 @@ Get a clean, error-free transcript with improved grammar & punctuation. | 50% OF
 
 ### Books
 
+#### 💸 (30% OFF) [Indexing Beyond the Basics](https://sqlfordevs.com/ebooks/indexing)
+
+#### 💸 (50% OFF) [Complete Guide to CSS Flex and Grid](https://shrutibalasa.gumroad.com/l/css-flex-and-grid) CODE: BLACKFRIDAY23
+
 #### 💸 (50% OFF) [Hands-On Python](https://www.amazon.com/dp/B09JM2ZCKW)
 
 #### 💸 (50% OFF) [eBook Writing Workflow for Developers - 30% off](https://store.miguelcoba.com/l/ebookwriting)
