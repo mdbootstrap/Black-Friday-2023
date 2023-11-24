@@ -32,7 +32,8 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 -------------
 
 ## 🎁Exclusive GitHub Discount Code
-Here is a coupon code for Material Design for Bootstrap. Available only here,  will grant you exclusive $30 discount ON TOP OF already discounted Black Friday offers. BF2023 - Dedicated GitHub discount, CODE: github
+Here is a coupon code for Material Design for Bootstrap. Available only here,  will grant you exclusive $30 discount ON TOP OF already discounted Black Friday offers.
+Just use code `github` on the checkout to claim the discount!
 
 -------------
 
