@@ -192,6 +192,8 @@ Get a clean, error-free transcript with improved grammar & punctuation. | 50% OF
 #### 💸 (90% OFF) [StealthGPT](https://stealthgpt.ai/?ref=black_friday_deals_by_MaciejZimoch) - Create or Remake AI Generated Content to be Undetectable.Code: **`BlackFriday`**, 90% off first month (Valid till 27th Nov, 2023)
 
 #### 💸 (51% OFF) [Codetoflow](http://codetoflow.com/?ref=black_friday_deals_by_MaciejZimoch) - Code to Flow enables you to Visualize, Analyze, and Understand Your Code by turning it into Interactive Flowcharts with AI. 51% off on all plans. Code: **`BLF51`** (Valid till 27th Nov, 2023)
+=======
+#### 💰 (50% OFF) [PDFPeer](https://pdfpeer.com) - Turn your PDF to AI with PDFPeer! From study materials to bank statements, PDFPeer makes it easy to chat with your documents. Get 50% OFF with promo code **BF50**. 
 
 -------------
 
