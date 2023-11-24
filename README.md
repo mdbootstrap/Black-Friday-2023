@@ -11,6 +11,7 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 -------------
 
 ## Table of Contents
+0. [Exclusive GitHub Discount Code](#exclusive-github-discount-code)
 1. [Top Bootstrap UI Kit](#top-bootstrap-ui-kit)
 2. [Templates, Libraries & UI Kits](#templates-libraries--ui-kits)
 3. [Hosting](#hosting)
