@@ -227,8 +227,6 @@ Get a clean, error-free transcript with improved grammar & punctuation. | 50% OF
 
 #### Programming
 
-#### 💸 (FREE) [C++ Tutorial for Complete Beginners](https://www.udemy.com/course/free-learn-c-tutorial-beginners/)
-
 #### 💸 (FREE) [Become an Android Developer from Scratch](https://www.udemy.com/course/become-an-android-developer-from-scratch/)
 
 #### 💸 (FREE) [R Basics - R Programming Language Introduction](https://www.udemy.com/course/r-basics/)
@@ -250,8 +248,6 @@ Get a clean, error-free transcript with improved grammar & punctuation. | 50% OF
 #### and many more https://udemyfreecourses.org/category/all-development
 
 ### Design
-
-#### 💸 (FREE) [How To Create A Website using WordPress](https://www.udemy.com/course/how-to-create-a-website-using-wordpress-step-by-step/)
 
 #### 💸 (FREE) [Professional Logo Design in Adobe Illustrator](https://www.udemy.com/course/professional-logo-design-crash-course/)
 
@@ -279,11 +275,9 @@ Get a clean, error-free transcript with improved grammar & punctuation. | 50% OF
 
 #### 💸 (FREE) [Copywriting Quick Start](https://www.udemy.com/course/copywritingquickstart/)
 
-#### 💸 (FREE) [Copywriting Insights Taught](https://www.udemy.com/course/copywriter/)
-
 #### 💸 (FREE) [Advanced Social Media Marketing](https://www.udemy.com/course/social-media-marketing-plan/)
 
-#### 💸 (FREE) [Social Media Management](https://www.udemy.com/course/social-media-for-business/)
+#### 💸 (69% OFF) [Social Media Management](https://www.udemy.com/course/social-media-for-business/)
 
 
 
@@ -301,9 +295,9 @@ Get a clean, error-free transcript with improved grammar & punctuation. | 50% OF
 
 ## Paid courses
 
-#### 📓 (40% OFF) [Vue School](https://vueschool.io/sales/blackfriday) - Tutorials courses in Vue.js 
+#### 📓 (60% OFF) [Vue School](https://vueschool.io/sales/blackfriday) - Tutorials courses in Vue.js 
 
-#### 📓 (40% OFF) [Pluralsight](https://www.pluralsight.com/) - Courses for software developers, IT administrators, and creative professionals
+#### 📓 (50% OFF) [Pluralsight](https://www.pluralsight.com/) - Courses for software developers, IT administrators, and creative professionals
 
 #### 📓 (70% OFF) [Tuturials Dojo](https://portal.tutorialsdojo.com/black-friday-sale/) - IT certification exams in different training modes
 
@@ -311,15 +305,11 @@ Get a clean, error-free transcript with improved grammar & punctuation. | 50% OF
 
 ## Webdesign
 
-#### 💸 (70% OFF) [Iconfinder](https://www.iconfinder.com/discountcode/blackfriday21) - Marketplace for vector and raster icons in SVG and PNG formats
-
-#### 💸 (72% OFF) [Mockplus](https://www.mockplus.com/buy/black-friday) - Design platform for prototyping, collaboration, and design systems
-
-#### 💸 (30% OFF) [Affinity](https://affinity.serif.com/en-us/) - Photo editing and graphic design software
+#### 💸 (40% OFF) [Affinity](https://affinity.serif.com/en-us/) - Photo editing and graphic design software
 
 #### 💸 (60% OFF) [Skylum](https://skylum.com/luminar-ai-b) - Photo editor for Mac & PC
 
-#### 💸 (60% OFF) [Placeit](https://placeit.net/) - Mockup templates from your browser
+#### 💸 (25% OFF) [Placeit](https://placeit.net/) - Mockup templates from your browser
 
 -------------
 
