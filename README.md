@@ -291,11 +291,9 @@ Get a clean, error-free transcript with improved grammar & punctuation. | 50% OF
 
 ### Books
 
-#### 💸 (PAY WHAT YOOU WANT) [Python Book Bundle](https://www.humblebundle.com/books/python-programming-oreilly-books)
+#### 💸 (50% OFF) [Hands-On Python](https://www.amazon.com/dp/B09JM2ZCKW)
 
-#### 💸 (96% OFF) [Hands-On Python](https://www.amazon.com/dp/B09JM2ZCKW)
-
-#### 💸 (33% OFF) [eBook Writing Workflow for Developers - 30% off](https://store.miguelcoba.com/l/ebookwriting)
+#### 💸 (50% OFF) [eBook Writing Workflow for Developers - 30% off](https://store.miguelcoba.com/l/ebookwriting)
 
 #### 💸 (PAY WHAT YOOU WANT) [Deploying Elixir - FREE download](https://store.miguelcoba.com/l/deployingelixir)
 
