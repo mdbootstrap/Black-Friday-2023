@@ -11,6 +11,7 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 -------------
 
 ## Table of Contents
+0. [Exclusive GitHub Discount Code](#exclusive-github-discount-code)
 1. [Top Bootstrap UI Kit](#top-bootstrap-ui-kit)
 2. [Templates, Libraries & UI Kits](#templates-libraries--ui-kits)
 3. [Hosting](#hosting)
@@ -30,9 +31,17 @@ A list of Back November, Black Friday & Cyber Monday promotions and discounts fo
 
 -------------
 
+## 🎁Exclusive GitHub Discount Code
+Here is a coupon code for Material Design for Bootstrap. Available only here,  will grant you exclusive $30 discount ON TOP OF already discounted Black Friday offers.
+Just use code `github` on the checkout to claim the discount!
+
+-------------
+
 ## 🎁Top Bootstrap UI Kit
 
 #### 💸 [Bootstrap 5 + Material Design 2.0](https://mdbootstrap.com/sale/november/standard/) – up to 97% OFF
+
+
 
  - 20,000+ premium components
  - 800+ design blocks
@@ -188,7 +197,14 @@ WRITE. IMPROVE. REPLY. SUMMARIZE. TRANSLATE. | 40% OFF
 Get a clean, error-free transcript with improved grammar & punctuation. | 50% OFF
 
 #### 💰 (20% OFF) [Elephas](https://elephas.app/?ref=black_friday_deals_by_MaciejZimoch) - Personal AI assistant for the Mac, iPhone and iPad - Your AI Powered Second Brain. 20% off on the lifetime deal for all plans - Standard, Pro and Pro Plus. Code: **`BFCM23`** (Valid till 27th Nov, 2023)
+
 #### 💸 (50% OFF) [ChatNBX](https://chat.nbox.ai/) - ChatNBX is an AI chat application that helps users generate text, images, and code. Get 50% off on our Plus subscription plan! Users can use the promo code 'BLACKFRIDAY50' to redeem the offer.  
+
+#### 💸 (90% OFF) [StealthGPT](https://stealthgpt.ai/?ref=black_friday_deals_by_MaciejZimoch) - Create or Remake AI Generated Content to be Undetectable.Code: **`BlackFriday`**, 90% off first month (Valid till 27th Nov, 2023)
+
+#### 💸 (51% OFF) [Codetoflow](http://codetoflow.com/?ref=black_friday_deals_by_MaciejZimoch) - Code to Flow enables you to Visualize, Analyze, and Understand Your Code by turning it into Interactive Flowcharts with AI. 51% off on all plans. Code: **`BLF51`** (Valid till 27th Nov, 2023)
+
+#### 💰 (50% OFF) [PDFPeer](https://pdfpeer.com) - Turn your PDF to AI with PDFPeer! From study materials to bank statements, PDFPeer makes it easy to chat with your documents. Get 50% OFF with promo code **BF50**. 
 
 -------------
 
@@ -213,8 +229,6 @@ Get a clean, error-free transcript with improved grammar & punctuation. | 50% OF
 
 #### Programming
 
-#### 💸 (FREE) [C++ Tutorial for Complete Beginners](https://www.udemy.com/course/free-learn-c-tutorial-beginners/)
-
 #### 💸 (FREE) [Become an Android Developer from Scratch](https://www.udemy.com/course/become-an-android-developer-from-scratch/)
 
 #### 💸 (FREE) [R Basics - R Programming Language Introduction](https://www.udemy.com/course/r-basics/)
@@ -236,8 +250,6 @@ Get a clean, error-free transcript with improved grammar & punctuation. | 50% OF
 #### and many more https://udemyfreecourses.org/category/all-development
 
 ### Design
-
-#### 💸 (FREE) [How To Create A Website using WordPress](https://www.udemy.com/course/how-to-create-a-website-using-wordpress-step-by-step/)
 
 #### 💸 (FREE) [Professional Logo Design in Adobe Illustrator](https://www.udemy.com/course/professional-logo-design-crash-course/)
 
@@ -265,11 +277,9 @@ Get a clean, error-free transcript with improved grammar & punctuation. | 50% OF
 
 #### 💸 (FREE) [Copywriting Quick Start](https://www.udemy.com/course/copywritingquickstart/)
 
-#### 💸 (FREE) [Copywriting Insights Taught](https://www.udemy.com/course/copywriter/)
-
 #### 💸 (FREE) [Advanced Social Media Marketing](https://www.udemy.com/course/social-media-marketing-plan/)
 
-#### 💸 (FREE) [Social Media Management](https://www.udemy.com/course/social-media-for-business/)
+#### 💸 (69% OFF) [Social Media Management](https://www.udemy.com/course/social-media-for-business/)
 
 
 
@@ -277,11 +287,13 @@ Get a clean, error-free transcript with improved grammar & punctuation. | 50% OF
 
 ### Books
 
-#### 💸 (PAY WHAT YOOU WANT) [Python Book Bundle](https://www.humblebundle.com/books/python-programming-oreilly-books)
+#### 💸 (30% OFF) [Indexing Beyond the Basics](https://sqlfordevs.com/ebooks/indexing)
 
-#### 💸 (96% OFF) [Hands-On Python](https://www.amazon.com/dp/B09JM2ZCKW)
+#### 💸 (50% OFF) [Complete Guide to CSS Flex and Grid](https://shrutibalasa.gumroad.com/l/css-flex-and-grid) CODE: BLACKFRIDAY23
 
-#### 💸 (33% OFF) [eBook Writing Workflow for Developers - 30% off](https://store.miguelcoba.com/l/ebookwriting)
+#### 💸 (50% OFF) [Hands-On Python](https://www.amazon.com/dp/B09JM2ZCKW)
+
+#### 💸 (50% OFF) [eBook Writing Workflow for Developers - 30% off](https://store.miguelcoba.com/l/ebookwriting)
 
 #### 💸 (PAY WHAT YOOU WANT) [Deploying Elixir - FREE download](https://store.miguelcoba.com/l/deployingelixir)
 
@@ -289,9 +301,9 @@ Get a clean, error-free transcript with improved grammar & punctuation. | 50% OF
 
 ## Paid courses
 
-#### 📓 (40% OFF) [Vue School](https://vueschool.io/sales/blackfriday) - Tutorials courses in Vue.js 
+#### 📓 (60% OFF) [Vue School](https://vueschool.io/sales/blackfriday) - Tutorials courses in Vue.js 
 
-#### 📓 (40% OFF) [Pluralsight](https://www.pluralsight.com/) - Courses for software developers, IT administrators, and creative professionals
+#### 📓 (50% OFF) [Pluralsight](https://www.pluralsight.com/) - Courses for software developers, IT administrators, and creative professionals
 
 #### 📓 (70% OFF) [Tuturials Dojo](https://portal.tutorialsdojo.com/black-friday-sale/) - IT certification exams in different training modes
 
@@ -299,15 +311,11 @@ Get a clean, error-free transcript with improved grammar & punctuation. | 50% OF
 
 ## Webdesign
 
-#### 💸 (70% OFF) [Iconfinder](https://www.iconfinder.com/discountcode/blackfriday21) - Marketplace for vector and raster icons in SVG and PNG formats
-
-#### 💸 (72% OFF) [Mockplus](https://www.mockplus.com/buy/black-friday) - Design platform for prototyping, collaboration, and design systems
-
-#### 💸 (30% OFF) [Affinity](https://affinity.serif.com/en-us/) - Photo editing and graphic design software
+#### 💸 (40% OFF) [Affinity](https://affinity.serif.com/en-us/) - Photo editing and graphic design software
 
 #### 💸 (60% OFF) [Skylum](https://skylum.com/luminar-ai-b) - Photo editor for Mac & PC
 
-#### 💸 (60% OFF) [Placeit](https://placeit.net/) - Mockup templates from your browser
+#### 💸 (25% OFF) [Placeit](https://placeit.net/) - Mockup templates from your browser
 
 -------------
 
