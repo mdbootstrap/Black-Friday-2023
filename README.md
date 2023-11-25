@@ -72,6 +72,8 @@ Just use code `github` on the checkout to claim the discount!
 
 #### 💸 (75% OFF) [UiWidgets](https://www.uiwidgets.store/?ref=black_friday_deals_by_MaciejZimoch) - Effortlessly build, customize, and publish high-converting pages in minutes, complete with boilerplate codes for seamless backend integration. 75% off auto-applied on all packages (Valid till 31st Dec, 2023)
 
+#### 💸 (75% OFF and ) [RunApp.Today](runapp.today) - Propel your AI web app from concept to market with the ideal boilerplate (pre order). 75% off applied, plus each of the first buyers can request a customized feature (Valid till 31st Dec, 2023)
+
 -------------
 
 
