@@ -142,6 +142,8 @@ Just use code `github` on the checkout to claim the discount!
 
 #### 💸 (30% OFF) [Proxyman](https://proxyman.io/) - Debug HTTP/HTTPS Faster with Proxyman. Essential tools for iOS developers. Code: PROXYMAN_BLACKFRIDAY_2023 for 30% off
 
+#### 💸 (95% OFF) [PROCESIO](https://procesio.com/) - Your A to Z Automation Platform. Simplify and Optimize your Entire Applications Suite vs. just implementing linear flows and predefined connectors. React and comment to this [LinkedIn](https://www.linkedin.com/feed/update/urn:li:activity:7134827335073054721) post and receive your **`95% discount`**.
+
 ### VPN
 
 #### 💸 (69% OFF) [NordVPN](https://nordvpn.com/) - Online VPN service that encrypts your internet traffic
